@@ -34,18 +34,21 @@ All scripts are in `scripts/` and write to `results/`. Run them from inside `scr
 
 | Step | Script | Output in `results/` | Used in the article |
 |---|---|---|---|
-| 1 | `run_rq12.py GBM` and `run_rq12.py MLR,SAM` | `predictions_GBM.csv`, `predictions_MLR_SAM.csv` | out-of-sample predictions for all schemes |
+| 1 | `run_rq12.py GBM`, `run_rq12.py MLR,SAM`, `run_rq12.py MEAN`, `run_rq12.py SAM_NOINT` | `predictions_*.csv` | out-of-sample predictions for all schemes (MEAN: null predictor; SAM_NOINT: SAM without interactions) |
 | 2 | `summarize_rq12.py` | `table_rq12_metrics.csv`, `table_loso_per_study.csv`, `table_rq2_paired.csv` | Tables 2, 3, 5 and 6 |
-| 3 | `ratio_consistent.py` | `robust_ratio_studyweighted.csv` | error-inflation ratios, Table 3 |
+| 3 | `ratio_consistent.py`, `stats_paired.py` | `robust_ratio_studyweighted.csv`, `robust_ratio_paired.csv`, `robust_rho_diff.csv`, `robust_tost.csv`, `robust_summaries.csv` | Table 3, Section 3.5 (paired bootstrap, TOST, median errors, weighting) |
 | 4 | `run_grouped_trees.py`, then `tree_selection.py` | `robust_predictions_GBM_groupedtrees.csv`, `robust_tree_selection.csv` | Table 4 |
+| 4b | `run_gbm_leaves.py`, then `summarize_gbm_leaves.py` | `robust_predictions_GBM_leaves.csv`, `robust_gbm_leaves.csv` | sensitivity to J, Section 3.3 |
+| 4c | `run_logac.py`, then `summarize_logac.py` | `robust_predictions_LOGAC.csv`, `robust_logac_summary.csv` | leave-one-adsorbent-out, Section 3.3 |
 | 5 | `epa_external.py` | `epa_external.csv` | Table 8 |
 | 6 | `robustness.py` | `robust_bootstrap_ci.csv`, `robust_safety_factor.csv`, `robust_pilot_overprediction_ci.csv`, `robust_flag_sensitivity.csv`, `robust_epa_domain_*.csv` | Table 3 (CIs), Table 7, Sections 3.3, 3.4 and 3.7 |
 | 7 | `run_rq3.py`, then `summarize_rq3.py` | `rq3_bounds.csv`, `table_rq3_tradeoff.csv` | nested study-level calibration, Section 3.6 |
 | 8 | `run_nested_loco.py`, then `summarize_nested_loco.py` | `nested_loco_bounds.csv`, `robust_nested_loco.csv` | nested campaign-level calibration, Section 3.6 |
-| 9 | `epa_eval.py`, `epa_safety_factors.py` | `table_epa_summary.csv`, `robust_epa_loco_factor.csv` | Table 9 |
+| 8b | `controlling_compound.py` | `robust_controlling_compound.csv` | controlling compound, Section 3.6 |
+| 9 | `epa_eval.py`, `epa_safety_factors.py`, `epa_sensitivity.py` | `table_epa_summary.csv`, `robust_epa_loco_factor.csv`, `robust_epa_sensitivity.csv` | Table 9, Section 3.7 |
 | 10 | `fig1_lines.py`, `fig1_plot.py`, `figures.py` | `fig1_validation_schemes.png/.pdf`, `fig2_loso_per_study.png` | Figs. 1 and 2 |
 
-Steps 1, 4, 7 and 8 refit the models many times and are the time-consuming part of the analysis;
+Steps 1, 4, 4b, 4c, 7 and 8 refit the models many times and are the time-consuming part of the analysis;
 the other steps take seconds to a few minutes. Random number generators are seeded, so all results
 are reproducible.
 

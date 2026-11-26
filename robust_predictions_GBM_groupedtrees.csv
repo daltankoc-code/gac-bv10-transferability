@@ -1,0 +1,869 @@
+row,study,campaign,flag,y,scale,matrix_type,Label,pred,scheme,rep,model,n_trees
+0,1,0,0,3.7728754,pilot/full,Treated WW,original_test_set,4.039148537728352,original,0,GBM_groupedtrees,194
+7,1,0,0,3.620574127,pilot/full,Treated WW,original_test_set,3.4256823067389477,original,0,GBM_groupedtrees,194
+9,1,0,1,4.033291752,pilot/full,Treated WW,original_test_set,3.4256823067389477,original,0,GBM_groupedtrees,194
+10,1,0,0,3.369491602,pilot/full,Treated WW,original_test_set,3.7255350364690947,original,0,GBM_groupedtrees,194
+14,16,1,0,4.792391689,pilot/full,surface water,original_test_set,4.743369462997332,original,0,GBM_groupedtrees,194
+21,16,1,1,4.716003344,pilot/full,surface water,original_test_set,4.808933229333238,original,0,GBM_groupedtrees,194
+24,16,1,0,4.924279286,pilot/full,surface water,original_test_set,4.811671565909914,original,0,GBM_groupedtrees,194
+31,16,1,0,4.146128036,pilot/full,surface water,original_test_set,4.015846934352564,original,0,GBM_groupedtrees,194
+32,16,1,0,4.176091259,pilot/full,surface water,original_test_set,4.20110593895219,original,0,GBM_groupedtrees,194
+34,16,1,0,4.698970004,pilot/full,synthetic surface water,original_test_set,4.558685359343389,original,0,GBM_groupedtrees,194
+42,16,1,0,4.832508913,pilot/full,surface water,original_test_set,4.844764414456941,original,0,GBM_groupedtrees,194
+52,16,1,0,4.740362689,pilot/full,synthetic surface water,original_test_set,4.738813994910088,original,0,GBM_groupedtrees,194
+59,16,1,1,4.681241237,pilot/full,synthetic surface water,original_test_set,4.860980638772363,original,0,GBM_groupedtrees,194
+91,19,2,0,3.991428155,pilot/full,groundwater,original_test_set,4.1704872578051395,original,0,GBM_groupedtrees,194
+93,19,2,1,4.052610845,pilot/full,groundwater,original_test_set,4.27365309112005,original,0,GBM_groupedtrees,194
+94,19,2,0,4.152087052,pilot/full,groundwater,original_test_set,4.258084376488824,original,0,GBM_groupedtrees,194
+95,19,2,1,4.081764683,pilot/full,groundwater,original_test_set,4.164539081889591,original,0,GBM_groupedtrees,194
+101,19,2,1,4.112080362,pilot/full,groundwater,original_test_set,4.025623696238739,original,0,GBM_groupedtrees,194
+103,19,2,0,4.170519464,pilot/full,groundwater,original_test_set,4.24308333154615,original,0,GBM_groupedtrees,194
+105,19,2,0,4.42709088,pilot/full,groundwater,original_test_set,4.330680450229835,original,0,GBM_groupedtrees,194
+108,19,2,0,4.21974497647267,pilot/full,groundwater,original_test_set,4.212940967558677,original,0,GBM_groupedtrees,194
+110,19,2,0,4.11316232739591,pilot/full,groundwater,original_test_set,4.220915684076565,original,0,GBM_groupedtrees,194
+112,19,2,1,4.417405214,pilot/full,groundwater,original_test_set,4.4014509988460215,original,0,GBM_groupedtrees,194
+115,19,2,1,3.969678939,pilot/full,groundwater,original_test_set,3.933048896046241,original,0,GBM_groupedtrees,194
+117,19,2,0,4.039207236,pilot/full,groundwater,original_test_set,3.892923613728698,original,0,GBM_groupedtrees,194
+118,19,2,0,3.929890062,pilot/full,groundwater,original_test_set,4.077578767998083,original,0,GBM_groupedtrees,194
+124,19,2,1,4.044957851,pilot/full,groundwater,original_test_set,4.162967970424605,original,0,GBM_groupedtrees,194
+144,50,4,0,3.292450705,pilot/full,surface water,original_test_set,3.690948851516131,original,0,GBM_groupedtrees,194
+147,50,4,0,3.737304101,pilot/full,surface water,original_test_set,3.487761970311327,original,0,GBM_groupedtrees,194
+151,50,4,1,3.876206583,pilot/full,surface water,original_test_set,3.9001751045921518,original,0,GBM_groupedtrees,194
+154,50,4,0,3.68169817,pilot/full,surface water,original_test_set,3.715660492132944,original,0,GBM_groupedtrees,194
+156,50,4,1,4.154293485,pilot/full,surface water,original_test_set,4.085194976207543,original,0,GBM_groupedtrees,194
+158,50,4,0,2.973747188,pilot/full,surface water,original_test_set,3.4436550164305535,original,0,GBM_groupedtrees,194
+163,50,4,1,3.721238623,pilot/full,surface water,original_test_set,3.58892999863832,original,0,GBM_groupedtrees,194
+167,50,4,1,3.924686625,pilot/full,surface water,original_test_set,3.889723492221363,original,0,GBM_groupedtrees,194
+169,50,4,1,4.19188477,pilot/full,surface water,original_test_set,3.7721696918350633,original,0,GBM_groupedtrees,194
+172,50,4,1,3.93050939,pilot/full,surface water,original_test_set,3.9135833008603362,original,0,GBM_groupedtrees,194
+268,58,6,0,3.707570176,pilot/full,groundwater,original_test_set,3.725883945418648,original,0,GBM_groupedtrees,194
+275,60,8,0,4.364584715,pilot/full,surface water,original_test_set,4.650292624275974,original,0,GBM_groupedtrees,194
+283,60,8,0,4.261138232,pilot/full,surface water,original_test_set,4.521925273297653,original,0,GBM_groupedtrees,194
+287,60,8,0,3.879743834,pilot/full,surface water,original_test_set,4.290906067035219,original,0,GBM_groupedtrees,194
+405,79,1,0,4.417945715,pilot/full,surface water,original_test_set,4.307282623099968,original,0,GBM_groupedtrees,194
+0,1,0,0,3.7728754,pilot/full,Treated WW,original_test_set,4.337608589719206,LOSO,1,GBM_groupedtrees,393
+1,1,0,0,3.778718715,pilot/full,Treated WW,UV_training_set,4.291144821201607,LOSO,1,GBM_groupedtrees,393
+2,1,0,0,3.030080778,pilot/full,Treated WW,UV_training_set,3.6262633683004752,LOSO,1,GBM_groupedtrees,393
+3,1,0,0,3.261340187,pilot/full,Treated WW,UV_training_set,3.672727136818075,LOSO,1,GBM_groupedtrees,393
+4,1,0,0,3.783464209,pilot/full,Treated WW,UV_training_set,3.7404385433207223,LOSO,1,GBM_groupedtrees,393
+5,1,0,0,3.804133501,pilot/full,Treated WW,UV_training_set,3.7869023118383214,LOSO,1,GBM_groupedtrees,393
+6,1,0,0,3.522517249,pilot/full,Treated WW,UV_training_set,3.552461632563265,LOSO,1,GBM_groupedtrees,393
+7,1,0,0,3.620574127,pilot/full,Treated WW,original_test_set,3.505997864045665,LOSO,1,GBM_groupedtrees,393
+8,1,0,0,3.945604473,pilot/full,Treated WW,UV_training_set,3.552461632563265,LOSO,1,GBM_groupedtrees,393
+9,1,0,1,4.033291752,pilot/full,Treated WW,original_test_set,3.505997864045665,LOSO,1,GBM_groupedtrees,393
+10,1,0,0,3.369491602,pilot/full,Treated WW,original_test_set,4.134210073035212,LOSO,1,GBM_groupedtrees,393
+11,1,0,0,3.4935993,pilot/full,Treated WW,UV_training_set,4.167905155415826,LOSO,1,GBM_groupedtrees,393
+13,16,1,0,4.892094603,pilot/full,synthetic surface water,UV_training_set,4.461452822271156,LOSO,16,GBM_groupedtrees,90
+14,16,1,0,4.792391689,pilot/full,surface water,original_test_set,4.682528922911858,LOSO,16,GBM_groupedtrees,90
+15,16,1,0,4.929418926,pilot/full,surface water,UV_training_set,4.746273946032246,LOSO,16,GBM_groupedtrees,90
+17,16,1,0,4.72427587,pilot/full,synthetic surface water,UV_training_set,4.436805006570782,LOSO,16,GBM_groupedtrees,90
+18,16,1,0,5.0,pilot/full,surface water,UV_training_set,4.746273946032246,LOSO,16,GBM_groupedtrees,90
+20,16,1,1,4.556302501,pilot/full,synthetic surface water,UV_training_set,4.511500000220402,LOSO,16,GBM_groupedtrees,90
+21,16,1,1,4.716003344,pilot/full,surface water,original_test_set,4.757223916561478,LOSO,16,GBM_groupedtrees,90
+22,16,1,1,4.954242509,pilot/full,surface water,UV_training_set,4.820968939681866,LOSO,16,GBM_groupedtrees,90
+24,16,1,0,4.924279286,pilot/full,surface water,original_test_set,4.708827084292622,LOSO,16,GBM_groupedtrees,90
+25,16,1,0,4.954242509,pilot/full,surface water,UV_training_set,4.77257210741301,LOSO,16,GBM_groupedtrees,90
+26,16,1,0,5.033423755,pilot/full,surface water,UV_training_set,4.721425362068717,LOSO,16,GBM_groupedtrees,90
+28,16,1,0,4.819543936,pilot/full,surface water,UV_training_set,4.548681022319382,LOSO,16,GBM_groupedtrees,90
+30,16,1,0,4.079181246,pilot/full,synthetic surface water,UV_training_set,3.856720311602958,LOSO,16,GBM_groupedtrees,90
+31,16,1,0,4.146128036,pilot/full,surface water,original_test_set,4.006618359076734,LOSO,16,GBM_groupedtrees,90
+32,16,1,0,4.176091259,pilot/full,surface water,original_test_set,4.070363382197122,LOSO,16,GBM_groupedtrees,90
+34,16,1,0,4.698970004,pilot/full,synthetic surface water,original_test_set,4.438540622638681,LOSO,16,GBM_groupedtrees,90
+35,16,1,0,4.716003344,pilot/full,surface water,UV_training_set,4.659616723279383,LOSO,16,GBM_groupedtrees,90
+36,16,1,0,4.903089987,pilot/full,surface water,UV_training_set,4.723361746399771,LOSO,16,GBM_groupedtrees,90
+38,16,1,0,4.544068044,pilot/full,synthetic surface water,UV_training_set,4.478807878849921,LOSO,16,GBM_groupedtrees,90
+39,16,1,0,4.662757832,pilot/full,surface water,UV_training_set,4.724531795190996,LOSO,16,GBM_groupedtrees,90
+40,16,1,0,4.806179974,pilot/full,surface water,UV_training_set,4.788276818311385,LOSO,16,GBM_groupedtrees,90
+42,16,1,0,4.832508913,pilot/full,surface water,original_test_set,4.768408627593245,LOSO,16,GBM_groupedtrees,90
+43,16,1,0,5.071882007,pilot/full,surface water,UV_training_set,4.832153650713633,LOSO,16,GBM_groupedtrees,90
+45,16,1,0,4.973127854,pilot/full,surface water,UV_training_set,4.608292811942006,LOSO,16,GBM_groupedtrees,90
+52,16,1,0,4.740362689,pilot/full,synthetic surface water,original_test_set,4.418427384702985,LOSO,16,GBM_groupedtrees,90
+56,16,1,0,4.812913357,pilot/full,synthetic surface water,UV_training_set,4.418427384702985,LOSO,16,GBM_groupedtrees,90
+59,16,1,1,4.681241237,pilot/full,synthetic surface water,original_test_set,4.5128572021045725,LOSO,16,GBM_groupedtrees,90
+62,16,1,0,4.903089987,pilot/full,synthetic surface water,UV_training_set,4.44472554608375,LOSO,16,GBM_groupedtrees,90
+66,16,1,0,4.342422681,pilot/full,synthetic surface water,UV_training_set,4.248055926269727,LOSO,16,GBM_groupedtrees,90
+69,16,1,0,3.903089987,pilot/full,synthetic surface water,UV_training_set,3.750003462395506,LOSO,16,GBM_groupedtrees,90
+70,16,1,0,4.544068044,pilot/full,synthetic surface water,UV_training_set,4.3955151850705105,LOSO,16,GBM_groupedtrees,90
+74,16,1,0,4.579783597,pilot/full,synthetic surface water,UV_training_set,4.480165080734091,LOSO,16,GBM_groupedtrees,90
+75,16,1,0,4.875061263,pilot/full,synthetic surface water,UV_training_set,4.524041913136339,LOSO,16,GBM_groupedtrees,90
+79,16,1,0,4.875061263,pilot/full,synthetic surface water,UV_training_set,4.139988411662047,LOSO,16,GBM_groupedtrees,90
+48,17,1,0,4.623249290719663,RSSCT,synthetic surface water,UV_training_set,4.5272223795312305,LOSO,17,GBM_groupedtrees,229
+49,17,1,0,4.380211241719664,RSSCT,surface water,UV_training_set,4.822661088739366,LOSO,17,GBM_groupedtrees,229
+50,17,1,0,4.799340549719663,RSSCT,surface water,UV_training_set,4.859673536759384,LOSO,17,GBM_groupedtrees,229
+53,17,1,0,4.537819094719662,RSSCT,synthetic surface water,UV_training_set,4.45686284907222,LOSO,17,GBM_groupedtrees,229
+54,17,1,0,4.707570175719662,RSSCT,surface water,UV_training_set,4.795192969205995,LOSO,17,GBM_groupedtrees,229
+55,17,1,0,5.008600171719663,RSSCT,surface water,UV_training_set,4.832205417226013,LOSO,17,GBM_groupedtrees,229
+57,17,1,0,4.8388490907196635,RSSCT,surface water,UV_training_set,4.884425774154502,LOSO,17,GBM_groupedtrees,229
+58,17,1,0,4.809559714719663,RSSCT,surface water,UV_training_set,4.932147269583571,LOSO,17,GBM_groupedtrees,229
+60,17,1,0,4.892094601719663,RSSCT,surface water,UV_training_set,4.867284458913595,LOSO,17,GBM_groupedtrees,229
+61,17,1,0,4.9956351947196636,RSSCT,surface water,UV_training_set,4.904296906933613,LOSO,17,GBM_groupedtrees,229
+63,17,1,0,4.623249290719663,RSSCT,synthetic surface water,UV_training_set,4.4011440716184405,LOSO,17,GBM_groupedtrees,229
+64,17,1,0,4.778151250719662,RSSCT,surface water,UV_training_set,4.8058778998607625,LOSO,17,GBM_groupedtrees,229
+65,17,1,0,5.008600171719663,RSSCT,surface water,UV_training_set,4.842890347880781,LOSO,17,GBM_groupedtrees,229
+67,17,1,0,4.477121254719663,RSSCT,synthetic surface water,UV_training_set,4.332016111088695,LOSO,17,GBM_groupedtrees,229
+68,17,1,0,4.939519251719663,RSSCT,surface water,UV_training_set,4.571055752211763,LOSO,17,GBM_groupedtrees,229
+71,17,1,0,3.9242792857196624,RSSCT,synthetic surface water,UV_training_set,3.954497015800715,LOSO,17,GBM_groupedtrees,229
+72,17,1,0,3.9542425097196627,RSSCT,surface water,UV_training_set,4.17466474595644,LOSO,17,GBM_groupedtrees,229
+73,17,1,0,4.255272504719663,RSSCT,surface water,UV_training_set,4.208816034457598,LOSO,17,GBM_groupedtrees,229
+76,17,1,0,4.556302500719663,RSSCT,synthetic surface water,UV_training_set,4.471612830514156,LOSO,17,GBM_groupedtrees,229
+77,17,1,0,4.732393759719662,RSSCT,surface water,UV_training_set,4.755371604313684,LOSO,17,GBM_groupedtrees,229
+78,17,1,0,4.707570175719662,RSSCT,surface water,UV_training_set,4.792384052333702,LOSO,17,GBM_groupedtrees,229
+80,17,1,0,4.498310553719663,RSSCT,synthetic surface water,UV_training_set,4.6460435731565335,LOSO,17,GBM_groupedtrees,229
+81,17,1,0,4.537819094719662,RSSCT,synthetic surface water,UV_training_set,4.4190368568123946,LOSO,17,GBM_groupedtrees,229
+82,17,1,0,4.707570175719662,RSSCT,surface water,UV_training_set,4.788951310902768,LOSO,17,GBM_groupedtrees,229
+83,17,1,0,4.681241237719663,RSSCT,surface water,UV_training_set,4.808406620090179,LOSO,17,GBM_groupedtrees,229
+84,17,1,0,4.857332496719663,RSSCT,synthetic surface water,UV_training_set,4.510561477793136,LOSO,17,GBM_groupedtrees,229
+85,17,1,0,4.892094601719663,RSSCT,surface water,UV_training_set,4.92650133821178,LOSO,17,GBM_groupedtrees,229
+86,17,1,0,4.799340549719663,RSSCT,surface water,UV_training_set,4.969261502901403,LOSO,17,GBM_groupedtrees,229
+87,17,1,0,4.556302500719663,RSSCT,synthetic surface water,UV_training_set,4.629079395351721,LOSO,17,GBM_groupedtrees,229
+88,17,1,0,4.5185139397196625,RSSCT,synthetic surface water,UV_training_set,4.22913176753122,LOSO,17,GBM_groupedtrees,229
+89,17,1,0,4.755874855719663,RSSCT,surface water,UV_training_set,4.667565988633268,LOSO,17,GBM_groupedtrees,229
+90,17,1,0,4.9036325157196625,RSSCT,surface water,UV_training_set,4.701717277134427,LOSO,17,GBM_groupedtrees,229
+127,17,1,0,4.892094601719663,RSSCT,synthetic surface water,UV_training_set,4.491570546795543,LOSO,17,GBM_groupedtrees,229
+130,17,1,0,4.819543935719663,RSSCT,synthetic surface water,UV_training_set,4.7059344042702,LOSO,17,GBM_groupedtrees,229
+132,17,1,0,4.968482948719663,RSSCT,synthetic surface water,UV_training_set,4.632692807946269,LOSO,17,GBM_groupedtrees,229
+135,17,1,0,4.431363764719664,RSSCT,synthetic surface water,UV_training_set,4.27334250630169,LOSO,17,GBM_groupedtrees,229
+138,17,1,0,4.380211241719664,RSSCT,synthetic surface water,UV_training_set,4.327788320441166,LOSO,17,GBM_groupedtrees,229
+140,17,1,0,3.3802112417196626,RSSCT,synthetic surface water,UV_training_set,3.931397314185845,LOSO,17,GBM_groupedtrees,229
+143,17,1,0,3.819543935719663,RSSCT,synthetic surface water,UV_training_set,3.7933311844685393,LOSO,17,GBM_groupedtrees,229
+178,17,1,0,4.406540180719663,RSSCT,synthetic surface water,UV_training_set,4.555667245291771,LOSO,17,GBM_groupedtrees,229
+183,17,1,0,4.477121254719663,RSSCT,synthetic surface water,UV_training_set,4.420185149928373,LOSO,17,GBM_groupedtrees,229
+188,17,1,0,4.498310553719663,RSSCT,synthetic surface water,UV_training_set,4.572194473890297,LOSO,17,GBM_groupedtrees,229
+189,17,1,0,4.732393759719662,RSSCT,synthetic surface water,UV_training_set,4.426188906244324,LOSO,17,GBM_groupedtrees,229
+194,17,1,0,4.892094601719663,RSSCT,synthetic surface water,UV_training_set,4.743048637588031,LOSO,17,GBM_groupedtrees,229
+198,17,1,0,4.5185139397196625,RSSCT,synthetic surface water,UV_training_set,4.264446379298241,LOSO,17,GBM_groupedtrees,229
+91,19,2,0,3.991428155,pilot/full,groundwater,original_test_set,4.324695651201415,LOSO,19,GBM_groupedtrees,83
+92,19,2,0,4.00593433,pilot/full,groundwater,UV_training_set,4.136458415695591,LOSO,19,GBM_groupedtrees,83
+93,19,2,1,4.052610845,pilot/full,groundwater,original_test_set,4.291124109230092,LOSO,19,GBM_groupedtrees,83
+94,19,2,0,4.152087052,pilot/full,groundwater,original_test_set,4.325417504291008,LOSO,19,GBM_groupedtrees,83
+95,19,2,1,4.081764683,pilot/full,groundwater,original_test_set,4.1896256188561765,LOSO,19,GBM_groupedtrees,83
+96,19,2,1,4.265020376,pilot/full,groundwater,UV_training_set,4.353706851490378,LOSO,19,GBM_groupedtrees,83
+97,19,2,0,4.489747597,pilot/full,groundwater,UV_training_set,4.3201353095190544,LOSO,19,GBM_groupedtrees,83
+98,19,2,0,3.911076503,pilot/full,groundwater,UV_training_set,3.6378483470721177,LOSO,19,GBM_groupedtrees,83
+99,19,2,0,4.015218498,pilot/full,groundwater,UV_training_set,3.8125999391968137,LOSO,19,GBM_groupedtrees,83
+100,19,2,0,4.057543453,pilot/full,groundwater,UV_training_set,3.813321792286407,LOSO,19,GBM_groupedtrees,83
+101,19,2,1,4.112080362,pilot/full,groundwater,original_test_set,3.7790283972254923,LOSO,19,GBM_groupedtrees,83
+102,19,2,0,3.979418419,pilot/full,groundwater,UV_training_set,4.176148563277104,LOSO,19,GBM_groupedtrees,83
+103,19,2,0,4.170519464,pilot/full,groundwater,original_test_set,4.340229795911305,LOSO,19,GBM_groupedtrees,83
+104,19,2,0,4.35871685191586,pilot/full,groundwater,UV_training_set,4.306658253939982,LOSO,19,GBM_groupedtrees,83
+105,19,2,0,4.42709088,pilot/full,groundwater,original_test_set,4.340951649000898,LOSO,19,GBM_groupedtrees,83
+106,19,2,0,3.83059812550234,pilot/full,groundwater,UV_training_set,3.965074594989211,LOSO,19,GBM_groupedtrees,83
+107,19,2,0,4.13588952973389,pilot/full,groundwater,UV_training_set,4.154838022649831,LOSO,19,GBM_groupedtrees,83
+108,19,2,0,4.21974497647267,pilot/full,groundwater,original_test_set,4.121266480678508,LOSO,19,GBM_groupedtrees,83
+109,19,2,0,4.367298205,pilot/full,groundwater,UV_training_set,4.155559875739424,LOSO,19,GBM_groupedtrees,83
+110,19,2,0,4.11316232739591,pilot/full,groundwater,original_test_set,4.158875381541895,LOSO,19,GBM_groupedtrees,83
+111,19,2,0,4.295691451,pilot/full,groundwater,UV_training_set,4.322956614176096,LOSO,19,GBM_groupedtrees,83
+112,19,2,1,4.417405214,pilot/full,groundwater,original_test_set,4.289385072204773,LOSO,19,GBM_groupedtrees,83
+113,19,2,0,4.524329718,pilot/full,groundwater,UV_training_set,4.323678467265689,LOSO,19,GBM_groupedtrees,83
+114,19,2,0,3.892284475,pilot/full,groundwater,UV_training_set,3.576906086119026,LOSO,19,GBM_groupedtrees,83
+115,19,2,1,3.969678939,pilot/full,groundwater,original_test_set,3.7180861362724005,LOSO,19,GBM_groupedtrees,83
+116,19,2,0,4.01323026,pilot/full,groundwater,UV_training_set,3.752379531333315,LOSO,19,GBM_groupedtrees,83
+117,19,2,0,4.039207236,pilot/full,groundwater,original_test_set,3.7516576782437228,LOSO,19,GBM_groupedtrees,83
+118,19,2,0,3.929890062,pilot/full,groundwater,original_test_set,4.176148563277104,LOSO,19,GBM_groupedtrees,83
+119,19,2,0,4.071801749,pilot/full,groundwater,UV_training_set,4.340229795911305,LOSO,19,GBM_groupedtrees,83
+120,19,2,0,4.135098175,pilot/full,groundwater,UV_training_set,4.340951649000898,LOSO,19,GBM_groupedtrees,83
+121,19,2,0,4.269788382,pilot/full,groundwater,UV_training_set,4.306658253939982,LOSO,19,GBM_groupedtrees,83
+122,19,2,0,3.894436059,pilot/full,groundwater,UV_training_set,4.136458415695591,LOSO,19,GBM_groupedtrees,83
+123,19,2,0,3.989821267,pilot/full,groundwater,UV_training_set,4.324695651201415,LOSO,19,GBM_groupedtrees,83
+124,19,2,1,4.044957851,pilot/full,groundwater,original_test_set,4.291124109230092,LOSO,19,GBM_groupedtrees,83
+125,19,2,0,4.078606937,pilot/full,groundwater,UV_training_set,4.325417504291008,LOSO,19,GBM_groupedtrees,83
+126,35,3,0,4.082257857351604,RSSCT,surface water,UV_training_set,3.447901317810796,LOSO,35,GBM_groupedtrees,230
+128,35,3,0,3.8417139371165363,RSSCT,Treated WW,UV_training_set,3.7455730761838137,LOSO,35,GBM_groupedtrees,230
+129,35,3,0,4.146269645694943,RSSCT,surface water,UV_training_set,3.4195427936238483,LOSO,35,GBM_groupedtrees,230
+131,35,3,0,3.2973892495251897,RSSCT,surface water,UV_training_set,2.9298038956192167,LOSO,35,GBM_groupedtrees,230
+133,35,3,0,3.3238960406074782,RSSCT,Treated WW,UV_training_set,3.113077087547809,LOSO,35,GBM_groupedtrees,230
+134,35,3,0,2.9075968696551424,RSSCT,surface water,UV_training_set,2.8659793657087707,LOSO,35,GBM_groupedtrees,230
+136,35,3,0,3.4326145365248735,RSSCT,Treated WW,UV_training_set,3.260150577319168,LOSO,35,GBM_groupedtrees,230
+137,35,3,0,3.6166949551202783,RSSCT,surface water,UV_training_set,2.983406459276664,LOSO,35,GBM_groupedtrees,230
+139,35,3,0,3.222808034284815,RSSCT,surface water,UV_training_set,3.1207677225883876,LOSO,35,GBM_groupedtrees,230
+141,35,3,0,3.5594963191090723,RSSCT,Treated WW,UV_training_set,3.4809131935611313,LOSO,35,GBM_groupedtrees,230
+142,35,3,0,3.2966717063618485,RSSCT,surface water,UV_training_set,3.168476663211652,LOSO,35,GBM_groupedtrees,230
+203,35,3,0,4.282793051348456,RSSCT,synthetic surface water,UV_training_set,4.456950531192817,LOSO,35,GBM_groupedtrees,230
+208,35,3,0,4.295532992856459,RSSCT,synthetic surface water,UV_training_set,4.4104503123020296,LOSO,35,GBM_groupedtrees,230
+213,35,3,0,3.1273405519093753,RSSCT,synthetic surface water,UV_training_set,3.821242152195708,LOSO,35,GBM_groupedtrees,230
+370,35,3,0,2.9155708808820813,RSSCT,synthetic surface water,UV_training_set,3.77905581277398,LOSO,35,GBM_groupedtrees,230
+376,35,3,0,3.5033211092082235,RSSCT,synthetic surface water,UV_training_set,3.8924774636634716,LOSO,35,GBM_groupedtrees,230
+380,35,3,0,3.5817626399151337,RSSCT,synthetic surface water,UV_training_set,3.983565968289525,LOSO,35,GBM_groupedtrees,230
+384,35,3,0,3.915550176914748,RSSCT,synthetic surface water,UV_training_set,4.145790429679344,LOSO,35,GBM_groupedtrees,230
+144,50,4,0,3.292450705,pilot/full,surface water,original_test_set,4.283188812198794,LOSO,50,GBM_groupedtrees,171
+145,50,4,0,3.608427051,pilot/full,surface water,UV_training_set,4.210781288951291,LOSO,50,GBM_groupedtrees,171
+146,50,4,0,3.60590155,pilot/full,surface water,UV_training_set,3.815067712445079,LOSO,50,GBM_groupedtrees,171
+147,50,4,0,3.737304101,pilot/full,surface water,original_test_set,3.7167632720160246,LOSO,50,GBM_groupedtrees,171
+148,50,4,0,3.738930171,pilot/full,surface water,UV_training_set,3.7167632720160246,LOSO,50,GBM_groupedtrees,171
+149,50,4,0,3.653103665,pilot/full,surface water,UV_training_set,4.315051754520006,LOSO,50,GBM_groupedtrees,171
+150,50,4,0,3.699379267,pilot/full,surface water,UV_training_set,4.566405393229749,LOSO,50,GBM_groupedtrees,171
+151,50,4,1,3.876206583,pilot/full,surface water,original_test_set,4.535033908123739,LOSO,50,GBM_groupedtrees,171
+152,50,4,0,3.411371726,pilot/full,surface water,UV_training_set,4.1260297127593395,LOSO,50,GBM_groupedtrees,171
+153,50,4,0,3.529133248,pilot/full,surface water,UV_training_set,4.326562014181438,LOSO,50,GBM_groupedtrees,171
+154,50,4,0,3.68169817,pilot/full,surface water,original_test_set,4.254154490933935,LOSO,50,GBM_groupedtrees,171
+155,50,4,0,3.783979294,pilot/full,surface water,UV_training_set,4.326562014181438,LOSO,50,GBM_groupedtrees,171
+156,50,4,1,4.154293485,pilot/full,surface water,original_test_set,4.579968585278317,LOSO,50,GBM_groupedtrees,171
+157,50,4,0,4.164579409,pilot/full,surface water,UV_training_set,4.594494174130937,LOSO,50,GBM_groupedtrees,171
+158,50,4,0,2.973747188,pilot/full,surface water,original_test_set,3.629505461621915,LOSO,50,GBM_groupedtrees,171
+159,50,4,0,3.424876094,pilot/full,surface water,UV_training_set,3.6778652007613046,LOSO,50,GBM_groupedtrees,171
+160,50,4,0,3.567310642,pilot/full,surface water,UV_training_set,3.7125887900237675,LOSO,50,GBM_groupedtrees,171
+161,50,4,0,3.686039729,pilot/full,surface water,UV_training_set,3.6778652007613046,LOSO,50,GBM_groupedtrees,171
+162,50,4,0,3.629959128,pilot/full,surface water,UV_training_set,3.9299357080928923,LOSO,50,GBM_groupedtrees,171
+163,50,4,1,3.721238623,pilot/full,surface water,original_test_set,3.9160449724922044,LOSO,50,GBM_groupedtrees,171
+164,50,4,0,3.751816947,pilot/full,surface water,UV_training_set,3.9835236258471816,LOSO,50,GBM_groupedtrees,171
+165,50,4,0,3.853247311,pilot/full,surface water,UV_training_set,3.9299357080928923,LOSO,50,GBM_groupedtrees,171
+166,50,4,0,3.892875675,pilot/full,surface water,UV_training_set,4.112427550017287,LOSO,50,GBM_groupedtrees,171
+167,50,4,1,3.924686625,pilot/full,surface water,original_test_set,4.0324582225707895,LOSO,50,GBM_groupedtrees,171
+168,50,4,0,4.151750371,pilot/full,surface water,UV_training_set,3.9511200149466266,LOSO,50,GBM_groupedtrees,171
+169,50,4,1,4.19188477,pilot/full,surface water,original_test_set,4.026227572929499,LOSO,50,GBM_groupedtrees,171
+170,50,4,0,3.645470885,pilot/full,surface water,UV_training_set,4.544291910434611,LOSO,50,GBM_groupedtrees,171
+171,50,4,0,3.861379095,pilot/full,surface water,UV_training_set,4.284123946666055,LOSO,50,GBM_groupedtrees,171
+172,50,4,1,3.93050939,pilot/full,surface water,original_test_set,4.52518017605385,LOSO,50,GBM_groupedtrees,171
+173,50,4,0,4.16702996,pilot/full,surface water,UV_training_set,4.665088835672884,LOSO,50,GBM_groupedtrees,171
+174,50,4,0,3.154638695,pilot/full,surface water,UV_training_set,4.067893885562522,LOSO,50,GBM_groupedtrees,171
+175,50,4,0,3.460112747,pilot/full,surface water,UV_training_set,4.1630172689040705,LOSO,50,GBM_groupedtrees,171
+176,50,4,0,3.630357692,pilot/full,surface water,UV_training_set,4.196018663737118,LOSO,50,GBM_groupedtrees,171
+177,50,4,0,3.699044809,pilot/full,surface water,UV_training_set,4.1630172689040705,LOSO,50,GBM_groupedtrees,171
+27,51,5,0,4.1583624917196635,RSSCT,surface water,UV_training_set,4.39230248183889,LOSO,51,GBM_groupedtrees,233
+29,51,5,0,4.068185861719663,RSSCT,surface water,UV_training_set,4.384786192313538,LOSO,51,GBM_groupedtrees,233
+33,51,5,0,4.468347330719663,RSSCT,surface water,UV_training_set,4.413990551798992,LOSO,51,GBM_groupedtrees,233
+37,51,5,0,4.045322978719662,RSSCT,surface water,UV_training_set,4.085059177199678,LOSO,51,GBM_groupedtrees,233
+41,51,5,0,4.110589710719663,RSSCT,surface water,UV_training_set,4.075532990421537,LOSO,51,GBM_groupedtrees,233
+44,51,5,0,3.556302500719663,RSSCT,surface water,UV_training_set,3.584915233358611,LOSO,51,GBM_groupedtrees,233
+46,51,5,0,4.120573930719663,RSSCT,surface water,UV_training_set,4.327133228044381,LOSO,51,GBM_groupedtrees,233
+47,51,5,0,4.068185861719663,RSSCT,surface water,UV_training_set,4.337846295267361,LOSO,51,GBM_groupedtrees,233
+51,51,5,0,3.819543935719663,RSSCT,surface water,UV_training_set,4.100971785748107,LOSO,51,GBM_groupedtrees,233
+179,51,5,0,4.406540180719663,RSSCT,surface water,UV_training_set,4.672775449471521,LOSO,51,GBM_groupedtrees,233
+180,51,5,0,4.450249108719663,RSSCT,surface water,UV_training_set,4.643242449766493,LOSO,51,GBM_groupedtrees,233
+181,51,5,0,4.468347330719663,RSSCT,surface water,UV_training_set,4.529387861577982,LOSO,51,GBM_groupedtrees,233
+182,51,5,0,4.374748345719663,RSSCT,surface water,UV_training_set,4.649909831151118,LOSO,51,GBM_groupedtrees,233
+184,51,5,0,4.396199346719663,RSSCT,surface water,UV_training_set,4.667135108619245,LOSO,51,GBM_groupedtrees,233
+185,51,5,0,4.390935106719663,RSSCT,surface water,UV_training_set,4.637602108914217,LOSO,51,GBM_groupedtrees,233
+186,51,5,0,4.545307115719663,RSSCT,surface water,UV_training_set,4.530732462971232,LOSO,51,GBM_groupedtrees,233
+187,51,5,0,4.3031960567196625,RSSCT,surface water,UV_training_set,4.644269490298842,LOSO,51,GBM_groupedtrees,233
+190,51,5,0,4.385606273719663,RSSCT,surface water,UV_training_set,4.557545886425026,LOSO,51,GBM_groupedtrees,233
+191,51,5,0,4.411619705719662,RSSCT,surface water,UV_training_set,4.550809397065339,LOSO,51,GBM_groupedtrees,233
+192,51,5,0,4.352182518719663,RSSCT,surface water,UV_training_set,4.266617984617044,LOSO,51,GBM_groupedtrees,233
+193,51,5,0,4.309630166719662,RSSCT,surface water,UV_training_set,4.5574767784499635,LOSO,51,GBM_groupedtrees,233
+195,51,5,0,4.468347330719663,RSSCT,surface water,UV_training_set,4.468574989776509,LOSO,51,GBM_groupedtrees,233
+196,51,5,0,4.545307115719663,RSSCT,surface water,UV_training_set,4.210534837000556,LOSO,51,GBM_groupedtrees,233
+197,51,5,0,4.401400540719663,RSSCT,surface water,UV_training_set,4.4364497762124175,LOSO,51,GBM_groupedtrees,233
+199,51,5,0,3.7781512507196626,RSSCT,surface water,UV_training_set,4.048665449812029,LOSO,51,GBM_groupedtrees,233
+200,51,5,0,3.819543935719663,RSSCT,surface water,UV_training_set,4.030313497896924,LOSO,51,GBM_groupedtrees,233
+201,51,5,0,3.7781512507196626,RSSCT,surface water,UV_training_set,3.7199170799376313,LOSO,51,GBM_groupedtrees,233
+202,51,5,0,3.7993405497196626,RSSCT,surface water,UV_training_set,4.030313497896924,LOSO,51,GBM_groupedtrees,233
+204,51,5,0,4.374748345719663,RSSCT,surface water,UV_training_set,4.633725465173231,LOSO,51,GBM_groupedtrees,233
+205,51,5,0,4.454844859719664,RSSCT,surface water,UV_training_set,4.604192465468203,LOSO,51,GBM_groupedtrees,233
+206,51,5,0,4.363611979719662,RSSCT,surface water,UV_training_set,4.477034634197803,LOSO,51,GBM_groupedtrees,233
+207,51,5,0,4.352182518719663,RSSCT,surface water,UV_training_set,4.6108598468528275,LOSO,51,GBM_groupedtrees,233
+209,51,5,0,4.340444114719663,RSSCT,surface water,UV_training_set,4.599249199380785,LOSO,51,GBM_groupedtrees,233
+210,51,5,0,4.406540180719663,RSSCT,surface water,UV_training_set,4.569716199675757,LOSO,51,GBM_groupedtrees,233
+211,51,5,0,4.522444233719662,RSSCT,surface water,UV_training_set,4.496608592339386,LOSO,51,GBM_groupedtrees,233
+212,51,5,0,4.334453750719662,RSSCT,surface water,UV_training_set,4.576383581060382,LOSO,51,GBM_groupedtrees,233
+214,51,5,0,4.1846914307196625,RSSCT,surface water,UV_training_set,4.518531468774505,LOSO,51,GBM_groupedtrees,233
+215,51,5,0,4.139879085719663,RSSCT,surface water,UV_training_set,4.511794979414818,LOSO,51,GBM_groupedtrees,233
+216,51,5,0,4.1846914307196625,RSSCT,surface water,UV_training_set,4.254256476267169,LOSO,51,GBM_groupedtrees,233
+217,51,5,0,4.139879085719663,RSSCT,surface water,UV_training_set,4.518462360799442,LOSO,51,GBM_groupedtrees,233
+218,52,6,0,3.3802112417196626,RSSCT,groundwater,UV_training_set,3.7207070840096392,LOSO,52,GBM_groupedtrees,169
+219,52,6,0,3.6074550237196625,RSSCT,groundwater,UV_training_set,3.796502343602772,LOSO,52,GBM_groupedtrees,169
+220,52,6,0,3.6074550237196625,RSSCT,groundwater,UV_training_set,3.796502343602772,LOSO,52,GBM_groupedtrees,169
+221,52,6,0,3.6201360547196635,RSSCT,groundwater,UV_training_set,3.797782872846121,LOSO,52,GBM_groupedtrees,169
+222,52,6,0,3.6384892567196623,RSSCT,groundwater,UV_training_set,3.797782872846121,LOSO,52,GBM_groupedtrees,169
+223,52,6,0,3.6812412367196625,RSSCT,groundwater,UV_training_set,3.905359922695718,LOSO,52,GBM_groupedtrees,169
+224,52,6,0,3.6946051987196626,RSSCT,synthetic surface water,UV_training_set,3.813383428533313,LOSO,52,GBM_groupedtrees,169
+225,52,6,0,3.7419390787196622,RSSCT,groundwater,UV_training_set,3.9040793934523688,LOSO,52,GBM_groupedtrees,169
+226,52,6,0,3.7824726247196634,RSSCT,synthetic surface water,UV_training_set,3.9097055090992434,LOSO,52,GBM_groupedtrees,169
+227,52,6,0,3.715167358719663,RSSCT,groundwater,UV_training_set,3.9654378372367005,LOSO,52,GBM_groupedtrees,169
+228,52,6,0,3.7419390777196626,RSSCT,groundwater,UV_training_set,3.793320497077638,LOSO,52,GBM_groupedtrees,169
+229,52,6,0,3.8075350287196628,RSSCT,groundwater,UV_training_set,3.9667183664800496,LOSO,52,GBM_groupedtrees,169
+230,52,6,0,3.8293037727196633,RSSCT,groundwater,UV_training_set,3.785390954069894,LOSO,52,GBM_groupedtrees,169
+231,52,6,0,3.6972293437196626,RSSCT,groundwater,UV_training_set,3.919251528023981,LOSO,52,GBM_groupedtrees,169
+232,52,6,0,3.705007959719663,RSSCT,groundwater,UV_training_set,3.822929447458051,LOSO,52,GBM_groupedtrees,169
+233,52,6,0,3.587335983719663,RSSCT,groundwater,UV_training_set,3.8142264029460744,LOSO,52,GBM_groupedtrees,169
+234,52,6,0,3.600972895719663,RSSCT,groundwater,UV_training_set,3.8142264029460744,LOSO,52,GBM_groupedtrees,169
+235,52,6,0,3.613841821719663,RSSCT,groundwater,UV_training_set,3.814923867542313,LOSO,52,GBM_groupedtrees,169
+236,52,6,0,3.724043467719663,RSSCT,groundwater,UV_training_set,3.8979512055469514,LOSO,52,GBM_groupedtrees,169
+237,52,6,0,3.791894066719663,RSSCT,groundwater,UV_training_set,3.8919996563787946,LOSO,52,GBM_groupedtrees,169
+238,52,6,0,3.805847339719662,RSSCT,groundwater,UV_training_set,3.8979512055469514,LOSO,52,GBM_groupedtrees,169
+239,52,6,0,3.8444771757196627,RSSCT,groundwater,UV_training_set,4.005528255396548,LOSO,52,GBM_groupedtrees,169
+240,52,6,0,3.866287339719663,RSSCT,groundwater,UV_training_set,3.9811544920851687,LOSO,52,GBM_groupedtrees,169
+241,52,6,0,3.8715729357196627,RSSCT,groundwater,UV_training_set,3.9995767062283907,LOSO,52,GBM_groupedtrees,169
+242,52,6,0,3.898725181719662,RSSCT,groundwater,UV_training_set,3.9871060412533255,LOSO,52,GBM_groupedtrees,169
+243,52,6,0,3.7176705037196625,RSSCT,deionized water,UV_training_set,4.002372307850168,LOSO,52,GBM_groupedtrees,169
+244,52,6,0,3.720159303719663,RSSCT,deionized water,UV_training_set,4.008323857018326,LOSO,52,GBM_groupedtrees,169
+245,52,6,0,3.927370363719662,RSSCT,deionized water,UV_training_set,3.8979512055469514,LOSO,52,GBM_groupedtrees,169
+246,52,6,0,3.9585638837196626,RSSCT,deionized water,UV_training_set,3.8919996563787946,LOSO,52,GBM_groupedtrees,169
+247,52,6,0,4.197280558719663,RSSCT,groundwater,UV_training_set,4.338561348138619,LOSO,52,GBM_groupedtrees,169
+248,52,6,0,4.267406418719664,RSSCT,groundwater,UV_training_set,4.33728081889527,LOSO,52,GBM_groupedtrees,169
+249,52,6,0,3.4243098207196625,RSSCT,groundwater,UV_training_set,3.810315251002274,LOSO,52,GBM_groupedtrees,169
+250,52,6,0,3.491557781719663,RSSCT,groundwater,UV_training_set,3.8169642647666695,LOSO,52,GBM_groupedtrees,169
+251,52,6,0,4.2545335757196625,RSSCT,groundwater,UV_training_set,4.59823775693471,LOSO,52,GBM_groupedtrees,169
+252,52,6,0,4.436391664719663,RSSCT,groundwater,UV_training_set,4.5915887431703135,LOSO,52,GBM_groupedtrees,169
+253,52,6,0,4.059502831719662,RSSCT,groundwater,UV_training_set,4.41327224254098,LOSO,52,GBM_groupedtrees,169
+254,52,6,0,4.1660924947196625,RSSCT,groundwater,UV_training_set,4.4199212563053765,LOSO,52,GBM_groupedtrees,169
+255,52,6,0,4.382290868719664,RSSCT,groundwater,UV_training_set,4.697019818704038,LOSO,52,GBM_groupedtrees,169
+256,52,6,0,4.440228784719663,RSSCT,groundwater,UV_training_set,4.690370804939642,LOSO,52,GBM_groupedtrees,169
+257,52,6,0,4.107335489719663,RSSCT,groundwater,UV_training_set,4.624548017722877,LOSO,52,GBM_groupedtrees,169
+258,52,6,0,4.3162220367196635,RSSCT,groundwater,UV_training_set,4.6311970314872735,LOSO,52,GBM_groupedtrees,169
+259,52,6,0,4.411962965719662,RSSCT,groundwater,UV_training_set,4.708539304405921,LOSO,52,GBM_groupedtrees,169
+260,52,6,0,4.469316763719663,RSSCT,groundwater,UV_training_set,4.715188318170317,LOSO,52,GBM_groupedtrees,169
+261,57,1,0,4.667763584324365,RSSCT,surface water,UV_training_set,4.754380406783291,LOSO,57,GBM_groupedtrees,303
+262,57,1,0,4.829328066214528,RSSCT,surface water,UV_training_set,4.836403435557323,LOSO,57,GBM_groupedtrees,303
+263,57,1,0,4.786074244992476,RSSCT,surface water,UV_training_set,4.855305571070189,LOSO,57,GBM_groupedtrees,303
+264,57,1,0,4.0275525016927265,RSSCT,surface water,UV_training_set,4.132086704740848,LOSO,57,GBM_groupedtrees,303
+265,57,1,0,4.727784266790629,RSSCT,surface water,UV_training_set,4.702442860860519,LOSO,57,GBM_groupedtrees,303
+266,57,1,0,4.64861117561938,RSSCT,surface water,UV_training_set,4.690259158830331,LOSO,57,GBM_groupedtrees,303
+267,57,1,0,4.806875401645539,RSSCT,surface water,UV_training_set,4.893182707303176,LOSO,57,GBM_groupedtrees,303
+268,58,6,0,3.707570176,pilot/full,groundwater,original_test_set,3.533463718006315,LOSO,58,GBM_groupedtrees,1004
+269,58,6,0,4.492760389,pilot/full,groundwater,UV_training_set,4.191890830630663,LOSO,58,GBM_groupedtrees,1004
+270,58,6,0,4.506505032,pilot/full,groundwater,UV_training_set,4.378217635704661,LOSO,58,GBM_groupedtrees,1004
+271,58,6,0,4.807535028068854,pilot/full,groundwater,UV_training_set,4.488790618107306,LOSO,58,GBM_groupedtrees,1004
+272,58,6,0,4.522444234,pilot/full,groundwater,UV_training_set,4.034975959814625,LOSO,58,GBM_groupedtrees,1004
+273,59,7,0,3.918904084015689,RSSCT,surface water,UV_training_set,4.062715785213677,LOSO,59,GBM_groupedtrees,188
+274,59,7,0,3.7533233638106527,RSSCT,surface water,UV_training_set,3.7462622058177204,LOSO,59,GBM_groupedtrees,188
+275,60,8,0,4.364584715,pilot/full,surface water,original_test_set,4.588384528084562,LOSO,60,GBM_groupedtrees,178
+276,60,8,0,4.541520789719662,RSSCT,surface water,UV_training_set,4.3566354967667715,LOSO,60,GBM_groupedtrees,178
+277,60,8,0,2.8026600057196625,RSSCT,surface water,UV_training_set,4.53149213657005,LOSO,60,GBM_groupedtrees,178
+278,60,8,0,3.2383290407196625,RSSCT,surface water,UV_training_set,4.53149213657005,LOSO,60,GBM_groupedtrees,178
+279,60,8,0,3.3320432487196627,RSSCT,surface water,UV_training_set,4.53149213657005,LOSO,60,GBM_groupedtrees,178
+280,60,8,0,3.960774872719663,RSSCT,surface water,UV_training_set,4.566709875005381,LOSO,60,GBM_groupedtrees,178
+281,60,8,0,4.044312793719663,RSSCT,surface water,UV_training_set,4.566709875005381,LOSO,60,GBM_groupedtrees,178
+282,60,8,0,4.096642543719662,RSSCT,surface water,UV_training_set,4.566709875005381,LOSO,60,GBM_groupedtrees,178
+283,60,8,0,4.261138232,pilot/full,surface water,original_test_set,4.4821550383663835,LOSO,60,GBM_groupedtrees,178
+284,60,8,0,4.397997971719662,RSSCT,surface water,UV_training_set,4.2300906233114555,LOSO,60,GBM_groupedtrees,178
+285,60,8,0,4.494364806,pilot/full,surface water,UV_training_set,4.476767385910948,LOSO,60,GBM_groupedtrees,178
+286,60,8,0,4.689288570719663,RSSCT,surface water,UV_training_set,4.2311903872298,LOSO,60,GBM_groupedtrees,178
+287,60,8,0,3.879743834,pilot/full,surface water,original_test_set,4.409740833102379,LOSO,60,GBM_groupedtrees,178
+288,60,8,0,4.151700610814557,RSSCT,surface water,UV_training_set,4.265326903702958,LOSO,60,GBM_groupedtrees,178
+289,60,8,0,3.5553293437196634,RSSCT,surface water,UV_training_set,4.193215858408809,LOSO,60,GBM_groupedtrees,178
+290,61,9,0,3.4983415176107067,RSSCT,groundwater,UV_training_set,4.274119187790703,LOSO,61,GBM_groupedtrees,2988
+291,61,9,0,3.6068466653838667,RSSCT,groundwater,UV_training_set,4.274119187790703,LOSO,61,GBM_groupedtrees,2988
+292,61,9,0,3.792819867839429,RSSCT,groundwater,UV_training_set,4.192549829677688,LOSO,61,GBM_groupedtrees,2988
+293,61,9,0,3.842784559436661,RSSCT,groundwater,UV_training_set,4.2750698669713625,LOSO,61,GBM_groupedtrees,2988
+294,61,9,0,3.596083633354088,RSSCT,groundwater,UV_training_set,4.225109321939299,LOSO,61,GBM_groupedtrees,2988
+295,61,9,0,3.86352005296353,RSSCT,groundwater,UV_training_set,4.3076293592329735,LOSO,61,GBM_groupedtrees,2988
+296,61,9,0,3.9245705544122775,RSSCT,groundwater,UV_training_set,4.3076293592329735,LOSO,61,GBM_groupedtrees,2988
+297,61,9,0,4.402911792837681,RSSCT,groundwater,UV_training_set,4.8739080026359245,LOSO,61,GBM_groupedtrees,2988
+298,61,9,0,4.683977372086776,RSSCT,groundwater,UV_training_set,4.820620507201925,LOSO,61,GBM_groupedtrees,2988
+299,61,9,0,4.698117664523137,RSSCT,groundwater,UV_training_set,4.746731342331657,LOSO,61,GBM_groupedtrees,2988
+300,61,9,0,4.703944592732077,RSSCT,groundwater,UV_training_set,4.820620507201925,LOSO,61,GBM_groupedtrees,2988
+301,61,9,0,4.727870395956745,RSSCT,groundwater,UV_training_set,5.0452917183951715,LOSO,61,GBM_groupedtrees,2988
+302,61,9,0,4.74658849926776,RSSCT,groundwater,UV_training_set,5.040141939769415,LOSO,61,GBM_groupedtrees,2988
+303,61,9,0,4.419703975733719,RSSCT,groundwater,UV_training_set,4.883892237330541,LOSO,61,GBM_groupedtrees,2988
+304,61,9,0,4.567186159684093,RSSCT,groundwater,UV_training_set,4.622732345050482,LOSO,61,GBM_groupedtrees,2988
+305,61,9,0,4.59000233821602,RSSCT,groundwater,UV_training_set,4.54171398574631,LOSO,61,GBM_groupedtrees,2988
+306,61,9,0,4.63977181104172,RSSCT,groundwater,UV_training_set,4.657935614237298,LOSO,61,GBM_groupedtrees,2988
+307,61,9,0,4.73772457082064,RSSCT,groundwater,UV_training_set,4.9161840440987055,LOSO,61,GBM_groupedtrees,2988
+308,61,9,0,4.302872682150407,RSSCT,groundwater,UV_training_set,4.617183698669393,LOSO,61,GBM_groupedtrees,2988
+309,61,9,0,4.396716572977674,RSSCT,groundwater,UV_training_set,4.617183698669393,LOSO,61,GBM_groupedtrees,2988
+310,61,9,0,4.455441228733655,RSSCT,groundwater,UV_training_set,4.5536976844503565,LOSO,61,GBM_groupedtrees,2988
+311,61,9,0,4.595261296451675,RSSCT,groundwater,UV_training_set,4.6383667980027505,LOSO,61,GBM_groupedtrees,2988
+312,61,9,0,4.46632296425386,RSSCT,groundwater,UV_training_set,4.531538633522326,LOSO,61,GBM_groupedtrees,2988
+313,61,9,0,4.473475586067429,RSSCT,groundwater,UV_training_set,4.273167675067028,LOSO,61,GBM_groupedtrees,2988
+314,61,9,0,4.5699069782900805,RSSCT,groundwater,UV_training_set,4.522436082195024,LOSO,61,GBM_groupedtrees,2988
+315,61,9,0,4.648593554199511,RSSCT,groundwater,UV_training_set,4.640123052530075,LOSO,61,GBM_groupedtrees,2988
+316,61,9,0,4.522694967753341,RSSCT,groundwater,UV_training_set,4.940027598139343,LOSO,61,GBM_groupedtrees,2988
+317,61,9,0,4.6867421670696805,RSSCT,groundwater,UV_training_set,4.676979134695529,LOSO,61,GBM_groupedtrees,2988
+318,61,9,0,4.707437825605094,RSSCT,groundwater,UV_training_set,4.72411316774389,LOSO,61,GBM_groupedtrees,2988
+319,61,9,0,4.722255117032484,RSSCT,groundwater,UV_training_set,4.6723216693761485,LOSO,61,GBM_groupedtrees,2988
+320,61,9,0,4.749173855985667,RSSCT,groundwater,UV_training_set,4.970898434640374,LOSO,61,GBM_groupedtrees,2988
+321,61,9,0,4.750822513372734,RSSCT,groundwater,UV_training_set,4.969655450208271,LOSO,61,GBM_groupedtrees,2988
+322,61,9,0,4.755468741637959,RSSCT,groundwater,UV_training_set,4.880546759100935,LOSO,61,GBM_groupedtrees,2988
+323,61,9,0,4.76247972178547,RSSCT,groundwater,UV_training_set,5.166851968372468,LOSO,61,GBM_groupedtrees,2988
+324,61,9,0,4.7787622325012,RSSCT,groundwater,UV_training_set,5.160824706256732,LOSO,61,GBM_groupedtrees,2988
+325,61,9,0,4.80556616240622,RSSCT,groundwater,UV_training_set,5.071704844616701,LOSO,61,GBM_groupedtrees,2988
+326,61,9,0,4.098540607876411,RSSCT,groundwater,UV_training_set,4.428186001819868,LOSO,61,GBM_groupedtrees,2988
+327,61,9,0,4.180971448865605,RSSCT,groundwater,UV_training_set,4.428186001819868,LOSO,61,GBM_groupedtrees,2988
+328,61,9,0,4.203704480546643,RSSCT,groundwater,UV_training_set,4.351901679687863,LOSO,61,GBM_groupedtrees,2988
+329,61,9,0,4.405063530481639,RSSCT,groundwater,UV_training_set,4.431955947600035,LOSO,61,GBM_groupedtrees,2988
+330,62,6,0,3.6894402907196633,RSSCT,groundwater,UV_training_set,3.7159991816399494,LOSO,62,GBM_groupedtrees,52
+331,62,6,0,3.696966317719663,RSSCT,groundwater,UV_training_set,3.7159991816399494,LOSO,62,GBM_groupedtrees,52
+332,62,6,0,4.352852728719663,RSSCT,groundwater,UV_training_set,4.059281319756493,LOSO,62,GBM_groupedtrees,52
+333,62,6,0,4.399940156719663,RSSCT,groundwater,UV_training_set,4.059281319756493,LOSO,62,GBM_groupedtrees,52
+334,62,6,0,3.6240059737196626,RSSCT,groundwater,UV_training_set,3.7159991816399494,LOSO,62,GBM_groupedtrees,52
+335,62,6,0,3.6440658367196628,RSSCT,groundwater,UV_training_set,3.7159991816399494,LOSO,62,GBM_groupedtrees,52
+336,62,6,0,3.7659049477196627,RSSCT,groundwater,UV_training_set,3.7159991816399494,LOSO,62,GBM_groupedtrees,52
+337,62,6,0,3.768299233719663,RSSCT,groundwater,UV_training_set,3.7793379234790843,LOSO,62,GBM_groupedtrees,52
+338,62,6,0,3.784566780719663,RSSCT,groundwater,UV_training_set,3.7793379234790843,LOSO,62,GBM_groupedtrees,52
+339,62,6,0,4.2342107737196635,RSSCT,groundwater,UV_training_set,4.029435816272801,LOSO,62,GBM_groupedtrees,52
+340,62,6,0,4.242507163719663,RSSCT,groundwater,UV_training_set,4.029435816272801,LOSO,62,GBM_groupedtrees,52
+341,62,6,0,4.476772334719662,RSSCT,groundwater,UV_training_set,4.324617321980005,LOSO,62,GBM_groupedtrees,52
+342,62,6,0,4.511702599719663,RSSCT,groundwater,UV_training_set,4.307877045856186,LOSO,62,GBM_groupedtrees,52
+343,62,6,0,4.3454669877196626,RSSCT,groundwater,UV_training_set,4.042656038378531,LOSO,62,GBM_groupedtrees,52
+344,62,6,0,4.427396235719662,RSSCT,groundwater,UV_training_set,4.042656038378531,LOSO,62,GBM_groupedtrees,52
+345,62,6,0,4.928867272719662,RSSCT,groundwater,UV_training_set,4.087681238974699,LOSO,62,GBM_groupedtrees,52
+346,62,6,0,4.984121839719664,RSSCT,groundwater,UV_training_set,4.087681238974699,LOSO,62,GBM_groupedtrees,52
+347,62,6,0,4.633247431719663,RSSCT,groundwater,UV_training_set,3.9811244292639905,LOSO,62,GBM_groupedtrees,52
+348,62,6,0,4.717869310719663,RSSCT,groundwater,UV_training_set,3.9811244292639905,LOSO,62,GBM_groupedtrees,52
+349,69,10,0,4.799916809405545,RSSCT,groundwater,UV_training_set,4.435739081264545,LOSO,69,GBM_groupedtrees,145
+350,69,10,0,3.919113937911389,RSSCT,groundwater,UV_training_set,4.29732294940103,LOSO,69,GBM_groupedtrees,145
+351,69,10,0,4.646201611154577,RSSCT,groundwater,UV_training_set,4.465086812533478,LOSO,69,GBM_groupedtrees,145
+352,69,10,0,4.741085250984216,RSSCT,groundwater,UV_training_set,4.341598535646208,LOSO,69,GBM_groupedtrees,145
+353,69,10,0,4.666369612623108,RSSCT,groundwater,UV_training_set,4.076171583612853,LOSO,69,GBM_groupedtrees,145
+354,69,10,0,4.921678729257379,RSSCT,groundwater,UV_training_set,4.296160841921735,LOSO,69,GBM_groupedtrees,145
+355,69,10,0,4.38191535131012,RSSCT,groundwater,UV_training_set,4.194803896285963,LOSO,69,GBM_groupedtrees,145
+356,69,10,0,4.823122230767952,RSSCT,groundwater,UV_training_set,4.40717710909275,LOSO,69,GBM_groupedtrees,145
+357,69,10,0,4.8310509222249145,RSSCT,groundwater,UV_training_set,4.135478523076504,LOSO,69,GBM_groupedtrees,145
+358,69,10,0,4.6887298004043965,RSSCT,groundwater,UV_training_set,4.369001451455896,LOSO,69,GBM_groupedtrees,145
+359,69,10,0,4.8414011268176225,RSSCT,groundwater,UV_training_set,4.48001771862691,LOSO,69,GBM_groupedtrees,145
+360,69,10,0,3.9756592973296243,RSSCT,groundwater,UV_training_set,4.341601586763395,LOSO,69,GBM_groupedtrees,145
+361,69,10,0,4.68558307615598,RSSCT,groundwater,UV_training_set,4.509365449895843,LOSO,69,GBM_groupedtrees,145
+362,69,10,0,4.709373099264723,RSSCT,groundwater,UV_training_set,4.083009278028024,LOSO,69,GBM_groupedtrees,145
+363,69,10,0,4.927323895184095,RSSCT,groundwater,UV_training_set,4.3404394792841,LOSO,69,GBM_groupedtrees,145
+364,69,10,0,4.298777221872966,RSSCT,groundwater,UV_training_set,4.239082533648327,LOSO,69,GBM_groupedtrees,145
+365,69,10,0,4.782673512288013,RSSCT,groundwater,UV_training_set,4.179757160438868,LOSO,69,GBM_groupedtrees,145
+366,69,10,0,4.868282321117463,RSSCT,groundwater,UV_training_set,4.3404394792841,LOSO,69,GBM_groupedtrees,145
+367,77,11,0,4.049126196941958,RSSCT,Treated WW,UV_training_set,3.9910267352491626,LOSO,77,GBM_groupedtrees,109
+368,77,11,0,3.783280033170322,RSSCT,Treated WW,UV_training_set,3.9910267352491626,LOSO,77,GBM_groupedtrees,109
+369,77,11,0,3.2227834879566206,RSSCT,Treated WW,UV_training_set,3.9527393783351,LOSO,77,GBM_groupedtrees,109
+371,77,11,0,4.390298897656521,RSSCT,Treated WW,UV_training_set,4.012908152768692,LOSO,77,GBM_groupedtrees,109
+372,77,11,0,4.353037257968136,RSSCT,Treated WW,UV_training_set,3.9938160169554053,LOSO,77,GBM_groupedtrees,109
+373,77,11,0,3.6860414330609004,RSSCT,Treated WW,UV_training_set,3.9322722949151756,LOSO,77,GBM_groupedtrees,109
+374,77,11,0,3.263472395921375,RSSCT,Treated WW,UV_training_set,3.169761253057838,LOSO,77,GBM_groupedtrees,109
+375,77,11,0,2.7048633766482144,RSSCT,Treated WW,UV_training_set,3.1660891860247093,LOSO,77,GBM_groupedtrees,109
+377,77,11,0,3.7376787573044763,RSSCT,Treated WW,UV_training_set,3.427291156587613,LOSO,77,GBM_groupedtrees,109
+378,77,11,0,3.069999727906512,RSSCT,Treated WW,UV_training_set,3.4315522437949495,LOSO,77,GBM_groupedtrees,109
+379,77,11,0,2.9252895866094137,RSSCT,Treated WW,UV_training_set,3.3998021076874934,LOSO,77,GBM_groupedtrees,109
+381,77,11,0,3.6996001884863365,RSSCT,Treated WW,UV_training_set,3.673708165899299,LOSO,77,GBM_groupedtrees,109
+382,77,11,0,3.448329752814807,RSSCT,Treated WW,UV_training_set,3.673708165899299,LOSO,77,GBM_groupedtrees,109
+383,77,11,0,3.334618921061572,RSSCT,Treated WW,UV_training_set,3.629089163138772,LOSO,77,GBM_groupedtrees,109
+385,77,11,0,3.9670724811380977,RSSCT,Treated WW,UV_training_set,4.120185375554339,LOSO,77,GBM_groupedtrees,109
+386,77,11,0,3.448329752814807,RSSCT,Treated WW,UV_training_set,3.299911849731049,LOSO,77,GBM_groupedtrees,109
+393,77,11,0,3.5932441454272857,RSSCT,Treated WW,UV_training_set,3.547569667236079,LOSO,77,GBM_groupedtrees,109
+394,77,11,0,3.5932441454272857,RSSCT,Treated WW,UV_training_set,3.802489506179584,LOSO,77,GBM_groupedtrees,109
+12,78,6,0,3.460296326719663,RSSCT,groundwater,UV_training_set,3.625916402290515,LOSO,78,GBM_groupedtrees,185
+16,78,6,0,3.561697532719663,RSSCT,groundwater,UV_training_set,3.612839406604176,LOSO,78,GBM_groupedtrees,185
+19,78,6,0,4.0346284567196635,RSSCT,groundwater,UV_training_set,4.05309232326827,LOSO,78,GBM_groupedtrees,185
+23,78,6,0,4.0346284567196635,RSSCT,groundwater,UV_training_set,4.080913979777477,LOSO,78,GBM_groupedtrees,185
+387,78,6,0,3.217483943719663,RSSCT,groundwater,UV_training_set,3.5548218803028897,LOSO,78,GBM_groupedtrees,185
+388,78,6,0,3.265996370719663,RSSCT,groundwater,UV_training_set,3.5678988759892287,LOSO,78,GBM_groupedtrees,185
+389,78,6,0,3.5930644317196627,RSSCT,groundwater,UV_training_set,3.6689717511901065,LOSO,78,GBM_groupedtrees,185
+390,78,6,0,3.667452952719662,RSSCT,groundwater,UV_training_set,3.6558947555037675,LOSO,78,GBM_groupedtrees,185
+391,78,6,0,3.927293353719663,RSSCT,groundwater,UV_training_set,3.6558947555037675,LOSO,78,GBM_groupedtrees,185
+392,78,6,0,3.9933921377196624,RSSCT,groundwater,UV_training_set,3.6558947555037675,LOSO,78,GBM_groupedtrees,185
+395,78,6,0,3.767155865719663,RSSCT,groundwater,UV_training_set,4.015358232062386,LOSO,78,GBM_groupedtrees,185
+396,78,6,0,3.7888751157196627,RSSCT,groundwater,UV_training_set,4.043179888571593,LOSO,78,GBM_groupedtrees,185
+397,78,6,0,4.051731195719663,RSSCT,groundwater,UV_training_set,4.161087912931504,LOSO,78,GBM_groupedtrees,185
+398,78,6,0,4.096631975719663,RSSCT,groundwater,UV_training_set,4.1332662564222975,LOSO,78,GBM_groupedtrees,185
+399,78,6,0,4.2938264387196625,RSSCT,groundwater,UV_training_set,4.1332662564222975,LOSO,78,GBM_groupedtrees,185
+400,78,6,0,4.2940912927196635,RSSCT,groundwater,UV_training_set,4.1332662564222975,LOSO,78,GBM_groupedtrees,185
+401,78,6,0,4.410810963719664,RSSCT,groundwater,UV_training_set,4.444815204345035,LOSO,78,GBM_groupedtrees,185
+402,78,6,0,4.516614689719662,RSSCT,groundwater,UV_training_set,4.405734780200005,LOSO,78,GBM_groupedtrees,185
+403,78,6,0,4.5317343097196625,RSSCT,groundwater,UV_training_set,4.405734780200005,LOSO,78,GBM_groupedtrees,185
+404,79,1,0,4.359097697,pilot/full,surface water,UV_training_set,4.274429520443872,LOSO,79,GBM_groupedtrees,326
+405,79,1,0,4.417945715,pilot/full,surface water,original_test_set,4.231306427614542,LOSO,79,GBM_groupedtrees,326
+406,79,1,0,4.3353193,pilot/full,surface water,UV_training_set,4.160646000079193,LOSO,79,GBM_groupedtrees,326
+407,79,1,0,4.151234192,pilot/full,surface water,UV_training_set,4.076531370227375,LOSO,79,GBM_groupedtrees,326
+408,79,1,0,4.56089535,pilot/full,surface water,UV_training_set,4.38783632087735,LOSO,79,GBM_groupedtrees,326
+409,79,1,0,4.409104653,pilot/full,surface water,UV_training_set,4.252723257595964,LOSO,79,GBM_groupedtrees,326
+410,79,1,0,4.288087753,pilot/full,surface water,UV_training_set,4.182718458641055,LOSO,79,GBM_groupedtrees,326
+411,79,1,0,4.527702297,pilot/full,surface water,UV_training_set,4.460156468256901,LOSO,79,GBM_groupedtrees,326
+412,79,1,0,3.925941507,pilot/full,surface water,UV_training_set,4.022628590252591,LOSO,79,GBM_groupedtrees,326
+0,1,0,0,3.7728754,pilot/full,Treated WW,original_test_set,4.337608589719206,LOCO,0,GBM_groupedtrees,393
+1,1,0,0,3.778718715,pilot/full,Treated WW,UV_training_set,4.291144821201607,LOCO,0,GBM_groupedtrees,393
+2,1,0,0,3.030080778,pilot/full,Treated WW,UV_training_set,3.6262633683004752,LOCO,0,GBM_groupedtrees,393
+3,1,0,0,3.261340187,pilot/full,Treated WW,UV_training_set,3.672727136818075,LOCO,0,GBM_groupedtrees,393
+4,1,0,0,3.783464209,pilot/full,Treated WW,UV_training_set,3.7404385433207223,LOCO,0,GBM_groupedtrees,393
+5,1,0,0,3.804133501,pilot/full,Treated WW,UV_training_set,3.7869023118383214,LOCO,0,GBM_groupedtrees,393
+6,1,0,0,3.522517249,pilot/full,Treated WW,UV_training_set,3.552461632563265,LOCO,0,GBM_groupedtrees,393
+7,1,0,0,3.620574127,pilot/full,Treated WW,original_test_set,3.505997864045665,LOCO,0,GBM_groupedtrees,393
+8,1,0,0,3.945604473,pilot/full,Treated WW,UV_training_set,3.552461632563265,LOCO,0,GBM_groupedtrees,393
+9,1,0,1,4.033291752,pilot/full,Treated WW,original_test_set,3.505997864045665,LOCO,0,GBM_groupedtrees,393
+10,1,0,0,3.369491602,pilot/full,Treated WW,original_test_set,4.134210073035212,LOCO,0,GBM_groupedtrees,393
+11,1,0,0,3.4935993,pilot/full,Treated WW,UV_training_set,4.167905155415826,LOCO,0,GBM_groupedtrees,393
+13,16,1,0,4.892094603,pilot/full,synthetic surface water,UV_training_set,4.533449056843162,LOCO,1,GBM_groupedtrees,962
+14,16,1,0,4.792391689,pilot/full,surface water,original_test_set,4.310681944700026,LOCO,1,GBM_groupedtrees,962
+15,16,1,0,4.929418926,pilot/full,surface water,UV_training_set,4.344375878550775,LOCO,1,GBM_groupedtrees,962
+17,16,1,0,4.72427587,pilot/full,synthetic surface water,UV_training_set,4.4529838548449945,LOCO,1,GBM_groupedtrees,962
+18,16,1,0,5.0,pilot/full,surface water,UV_training_set,4.205517875023464,LOCO,1,GBM_groupedtrees,962
+20,16,1,1,4.556302501,pilot/full,synthetic surface water,UV_training_set,4.641046850134447,LOCO,1,GBM_groupedtrees,962
+21,16,1,1,4.716003344,pilot/full,surface water,original_test_set,4.368554595602702,LOCO,1,GBM_groupedtrees,962
+22,16,1,1,4.954242509,pilot/full,surface water,UV_training_set,4.398606757075837,LOCO,1,GBM_groupedtrees,962
+24,16,1,0,4.924279286,pilot/full,surface water,original_test_set,4.274982085527488,LOCO,1,GBM_groupedtrees,962
+25,16,1,0,4.954242509,pilot/full,surface water,UV_training_set,4.308676019378236,LOCO,1,GBM_groupedtrees,962
+26,16,1,0,5.033423755,pilot/full,surface water,UV_training_set,4.094463116925855,LOCO,1,GBM_groupedtrees,962
+28,16,1,0,4.819543936,pilot/full,surface water,UV_training_set,4.23903365711284,LOCO,1,GBM_groupedtrees,962
+30,16,1,0,4.079181246,pilot/full,synthetic surface water,UV_training_set,4.176329533337118,LOCO,1,GBM_groupedtrees,962
+31,16,1,0,4.146128036,pilot/full,surface water,original_test_set,3.993039224754286,LOCO,1,GBM_groupedtrees,962
+32,16,1,0,4.176091259,pilot/full,surface water,original_test_set,4.026733158605037,LOCO,1,GBM_groupedtrees,962
+34,16,1,0,4.698970004,pilot/full,synthetic surface water,original_test_set,4.429268715012347,LOCO,1,GBM_groupedtrees,962
+35,16,1,0,4.716003344,pilot/full,surface water,UV_training_set,4.206146645534856,LOCO,1,GBM_groupedtrees,962
+36,16,1,0,4.903089987,pilot/full,surface water,UV_training_set,4.239840579385604,LOCO,1,GBM_groupedtrees,962
+38,16,1,0,4.544068044,pilot/full,synthetic surface water,UV_training_set,4.543070615293066,LOCO,1,GBM_groupedtrees,962
+39,16,1,0,4.662757832,pilot/full,surface water,UV_training_set,4.2631706921090045,LOCO,1,GBM_groupedtrees,962
+40,16,1,0,4.806179974,pilot/full,surface water,UV_training_set,4.296864625959753,LOCO,1,GBM_groupedtrees,962
+42,16,1,0,4.832508913,pilot/full,surface water,original_test_set,4.450320443839584,LOCO,1,GBM_groupedtrees,962
+43,16,1,0,5.071882007,pilot/full,surface water,UV_training_set,4.4840143776903325,LOCO,1,GBM_groupedtrees,962
+45,16,1,0,4.973127854,pilot/full,surface water,UV_training_set,4.073682866326572,LOCO,1,GBM_groupedtrees,962
+48,17,1,0,4.623249290719663,RSSCT,synthetic surface water,UV_training_set,4.502249519578742,LOCO,1,GBM_groupedtrees,962
+49,17,1,0,4.380211241719664,RSSCT,surface water,UV_training_set,4.309317126411646,LOCO,1,GBM_groupedtrees,962
+50,17,1,0,4.799340549719663,RSSCT,surface water,UV_training_set,4.404635550398992,LOCO,1,GBM_groupedtrees,962
+52,16,1,0,4.740362689,pilot/full,synthetic surface water,original_test_set,4.044199191131742,LOCO,1,GBM_groupedtrees,962
+53,17,1,0,4.537819094719662,RSSCT,synthetic surface water,UV_training_set,4.416536725770368,LOCO,1,GBM_groupedtrees,962
+54,17,1,0,4.707570175719662,RSSCT,surface water,UV_training_set,4.170459122884335,LOCO,1,GBM_groupedtrees,962
+55,17,1,0,5.008600171719663,RSSCT,surface water,UV_training_set,4.265800989173073,LOCO,1,GBM_groupedtrees,962
+56,16,1,0,4.812913357,pilot/full,synthetic surface water,UV_training_set,3.906102788478248,LOCO,1,GBM_groupedtrees,962
+57,17,1,0,4.8388490907196635,RSSCT,surface water,UV_training_set,4.366393203004939,LOCO,1,GBM_groupedtrees,962
+58,17,1,0,4.809559714719663,RSSCT,surface water,UV_training_set,4.466392706349298,LOCO,1,GBM_groupedtrees,962
+59,16,1,1,4.681241237,pilot/full,synthetic surface water,original_test_set,4.123203969601052,LOCO,1,GBM_groupedtrees,962
+60,17,1,0,4.892094601719663,RSSCT,surface water,UV_training_set,4.269293513259748,LOCO,1,GBM_groupedtrees,962
+61,17,1,0,4.9956351947196636,RSSCT,surface water,UV_training_set,4.346732966964512,LOCO,1,GBM_groupedtrees,962
+62,16,1,0,4.903089987,pilot/full,synthetic surface water,UV_training_set,3.9083108416536825,LOCO,1,GBM_groupedtrees,962
+63,17,1,0,4.623249290719663,RSSCT,synthetic surface water,UV_training_set,4.369186097425025,LOCO,1,GBM_groupedtrees,962
+64,17,1,0,4.778151250719662,RSSCT,surface water,UV_training_set,4.0242412974222725,LOCO,1,GBM_groupedtrees,962
+65,17,1,0,5.008600171719663,RSSCT,surface water,UV_training_set,4.1037518424135655,LOCO,1,GBM_groupedtrees,962
+66,16,1,0,4.342422681,pilot/full,synthetic surface water,UV_training_set,3.8816068046029875,LOCO,1,GBM_groupedtrees,962
+67,17,1,0,4.477121254719663,RSSCT,synthetic surface water,UV_training_set,4.387113594767261,LOCO,1,GBM_groupedtrees,962
+68,17,1,0,4.939519251719663,RSSCT,surface water,UV_training_set,4.206395499031957,LOCO,1,GBM_groupedtrees,962
+69,16,1,0,3.903089987,pilot/full,synthetic surface water,UV_training_set,3.660329394663743,LOCO,1,GBM_groupedtrees,962
+70,16,1,0,4.544068044,pilot/full,synthetic surface water,UV_training_set,3.8997664175375357,LOCO,1,GBM_groupedtrees,962
+71,17,1,0,3.9242792857196624,RSSCT,synthetic surface water,UV_training_set,4.108395097775334,LOCO,1,GBM_groupedtrees,962
+72,17,1,0,3.9542425097196627,RSSCT,surface water,UV_training_set,3.9601870999787443,LOCO,1,GBM_groupedtrees,962
+73,17,1,0,4.255272504719663,RSSCT,surface water,UV_training_set,4.000845332855972,LOCO,1,GBM_groupedtrees,962
+74,16,1,0,4.579783597,pilot/full,synthetic surface water,UV_training_set,3.991957302961876,LOCO,1,GBM_groupedtrees,962
+75,16,1,0,4.875061263,pilot/full,synthetic surface water,UV_training_set,4.1943886293967525,LOCO,1,GBM_groupedtrees,962
+76,17,1,0,4.556302500719663,RSSCT,synthetic surface water,UV_training_set,4.391519027531227,LOCO,1,GBM_groupedtrees,962
+77,17,1,0,4.732393759719662,RSSCT,surface water,UV_training_set,4.198231677029776,LOCO,1,GBM_groupedtrees,962
+78,17,1,0,4.707570175719662,RSSCT,surface water,UV_training_set,4.291625421621557,LOCO,1,GBM_groupedtrees,962
+79,16,1,0,4.875061263,pilot/full,synthetic surface water,UV_training_set,3.616154090021474,LOCO,1,GBM_groupedtrees,962
+80,17,1,0,4.498310553719663,RSSCT,synthetic surface water,UV_training_set,3.96461217258412,LOCO,1,GBM_groupedtrees,962
+81,17,1,0,4.537819094719662,RSSCT,synthetic surface water,UV_training_set,4.51066658596307,LOCO,1,GBM_groupedtrees,962
+82,17,1,0,4.707570175719662,RSSCT,surface water,UV_training_set,4.260601381755047,LOCO,1,GBM_groupedtrees,962
+83,17,1,0,4.681241237719663,RSSCT,surface water,UV_training_set,4.361158663988411,LOCO,1,GBM_groupedtrees,962
+84,17,1,0,4.857332496719663,RSSCT,synthetic surface water,UV_training_set,3.9408083562842524,LOCO,1,GBM_groupedtrees,962
+85,17,1,0,4.892094601719663,RSSCT,surface water,UV_training_set,4.442405475334504,LOCO,1,GBM_groupedtrees,962
+86,17,1,0,4.799340549719663,RSSCT,surface water,UV_training_set,4.538713027307811,LOCO,1,GBM_groupedtrees,962
+87,17,1,0,4.556302500719663,RSSCT,synthetic surface water,UV_training_set,3.826515769930621,LOCO,1,GBM_groupedtrees,962
+88,17,1,0,4.5185139397196625,RSSCT,synthetic surface water,UV_training_set,4.248045364421514,LOCO,1,GBM_groupedtrees,962
+89,17,1,0,4.755874855719663,RSSCT,surface water,UV_training_set,3.9979147280118132,LOCO,1,GBM_groupedtrees,962
+90,17,1,0,4.9036325157196625,RSSCT,surface water,UV_training_set,4.060130927943223,LOCO,1,GBM_groupedtrees,962
+127,17,1,0,4.892094601719663,RSSCT,synthetic surface water,UV_training_set,3.8075887509127586,LOCO,1,GBM_groupedtrees,962
+130,17,1,0,4.819543935719663,RSSCT,synthetic surface water,UV_training_set,4.042465877919818,LOCO,1,GBM_groupedtrees,962
+132,17,1,0,4.968482948719663,RSSCT,synthetic surface water,UV_training_set,3.8286457951369477,LOCO,1,GBM_groupedtrees,962
+135,17,1,0,4.431363764719664,RSSCT,synthetic surface water,UV_training_set,3.4684532083285657,LOCO,1,GBM_groupedtrees,962
+138,17,1,0,4.380211241719664,RSSCT,synthetic surface water,UV_training_set,3.8086861061238566,LOCO,1,GBM_groupedtrees,962
+140,17,1,0,3.3802112417196626,RSSCT,synthetic surface water,UV_training_set,3.545853201091026,LOCO,1,GBM_groupedtrees,962
+143,17,1,0,3.819543935719663,RSSCT,synthetic surface water,UV_training_set,3.5178771596003897,LOCO,1,GBM_groupedtrees,962
+178,17,1,0,4.406540180719663,RSSCT,synthetic surface water,UV_training_set,3.8158901841072943,LOCO,1,GBM_groupedtrees,962
+183,17,1,0,4.477121254719663,RSSCT,synthetic surface water,UV_training_set,3.7920863678074266,LOCO,1,GBM_groupedtrees,962
+188,17,1,0,4.498310553719663,RSSCT,synthetic surface water,UV_training_set,3.9134267276827583,LOCO,1,GBM_groupedtrees,962
+189,17,1,0,4.732393759719662,RSSCT,synthetic surface water,UV_training_set,3.8896229113828897,LOCO,1,GBM_groupedtrees,962
+194,17,1,0,4.892094601719663,RSSCT,synthetic surface water,UV_training_set,4.110512395966512,LOCO,1,GBM_groupedtrees,962
+198,17,1,0,4.5185139397196625,RSSCT,synthetic surface water,UV_training_set,3.504556347201111,LOCO,1,GBM_groupedtrees,962
+261,57,1,0,4.667763584324365,RSSCT,surface water,UV_training_set,4.289609889241049,LOCO,1,GBM_groupedtrees,962
+262,57,1,0,4.829328066214528,RSSCT,surface water,UV_training_set,4.387294520124027,LOCO,1,GBM_groupedtrees,962
+263,57,1,0,4.786074244992476,RSSCT,surface water,UV_training_set,4.2869631588328065,LOCO,1,GBM_groupedtrees,962
+264,57,1,0,4.0275525016927265,RSSCT,surface water,UV_training_set,3.9160474837924664,LOCO,1,GBM_groupedtrees,962
+265,57,1,0,4.727784266790629,RSSCT,surface water,UV_training_set,4.251044334422364,LOCO,1,GBM_groupedtrees,962
+266,57,1,0,4.64861117561938,RSSCT,surface water,UV_training_set,4.227237597540871,LOCO,1,GBM_groupedtrees,962
+267,57,1,0,4.806875401645539,RSSCT,surface water,UV_training_set,4.49205563423139,LOCO,1,GBM_groupedtrees,962
+404,79,1,0,4.359097697,pilot/full,surface water,UV_training_set,3.766532043241582,LOCO,1,GBM_groupedtrees,962
+405,79,1,0,4.417945715,pilot/full,surface water,original_test_set,3.5465516387404223,LOCO,1,GBM_groupedtrees,962
+406,79,1,0,4.3353193,pilot/full,surface water,UV_training_set,3.4006932726804675,LOCO,1,GBM_groupedtrees,962
+407,79,1,0,4.151234192,pilot/full,surface water,UV_training_set,3.2731996531699212,LOCO,1,GBM_groupedtrees,962
+408,79,1,0,4.56089535,pilot/full,surface water,UV_training_set,3.782400935468184,LOCO,1,GBM_groupedtrees,962
+409,79,1,0,4.409104653,pilot/full,surface water,UV_training_set,3.464157320661828,LOCO,1,GBM_groupedtrees,962
+410,79,1,0,4.288087753,pilot/full,surface water,UV_training_set,3.3891236469165804,LOCO,1,GBM_groupedtrees,962
+411,79,1,0,4.527702297,pilot/full,surface water,UV_training_set,3.805177915295543,LOCO,1,GBM_groupedtrees,962
+412,79,1,0,3.925941507,pilot/full,surface water,UV_training_set,3.1454257688461924,LOCO,1,GBM_groupedtrees,962
+91,19,2,0,3.991428155,pilot/full,groundwater,original_test_set,4.324695651201415,LOCO,2,GBM_groupedtrees,83
+92,19,2,0,4.00593433,pilot/full,groundwater,UV_training_set,4.136458415695591,LOCO,2,GBM_groupedtrees,83
+93,19,2,1,4.052610845,pilot/full,groundwater,original_test_set,4.291124109230092,LOCO,2,GBM_groupedtrees,83
+94,19,2,0,4.152087052,pilot/full,groundwater,original_test_set,4.325417504291008,LOCO,2,GBM_groupedtrees,83
+95,19,2,1,4.081764683,pilot/full,groundwater,original_test_set,4.1896256188561765,LOCO,2,GBM_groupedtrees,83
+96,19,2,1,4.265020376,pilot/full,groundwater,UV_training_set,4.353706851490378,LOCO,2,GBM_groupedtrees,83
+97,19,2,0,4.489747597,pilot/full,groundwater,UV_training_set,4.3201353095190544,LOCO,2,GBM_groupedtrees,83
+98,19,2,0,3.911076503,pilot/full,groundwater,UV_training_set,3.6378483470721177,LOCO,2,GBM_groupedtrees,83
+99,19,2,0,4.015218498,pilot/full,groundwater,UV_training_set,3.8125999391968137,LOCO,2,GBM_groupedtrees,83
+100,19,2,0,4.057543453,pilot/full,groundwater,UV_training_set,3.813321792286407,LOCO,2,GBM_groupedtrees,83
+101,19,2,1,4.112080362,pilot/full,groundwater,original_test_set,3.7790283972254923,LOCO,2,GBM_groupedtrees,83
+102,19,2,0,3.979418419,pilot/full,groundwater,UV_training_set,4.176148563277104,LOCO,2,GBM_groupedtrees,83
+103,19,2,0,4.170519464,pilot/full,groundwater,original_test_set,4.340229795911305,LOCO,2,GBM_groupedtrees,83
+104,19,2,0,4.35871685191586,pilot/full,groundwater,UV_training_set,4.306658253939982,LOCO,2,GBM_groupedtrees,83
+105,19,2,0,4.42709088,pilot/full,groundwater,original_test_set,4.340951649000898,LOCO,2,GBM_groupedtrees,83
+106,19,2,0,3.83059812550234,pilot/full,groundwater,UV_training_set,3.965074594989211,LOCO,2,GBM_groupedtrees,83
+107,19,2,0,4.13588952973389,pilot/full,groundwater,UV_training_set,4.154838022649831,LOCO,2,GBM_groupedtrees,83
+108,19,2,0,4.21974497647267,pilot/full,groundwater,original_test_set,4.121266480678508,LOCO,2,GBM_groupedtrees,83
+109,19,2,0,4.367298205,pilot/full,groundwater,UV_training_set,4.155559875739424,LOCO,2,GBM_groupedtrees,83
+110,19,2,0,4.11316232739591,pilot/full,groundwater,original_test_set,4.158875381541895,LOCO,2,GBM_groupedtrees,83
+111,19,2,0,4.295691451,pilot/full,groundwater,UV_training_set,4.322956614176096,LOCO,2,GBM_groupedtrees,83
+112,19,2,1,4.417405214,pilot/full,groundwater,original_test_set,4.289385072204773,LOCO,2,GBM_groupedtrees,83
+113,19,2,0,4.524329718,pilot/full,groundwater,UV_training_set,4.323678467265689,LOCO,2,GBM_groupedtrees,83
+114,19,2,0,3.892284475,pilot/full,groundwater,UV_training_set,3.576906086119026,LOCO,2,GBM_groupedtrees,83
+115,19,2,1,3.969678939,pilot/full,groundwater,original_test_set,3.7180861362724005,LOCO,2,GBM_groupedtrees,83
+116,19,2,0,4.01323026,pilot/full,groundwater,UV_training_set,3.752379531333315,LOCO,2,GBM_groupedtrees,83
+117,19,2,0,4.039207236,pilot/full,groundwater,original_test_set,3.7516576782437228,LOCO,2,GBM_groupedtrees,83
+118,19,2,0,3.929890062,pilot/full,groundwater,original_test_set,4.176148563277104,LOCO,2,GBM_groupedtrees,83
+119,19,2,0,4.071801749,pilot/full,groundwater,UV_training_set,4.340229795911305,LOCO,2,GBM_groupedtrees,83
+120,19,2,0,4.135098175,pilot/full,groundwater,UV_training_set,4.340951649000898,LOCO,2,GBM_groupedtrees,83
+121,19,2,0,4.269788382,pilot/full,groundwater,UV_training_set,4.306658253939982,LOCO,2,GBM_groupedtrees,83
+122,19,2,0,3.894436059,pilot/full,groundwater,UV_training_set,4.136458415695591,LOCO,2,GBM_groupedtrees,83
+123,19,2,0,3.989821267,pilot/full,groundwater,UV_training_set,4.324695651201415,LOCO,2,GBM_groupedtrees,83
+124,19,2,1,4.044957851,pilot/full,groundwater,original_test_set,4.291124109230092,LOCO,2,GBM_groupedtrees,83
+125,19,2,0,4.078606937,pilot/full,groundwater,UV_training_set,4.325417504291008,LOCO,2,GBM_groupedtrees,83
+126,35,3,0,4.082257857351604,RSSCT,surface water,UV_training_set,3.447901317810796,LOCO,3,GBM_groupedtrees,230
+128,35,3,0,3.8417139371165363,RSSCT,Treated WW,UV_training_set,3.7455730761838137,LOCO,3,GBM_groupedtrees,230
+129,35,3,0,4.146269645694943,RSSCT,surface water,UV_training_set,3.4195427936238483,LOCO,3,GBM_groupedtrees,230
+131,35,3,0,3.2973892495251897,RSSCT,surface water,UV_training_set,2.9298038956192167,LOCO,3,GBM_groupedtrees,230
+133,35,3,0,3.3238960406074782,RSSCT,Treated WW,UV_training_set,3.113077087547809,LOCO,3,GBM_groupedtrees,230
+134,35,3,0,2.9075968696551424,RSSCT,surface water,UV_training_set,2.8659793657087707,LOCO,3,GBM_groupedtrees,230
+136,35,3,0,3.4326145365248735,RSSCT,Treated WW,UV_training_set,3.260150577319168,LOCO,3,GBM_groupedtrees,230
+137,35,3,0,3.6166949551202783,RSSCT,surface water,UV_training_set,2.983406459276664,LOCO,3,GBM_groupedtrees,230
+139,35,3,0,3.222808034284815,RSSCT,surface water,UV_training_set,3.1207677225883876,LOCO,3,GBM_groupedtrees,230
+141,35,3,0,3.5594963191090723,RSSCT,Treated WW,UV_training_set,3.4809131935611313,LOCO,3,GBM_groupedtrees,230
+142,35,3,0,3.2966717063618485,RSSCT,surface water,UV_training_set,3.168476663211652,LOCO,3,GBM_groupedtrees,230
+203,35,3,0,4.282793051348456,RSSCT,synthetic surface water,UV_training_set,4.456950531192817,LOCO,3,GBM_groupedtrees,230
+208,35,3,0,4.295532992856459,RSSCT,synthetic surface water,UV_training_set,4.4104503123020296,LOCO,3,GBM_groupedtrees,230
+213,35,3,0,3.1273405519093753,RSSCT,synthetic surface water,UV_training_set,3.821242152195708,LOCO,3,GBM_groupedtrees,230
+370,35,3,0,2.9155708808820813,RSSCT,synthetic surface water,UV_training_set,3.77905581277398,LOCO,3,GBM_groupedtrees,230
+376,35,3,0,3.5033211092082235,RSSCT,synthetic surface water,UV_training_set,3.8924774636634716,LOCO,3,GBM_groupedtrees,230
+380,35,3,0,3.5817626399151337,RSSCT,synthetic surface water,UV_training_set,3.983565968289525,LOCO,3,GBM_groupedtrees,230
+384,35,3,0,3.915550176914748,RSSCT,synthetic surface water,UV_training_set,4.145790429679344,LOCO,3,GBM_groupedtrees,230
+144,50,4,0,3.292450705,pilot/full,surface water,original_test_set,4.283188812198794,LOCO,4,GBM_groupedtrees,171
+145,50,4,0,3.608427051,pilot/full,surface water,UV_training_set,4.210781288951291,LOCO,4,GBM_groupedtrees,171
+146,50,4,0,3.60590155,pilot/full,surface water,UV_training_set,3.815067712445079,LOCO,4,GBM_groupedtrees,171
+147,50,4,0,3.737304101,pilot/full,surface water,original_test_set,3.7167632720160246,LOCO,4,GBM_groupedtrees,171
+148,50,4,0,3.738930171,pilot/full,surface water,UV_training_set,3.7167632720160246,LOCO,4,GBM_groupedtrees,171
+149,50,4,0,3.653103665,pilot/full,surface water,UV_training_set,4.315051754520006,LOCO,4,GBM_groupedtrees,171
+150,50,4,0,3.699379267,pilot/full,surface water,UV_training_set,4.566405393229749,LOCO,4,GBM_groupedtrees,171
+151,50,4,1,3.876206583,pilot/full,surface water,original_test_set,4.535033908123739,LOCO,4,GBM_groupedtrees,171
+152,50,4,0,3.411371726,pilot/full,surface water,UV_training_set,4.1260297127593395,LOCO,4,GBM_groupedtrees,171
+153,50,4,0,3.529133248,pilot/full,surface water,UV_training_set,4.326562014181438,LOCO,4,GBM_groupedtrees,171
+154,50,4,0,3.68169817,pilot/full,surface water,original_test_set,4.254154490933935,LOCO,4,GBM_groupedtrees,171
+155,50,4,0,3.783979294,pilot/full,surface water,UV_training_set,4.326562014181438,LOCO,4,GBM_groupedtrees,171
+156,50,4,1,4.154293485,pilot/full,surface water,original_test_set,4.579968585278317,LOCO,4,GBM_groupedtrees,171
+157,50,4,0,4.164579409,pilot/full,surface water,UV_training_set,4.594494174130937,LOCO,4,GBM_groupedtrees,171
+158,50,4,0,2.973747188,pilot/full,surface water,original_test_set,3.629505461621915,LOCO,4,GBM_groupedtrees,171
+159,50,4,0,3.424876094,pilot/full,surface water,UV_training_set,3.6778652007613046,LOCO,4,GBM_groupedtrees,171
+160,50,4,0,3.567310642,pilot/full,surface water,UV_training_set,3.7125887900237675,LOCO,4,GBM_groupedtrees,171
+161,50,4,0,3.686039729,pilot/full,surface water,UV_training_set,3.6778652007613046,LOCO,4,GBM_groupedtrees,171
+162,50,4,0,3.629959128,pilot/full,surface water,UV_training_set,3.9299357080928923,LOCO,4,GBM_groupedtrees,171
+163,50,4,1,3.721238623,pilot/full,surface water,original_test_set,3.9160449724922044,LOCO,4,GBM_groupedtrees,171
+164,50,4,0,3.751816947,pilot/full,surface water,UV_training_set,3.9835236258471816,LOCO,4,GBM_groupedtrees,171
+165,50,4,0,3.853247311,pilot/full,surface water,UV_training_set,3.9299357080928923,LOCO,4,GBM_groupedtrees,171
+166,50,4,0,3.892875675,pilot/full,surface water,UV_training_set,4.112427550017287,LOCO,4,GBM_groupedtrees,171
+167,50,4,1,3.924686625,pilot/full,surface water,original_test_set,4.0324582225707895,LOCO,4,GBM_groupedtrees,171
+168,50,4,0,4.151750371,pilot/full,surface water,UV_training_set,3.9511200149466266,LOCO,4,GBM_groupedtrees,171
+169,50,4,1,4.19188477,pilot/full,surface water,original_test_set,4.026227572929499,LOCO,4,GBM_groupedtrees,171
+170,50,4,0,3.645470885,pilot/full,surface water,UV_training_set,4.544291910434611,LOCO,4,GBM_groupedtrees,171
+171,50,4,0,3.861379095,pilot/full,surface water,UV_training_set,4.284123946666055,LOCO,4,GBM_groupedtrees,171
+172,50,4,1,3.93050939,pilot/full,surface water,original_test_set,4.52518017605385,LOCO,4,GBM_groupedtrees,171
+173,50,4,0,4.16702996,pilot/full,surface water,UV_training_set,4.665088835672884,LOCO,4,GBM_groupedtrees,171
+174,50,4,0,3.154638695,pilot/full,surface water,UV_training_set,4.067893885562522,LOCO,4,GBM_groupedtrees,171
+175,50,4,0,3.460112747,pilot/full,surface water,UV_training_set,4.1630172689040705,LOCO,4,GBM_groupedtrees,171
+176,50,4,0,3.630357692,pilot/full,surface water,UV_training_set,4.196018663737118,LOCO,4,GBM_groupedtrees,171
+177,50,4,0,3.699044809,pilot/full,surface water,UV_training_set,4.1630172689040705,LOCO,4,GBM_groupedtrees,171
+27,51,5,0,4.1583624917196635,RSSCT,surface water,UV_training_set,4.39230248183889,LOCO,5,GBM_groupedtrees,233
+29,51,5,0,4.068185861719663,RSSCT,surface water,UV_training_set,4.384786192313538,LOCO,5,GBM_groupedtrees,233
+33,51,5,0,4.468347330719663,RSSCT,surface water,UV_training_set,4.413990551798992,LOCO,5,GBM_groupedtrees,233
+37,51,5,0,4.045322978719662,RSSCT,surface water,UV_training_set,4.085059177199678,LOCO,5,GBM_groupedtrees,233
+41,51,5,0,4.110589710719663,RSSCT,surface water,UV_training_set,4.075532990421537,LOCO,5,GBM_groupedtrees,233
+44,51,5,0,3.556302500719663,RSSCT,surface water,UV_training_set,3.584915233358611,LOCO,5,GBM_groupedtrees,233
+46,51,5,0,4.120573930719663,RSSCT,surface water,UV_training_set,4.327133228044381,LOCO,5,GBM_groupedtrees,233
+47,51,5,0,4.068185861719663,RSSCT,surface water,UV_training_set,4.337846295267361,LOCO,5,GBM_groupedtrees,233
+51,51,5,0,3.819543935719663,RSSCT,surface water,UV_training_set,4.100971785748107,LOCO,5,GBM_groupedtrees,233
+179,51,5,0,4.406540180719663,RSSCT,surface water,UV_training_set,4.672775449471521,LOCO,5,GBM_groupedtrees,233
+180,51,5,0,4.450249108719663,RSSCT,surface water,UV_training_set,4.643242449766493,LOCO,5,GBM_groupedtrees,233
+181,51,5,0,4.468347330719663,RSSCT,surface water,UV_training_set,4.529387861577982,LOCO,5,GBM_groupedtrees,233
+182,51,5,0,4.374748345719663,RSSCT,surface water,UV_training_set,4.649909831151118,LOCO,5,GBM_groupedtrees,233
+184,51,5,0,4.396199346719663,RSSCT,surface water,UV_training_set,4.667135108619245,LOCO,5,GBM_groupedtrees,233
+185,51,5,0,4.390935106719663,RSSCT,surface water,UV_training_set,4.637602108914217,LOCO,5,GBM_groupedtrees,233
+186,51,5,0,4.545307115719663,RSSCT,surface water,UV_training_set,4.530732462971232,LOCO,5,GBM_groupedtrees,233
+187,51,5,0,4.3031960567196625,RSSCT,surface water,UV_training_set,4.644269490298842,LOCO,5,GBM_groupedtrees,233
+190,51,5,0,4.385606273719663,RSSCT,surface water,UV_training_set,4.557545886425026,LOCO,5,GBM_groupedtrees,233
+191,51,5,0,4.411619705719662,RSSCT,surface water,UV_training_set,4.550809397065339,LOCO,5,GBM_groupedtrees,233
+192,51,5,0,4.352182518719663,RSSCT,surface water,UV_training_set,4.266617984617044,LOCO,5,GBM_groupedtrees,233
+193,51,5,0,4.309630166719662,RSSCT,surface water,UV_training_set,4.5574767784499635,LOCO,5,GBM_groupedtrees,233
+195,51,5,0,4.468347330719663,RSSCT,surface water,UV_training_set,4.468574989776509,LOCO,5,GBM_groupedtrees,233
+196,51,5,0,4.545307115719663,RSSCT,surface water,UV_training_set,4.210534837000556,LOCO,5,GBM_groupedtrees,233
+197,51,5,0,4.401400540719663,RSSCT,surface water,UV_training_set,4.4364497762124175,LOCO,5,GBM_groupedtrees,233
+199,51,5,0,3.7781512507196626,RSSCT,surface water,UV_training_set,4.048665449812029,LOCO,5,GBM_groupedtrees,233
+200,51,5,0,3.819543935719663,RSSCT,surface water,UV_training_set,4.030313497896924,LOCO,5,GBM_groupedtrees,233
+201,51,5,0,3.7781512507196626,RSSCT,surface water,UV_training_set,3.7199170799376313,LOCO,5,GBM_groupedtrees,233
+202,51,5,0,3.7993405497196626,RSSCT,surface water,UV_training_set,4.030313497896924,LOCO,5,GBM_groupedtrees,233
+204,51,5,0,4.374748345719663,RSSCT,surface water,UV_training_set,4.633725465173231,LOCO,5,GBM_groupedtrees,233
+205,51,5,0,4.454844859719664,RSSCT,surface water,UV_training_set,4.604192465468203,LOCO,5,GBM_groupedtrees,233
+206,51,5,0,4.363611979719662,RSSCT,surface water,UV_training_set,4.477034634197803,LOCO,5,GBM_groupedtrees,233
+207,51,5,0,4.352182518719663,RSSCT,surface water,UV_training_set,4.6108598468528275,LOCO,5,GBM_groupedtrees,233
+209,51,5,0,4.340444114719663,RSSCT,surface water,UV_training_set,4.599249199380785,LOCO,5,GBM_groupedtrees,233
+210,51,5,0,4.406540180719663,RSSCT,surface water,UV_training_set,4.569716199675757,LOCO,5,GBM_groupedtrees,233
+211,51,5,0,4.522444233719662,RSSCT,surface water,UV_training_set,4.496608592339386,LOCO,5,GBM_groupedtrees,233
+212,51,5,0,4.334453750719662,RSSCT,surface water,UV_training_set,4.576383581060382,LOCO,5,GBM_groupedtrees,233
+214,51,5,0,4.1846914307196625,RSSCT,surface water,UV_training_set,4.518531468774505,LOCO,5,GBM_groupedtrees,233
+215,51,5,0,4.139879085719663,RSSCT,surface water,UV_training_set,4.511794979414818,LOCO,5,GBM_groupedtrees,233
+216,51,5,0,4.1846914307196625,RSSCT,surface water,UV_training_set,4.254256476267169,LOCO,5,GBM_groupedtrees,233
+217,51,5,0,4.139879085719663,RSSCT,surface water,UV_training_set,4.518462360799442,LOCO,5,GBM_groupedtrees,233
+12,78,6,0,3.460296326719663,RSSCT,groundwater,UV_training_set,4.075694174743467,LOCO,6,GBM_groupedtrees,2804
+16,78,6,0,3.561697532719663,RSSCT,groundwater,UV_training_set,3.721584904626266,LOCO,6,GBM_groupedtrees,2804
+19,78,6,0,4.0346284567196635,RSSCT,groundwater,UV_training_set,3.7326300915981707,LOCO,6,GBM_groupedtrees,2804
+23,78,6,0,4.0346284567196635,RSSCT,groundwater,UV_training_set,4.0854832431688815,LOCO,6,GBM_groupedtrees,2804
+218,52,6,0,3.3802112417196626,RSSCT,groundwater,UV_training_set,4.032922090255102,LOCO,6,GBM_groupedtrees,2804
+219,52,6,0,3.6074550237196625,RSSCT,groundwater,UV_training_set,4.376580081099743,LOCO,6,GBM_groupedtrees,2804
+220,52,6,0,3.6074550237196625,RSSCT,groundwater,UV_training_set,4.376580081099743,LOCO,6,GBM_groupedtrees,2804
+221,52,6,0,3.6201360547196635,RSSCT,groundwater,UV_training_set,4.032922090255102,LOCO,6,GBM_groupedtrees,2804
+222,52,6,0,3.6384892567196623,RSSCT,groundwater,UV_training_set,4.032922090255102,LOCO,6,GBM_groupedtrees,2804
+223,52,6,0,3.6812412367196625,RSSCT,groundwater,UV_training_set,4.000839475949547,LOCO,6,GBM_groupedtrees,2804
+224,52,6,0,3.6946051987196626,RSSCT,synthetic surface water,UV_training_set,3.987635338211015,LOCO,6,GBM_groupedtrees,2804
+225,52,6,0,3.7419390787196622,RSSCT,groundwater,UV_training_set,4.321161657198259,LOCO,6,GBM_groupedtrees,2804
+226,52,6,0,3.7824726247196634,RSSCT,synthetic surface water,UV_training_set,3.892210308618504,LOCO,6,GBM_groupedtrees,2804
+227,52,6,0,3.715167358719663,RSSCT,groundwater,UV_training_set,4.308068504971066,LOCO,6,GBM_groupedtrees,2804
+228,52,6,0,3.7419390777196626,RSSCT,groundwater,UV_training_set,4.055178089500214,LOCO,6,GBM_groupedtrees,2804
+229,52,6,0,3.8075350287196628,RSSCT,groundwater,UV_training_set,3.96657308756836,LOCO,6,GBM_groupedtrees,2804
+230,52,6,0,3.8293037727196633,RSSCT,groundwater,UV_training_set,4.398836080344853,LOCO,6,GBM_groupedtrees,2804
+231,52,6,0,3.6972293437196626,RSSCT,groundwater,UV_training_set,3.8910155958265222,LOCO,6,GBM_groupedtrees,2804
+232,52,6,0,3.705007959719663,RSSCT,groundwater,UV_training_set,3.9721491797027344,LOCO,6,GBM_groupedtrees,2804
+233,52,6,0,3.587335983719663,RSSCT,groundwater,UV_training_set,4.462761954399423,LOCO,6,GBM_groupedtrees,2804
+234,52,6,0,3.600972895719663,RSSCT,groundwater,UV_training_set,4.462761954399423,LOCO,6,GBM_groupedtrees,2804
+235,52,6,0,3.613841821719663,RSSCT,groundwater,UV_training_set,4.124521328514331,LOCO,6,GBM_groupedtrees,2804
+236,52,6,0,3.724043467719663,RSSCT,groundwater,UV_training_set,4.462761954399423,LOCO,6,GBM_groupedtrees,2804
+237,52,6,0,3.791894066719663,RSSCT,groundwater,UV_training_set,4.124521328514331,LOCO,6,GBM_groupedtrees,2804
+238,52,6,0,3.805847339719662,RSSCT,groundwater,UV_training_set,4.462761954399423,LOCO,6,GBM_groupedtrees,2804
+239,52,6,0,3.8444771757196627,RSSCT,groundwater,UV_training_set,4.40670582193247,LOCO,6,GBM_groupedtrees,2804
+240,52,6,0,3.866287339719663,RSSCT,groundwater,UV_training_set,3.9446279959989954,LOCO,6,GBM_groupedtrees,2804
+241,52,6,0,3.8715729357196627,RSSCT,groundwater,UV_training_set,4.091801005643306,LOCO,6,GBM_groupedtrees,2804
+242,52,6,0,3.898725181719662,RSSCT,groundwater,UV_training_set,4.213979613468808,LOCO,6,GBM_groupedtrees,2804
+243,52,6,0,3.7176705037196625,RSSCT,deionized water,UV_training_set,3.987446550687628,LOCO,6,GBM_groupedtrees,2804
+244,52,6,0,3.720159303719663,RSSCT,deionized water,UV_training_set,4.264536935082366,LOCO,6,GBM_groupedtrees,2804
+245,52,6,0,3.927370363719662,RSSCT,deionized water,UV_training_set,4.4012023708699575,LOCO,6,GBM_groupedtrees,2804
+246,52,6,0,3.9585638837196626,RSSCT,deionized water,UV_training_set,4.064219836083095,LOCO,6,GBM_groupedtrees,2804
+247,52,6,0,4.197280558719663,RSSCT,groundwater,UV_training_set,3.8732080326228098,LOCO,6,GBM_groupedtrees,2804
+248,52,6,0,4.267406418719664,RSSCT,groundwater,UV_training_set,4.2177319481311235,LOCO,6,GBM_groupedtrees,2804
+249,52,6,0,3.4243098207196625,RSSCT,groundwater,UV_training_set,3.3184699856372393,LOCO,6,GBM_groupedtrees,2804
+250,52,6,0,3.491557781719663,RSSCT,groundwater,UV_training_set,3.483054932739412,LOCO,6,GBM_groupedtrees,2804
+251,52,6,0,4.2545335757196625,RSSCT,groundwater,UV_training_set,4.251264153789193,LOCO,6,GBM_groupedtrees,2804
+252,52,6,0,4.436391664719663,RSSCT,groundwater,UV_training_set,4.20167483411768,LOCO,6,GBM_groupedtrees,2804
+253,52,6,0,4.059502831719662,RSSCT,groundwater,UV_training_set,4.051410636054951,LOCO,6,GBM_groupedtrees,2804
+254,52,6,0,4.1660924947196625,RSSCT,groundwater,UV_training_set,4.134528929756385,LOCO,6,GBM_groupedtrees,2804
+255,52,6,0,4.382290868719664,RSSCT,groundwater,UV_training_set,4.393035468706137,LOCO,6,GBM_groupedtrees,2804
+256,52,6,0,4.440228784719663,RSSCT,groundwater,UV_training_set,4.3475887847274155,LOCO,6,GBM_groupedtrees,2804
+257,52,6,0,4.107335489719663,RSSCT,groundwater,UV_training_set,4.136338831687614,LOCO,6,GBM_groupedtrees,2804
+258,52,6,0,4.3162220367196635,RSSCT,groundwater,UV_training_set,4.279565586111606,LOCO,6,GBM_groupedtrees,2804
+259,52,6,0,4.411962965719662,RSSCT,groundwater,UV_training_set,4.2508703465099416,LOCO,6,GBM_groupedtrees,2804
+260,52,6,0,4.469316763719663,RSSCT,groundwater,UV_training_set,4.3713099898770365,LOCO,6,GBM_groupedtrees,2804
+268,58,6,0,3.707570176,pilot/full,groundwater,original_test_set,3.7196025778139603,LOCO,6,GBM_groupedtrees,2804
+269,58,6,0,4.492760389,pilot/full,groundwater,UV_training_set,4.2814530185420505,LOCO,6,GBM_groupedtrees,2804
+270,58,6,0,4.506505032,pilot/full,groundwater,UV_training_set,4.454808536658291,LOCO,6,GBM_groupedtrees,2804
+271,58,6,0,4.807535028068854,pilot/full,groundwater,UV_training_set,4.581623626781254,LOCO,6,GBM_groupedtrees,2804
+272,58,6,0,4.522444234,pilot/full,groundwater,UV_training_set,4.0790195806235845,LOCO,6,GBM_groupedtrees,2804
+330,62,6,0,3.6894402907196633,RSSCT,groundwater,UV_training_set,4.41812468161187,LOCO,6,GBM_groupedtrees,2804
+331,62,6,0,3.696966317719663,RSSCT,groundwater,UV_training_set,4.41812468161187,LOCO,6,GBM_groupedtrees,2804
+332,62,6,0,4.352852728719663,RSSCT,groundwater,UV_training_set,4.4461549676318395,LOCO,6,GBM_groupedtrees,2804
+333,62,6,0,4.399940156719663,RSSCT,groundwater,UV_training_set,4.100089003534109,LOCO,6,GBM_groupedtrees,2804
+334,62,6,0,3.6240059737196626,RSSCT,groundwater,UV_training_set,4.376580081099743,LOCO,6,GBM_groupedtrees,2804
+335,62,6,0,3.6440658367196628,RSSCT,groundwater,UV_training_set,4.032922090255102,LOCO,6,GBM_groupedtrees,2804
+336,62,6,0,3.7659049477196627,RSSCT,groundwater,UV_training_set,4.075249045952233,LOCO,6,GBM_groupedtrees,2804
+337,62,6,0,3.768299233719663,RSSCT,groundwater,UV_training_set,4.124521328514331,LOCO,6,GBM_groupedtrees,2804
+338,62,6,0,3.784566780719663,RSSCT,groundwater,UV_training_set,4.462761954399423,LOCO,6,GBM_groupedtrees,2804
+339,62,6,0,4.2342107737196635,RSSCT,groundwater,UV_training_set,4.077753925191568,LOCO,6,GBM_groupedtrees,2804
+340,62,6,0,4.242507163719663,RSSCT,groundwater,UV_training_set,4.423395463342573,LOCO,6,GBM_groupedtrees,2804
+341,62,6,0,4.476772334719662,RSSCT,groundwater,UV_training_set,4.442871831424567,LOCO,6,GBM_groupedtrees,2804
+342,62,6,0,4.511702599719663,RSSCT,groundwater,UV_training_set,4.096805867326832,LOCO,6,GBM_groupedtrees,2804
+343,62,6,0,4.3454669877196626,RSSCT,groundwater,UV_training_set,4.4194627780266265,LOCO,6,GBM_groupedtrees,2804
+344,62,6,0,4.427396235719662,RSSCT,groundwater,UV_training_set,4.071699196665457,LOCO,6,GBM_groupedtrees,2804
+345,62,6,0,4.928867272719662,RSSCT,groundwater,UV_training_set,4.336074226777986,LOCO,6,GBM_groupedtrees,2804
+346,62,6,0,4.984121839719664,RSSCT,groundwater,UV_training_set,3.9878862194701017,LOCO,6,GBM_groupedtrees,2804
+347,62,6,0,4.633247431719663,RSSCT,groundwater,UV_training_set,4.41910117201398,LOCO,6,GBM_groupedtrees,2804
+348,62,6,0,4.717869310719663,RSSCT,groundwater,UV_training_set,4.071337590652814,LOCO,6,GBM_groupedtrees,2804
+387,78,6,0,3.217483943719663,RSSCT,groundwater,UV_training_set,3.8228535085327833,LOCO,6,GBM_groupedtrees,2804
+388,78,6,0,3.265996370719663,RSSCT,groundwater,UV_training_set,4.172524231980253,LOCO,6,GBM_groupedtrees,2804
+389,78,6,0,3.5930644317196627,RSSCT,groundwater,UV_training_set,4.348175020994537,LOCO,6,GBM_groupedtrees,2804
+390,78,6,0,3.667452952719662,RSSCT,groundwater,UV_training_set,4.004517030149898,LOCO,6,GBM_groupedtrees,2804
+391,78,6,0,3.927293353719663,RSSCT,groundwater,UV_training_set,4.004517030149898,LOCO,6,GBM_groupedtrees,2804
+392,78,6,0,3.9933921377196624,RSSCT,groundwater,UV_training_set,4.004517030149898,LOCO,6,GBM_groupedtrees,2804
+395,78,6,0,3.767155865719663,RSSCT,groundwater,UV_training_set,3.8255382417170005,LOCO,6,GBM_groupedtrees,2804
+396,78,6,0,3.7888751157196627,RSSCT,groundwater,UV_training_set,4.17395284661798,LOCO,6,GBM_groupedtrees,2804
+397,78,6,0,4.051731195719663,RSSCT,groundwater,UV_training_set,4.356958570000297,LOCO,6,GBM_groupedtrees,2804
+398,78,6,0,4.096631975719663,RSSCT,groundwater,UV_training_set,4.014556697702152,LOCO,6,GBM_groupedtrees,2804
+399,78,6,0,4.2938264387196625,RSSCT,groundwater,UV_training_set,4.014556697702152,LOCO,6,GBM_groupedtrees,2804
+400,78,6,0,4.2940912927196635,RSSCT,groundwater,UV_training_set,4.014556697702152,LOCO,6,GBM_groupedtrees,2804
+401,78,6,0,4.410810963719664,RSSCT,groundwater,UV_training_set,4.379174795434109,LOCO,6,GBM_groupedtrees,2804
+402,78,6,0,4.516614689719662,RSSCT,groundwater,UV_training_set,4.036348497189236,LOCO,6,GBM_groupedtrees,2804
+403,78,6,0,4.5317343097196625,RSSCT,groundwater,UV_training_set,4.036348497189236,LOCO,6,GBM_groupedtrees,2804
+273,59,7,0,3.918904084015689,RSSCT,surface water,UV_training_set,4.062715785213677,LOCO,7,GBM_groupedtrees,188
+274,59,7,0,3.7533233638106527,RSSCT,surface water,UV_training_set,3.7462622058177204,LOCO,7,GBM_groupedtrees,188
+275,60,8,0,4.364584715,pilot/full,surface water,original_test_set,4.588384528084562,LOCO,8,GBM_groupedtrees,178
+276,60,8,0,4.541520789719662,RSSCT,surface water,UV_training_set,4.3566354967667715,LOCO,8,GBM_groupedtrees,178
+277,60,8,0,2.8026600057196625,RSSCT,surface water,UV_training_set,4.53149213657005,LOCO,8,GBM_groupedtrees,178
+278,60,8,0,3.2383290407196625,RSSCT,surface water,UV_training_set,4.53149213657005,LOCO,8,GBM_groupedtrees,178
+279,60,8,0,3.3320432487196627,RSSCT,surface water,UV_training_set,4.53149213657005,LOCO,8,GBM_groupedtrees,178
+280,60,8,0,3.960774872719663,RSSCT,surface water,UV_training_set,4.566709875005381,LOCO,8,GBM_groupedtrees,178
+281,60,8,0,4.044312793719663,RSSCT,surface water,UV_training_set,4.566709875005381,LOCO,8,GBM_groupedtrees,178
+282,60,8,0,4.096642543719662,RSSCT,surface water,UV_training_set,4.566709875005381,LOCO,8,GBM_groupedtrees,178
+283,60,8,0,4.261138232,pilot/full,surface water,original_test_set,4.4821550383663835,LOCO,8,GBM_groupedtrees,178
+284,60,8,0,4.397997971719662,RSSCT,surface water,UV_training_set,4.2300906233114555,LOCO,8,GBM_groupedtrees,178
+285,60,8,0,4.494364806,pilot/full,surface water,UV_training_set,4.476767385910948,LOCO,8,GBM_groupedtrees,178
+286,60,8,0,4.689288570719663,RSSCT,surface water,UV_training_set,4.2311903872298,LOCO,8,GBM_groupedtrees,178
+287,60,8,0,3.879743834,pilot/full,surface water,original_test_set,4.409740833102379,LOCO,8,GBM_groupedtrees,178
+288,60,8,0,4.151700610814557,RSSCT,surface water,UV_training_set,4.265326903702958,LOCO,8,GBM_groupedtrees,178
+289,60,8,0,3.5553293437196634,RSSCT,surface water,UV_training_set,4.193215858408809,LOCO,8,GBM_groupedtrees,178
+290,61,9,0,3.4983415176107067,RSSCT,groundwater,UV_training_set,4.274119187790703,LOCO,9,GBM_groupedtrees,2988
+291,61,9,0,3.6068466653838667,RSSCT,groundwater,UV_training_set,4.274119187790703,LOCO,9,GBM_groupedtrees,2988
+292,61,9,0,3.792819867839429,RSSCT,groundwater,UV_training_set,4.192549829677688,LOCO,9,GBM_groupedtrees,2988
+293,61,9,0,3.842784559436661,RSSCT,groundwater,UV_training_set,4.2750698669713625,LOCO,9,GBM_groupedtrees,2988
+294,61,9,0,3.596083633354088,RSSCT,groundwater,UV_training_set,4.225109321939299,LOCO,9,GBM_groupedtrees,2988
+295,61,9,0,3.86352005296353,RSSCT,groundwater,UV_training_set,4.3076293592329735,LOCO,9,GBM_groupedtrees,2988
+296,61,9,0,3.9245705544122775,RSSCT,groundwater,UV_training_set,4.3076293592329735,LOCO,9,GBM_groupedtrees,2988
+297,61,9,0,4.402911792837681,RSSCT,groundwater,UV_training_set,4.8739080026359245,LOCO,9,GBM_groupedtrees,2988
+298,61,9,0,4.683977372086776,RSSCT,groundwater,UV_training_set,4.820620507201925,LOCO,9,GBM_groupedtrees,2988
+299,61,9,0,4.698117664523137,RSSCT,groundwater,UV_training_set,4.746731342331657,LOCO,9,GBM_groupedtrees,2988
+300,61,9,0,4.703944592732077,RSSCT,groundwater,UV_training_set,4.820620507201925,LOCO,9,GBM_groupedtrees,2988
+301,61,9,0,4.727870395956745,RSSCT,groundwater,UV_training_set,5.0452917183951715,LOCO,9,GBM_groupedtrees,2988
+302,61,9,0,4.74658849926776,RSSCT,groundwater,UV_training_set,5.040141939769415,LOCO,9,GBM_groupedtrees,2988
+303,61,9,0,4.419703975733719,RSSCT,groundwater,UV_training_set,4.883892237330541,LOCO,9,GBM_groupedtrees,2988
+304,61,9,0,4.567186159684093,RSSCT,groundwater,UV_training_set,4.622732345050482,LOCO,9,GBM_groupedtrees,2988
+305,61,9,0,4.59000233821602,RSSCT,groundwater,UV_training_set,4.54171398574631,LOCO,9,GBM_groupedtrees,2988
+306,61,9,0,4.63977181104172,RSSCT,groundwater,UV_training_set,4.657935614237298,LOCO,9,GBM_groupedtrees,2988
+307,61,9,0,4.73772457082064,RSSCT,groundwater,UV_training_set,4.9161840440987055,LOCO,9,GBM_groupedtrees,2988
+308,61,9,0,4.302872682150407,RSSCT,groundwater,UV_training_set,4.617183698669393,LOCO,9,GBM_groupedtrees,2988
+309,61,9,0,4.396716572977674,RSSCT,groundwater,UV_training_set,4.617183698669393,LOCO,9,GBM_groupedtrees,2988
+310,61,9,0,4.455441228733655,RSSCT,groundwater,UV_training_set,4.5536976844503565,LOCO,9,GBM_groupedtrees,2988
+311,61,9,0,4.595261296451675,RSSCT,groundwater,UV_training_set,4.6383667980027505,LOCO,9,GBM_groupedtrees,2988
+312,61,9,0,4.46632296425386,RSSCT,groundwater,UV_training_set,4.531538633522326,LOCO,9,GBM_groupedtrees,2988
+313,61,9,0,4.473475586067429,RSSCT,groundwater,UV_training_set,4.273167675067028,LOCO,9,GBM_groupedtrees,2988
+314,61,9,0,4.5699069782900805,RSSCT,groundwater,UV_training_set,4.522436082195024,LOCO,9,GBM_groupedtrees,2988
+315,61,9,0,4.648593554199511,RSSCT,groundwater,UV_training_set,4.640123052530075,LOCO,9,GBM_groupedtrees,2988
+316,61,9,0,4.522694967753341,RSSCT,groundwater,UV_training_set,4.940027598139343,LOCO,9,GBM_groupedtrees,2988
+317,61,9,0,4.6867421670696805,RSSCT,groundwater,UV_training_set,4.676979134695529,LOCO,9,GBM_groupedtrees,2988
+318,61,9,0,4.707437825605094,RSSCT,groundwater,UV_training_set,4.72411316774389,LOCO,9,GBM_groupedtrees,2988
+319,61,9,0,4.722255117032484,RSSCT,groundwater,UV_training_set,4.6723216693761485,LOCO,9,GBM_groupedtrees,2988
+320,61,9,0,4.749173855985667,RSSCT,groundwater,UV_training_set,4.970898434640374,LOCO,9,GBM_groupedtrees,2988
+321,61,9,0,4.750822513372734,RSSCT,groundwater,UV_training_set,4.969655450208271,LOCO,9,GBM_groupedtrees,2988
+322,61,9,0,4.755468741637959,RSSCT,groundwater,UV_training_set,4.880546759100935,LOCO,9,GBM_groupedtrees,2988
+323,61,9,0,4.76247972178547,RSSCT,groundwater,UV_training_set,5.166851968372468,LOCO,9,GBM_groupedtrees,2988
+324,61,9,0,4.7787622325012,RSSCT,groundwater,UV_training_set,5.160824706256732,LOCO,9,GBM_groupedtrees,2988
+325,61,9,0,4.80556616240622,RSSCT,groundwater,UV_training_set,5.071704844616701,LOCO,9,GBM_groupedtrees,2988
+326,61,9,0,4.098540607876411,RSSCT,groundwater,UV_training_set,4.428186001819868,LOCO,9,GBM_groupedtrees,2988
+327,61,9,0,4.180971448865605,RSSCT,groundwater,UV_training_set,4.428186001819868,LOCO,9,GBM_groupedtrees,2988
+328,61,9,0,4.203704480546643,RSSCT,groundwater,UV_training_set,4.351901679687863,LOCO,9,GBM_groupedtrees,2988
+329,61,9,0,4.405063530481639,RSSCT,groundwater,UV_training_set,4.431955947600035,LOCO,9,GBM_groupedtrees,2988
+349,69,10,0,4.799916809405545,RSSCT,groundwater,UV_training_set,4.435739081264545,LOCO,10,GBM_groupedtrees,145
+350,69,10,0,3.919113937911389,RSSCT,groundwater,UV_training_set,4.29732294940103,LOCO,10,GBM_groupedtrees,145
+351,69,10,0,4.646201611154577,RSSCT,groundwater,UV_training_set,4.465086812533478,LOCO,10,GBM_groupedtrees,145
+352,69,10,0,4.741085250984216,RSSCT,groundwater,UV_training_set,4.341598535646208,LOCO,10,GBM_groupedtrees,145
+353,69,10,0,4.666369612623108,RSSCT,groundwater,UV_training_set,4.076171583612853,LOCO,10,GBM_groupedtrees,145
+354,69,10,0,4.921678729257379,RSSCT,groundwater,UV_training_set,4.296160841921735,LOCO,10,GBM_groupedtrees,145
+355,69,10,0,4.38191535131012,RSSCT,groundwater,UV_training_set,4.194803896285963,LOCO,10,GBM_groupedtrees,145
+356,69,10,0,4.823122230767952,RSSCT,groundwater,UV_training_set,4.40717710909275,LOCO,10,GBM_groupedtrees,145
+357,69,10,0,4.8310509222249145,RSSCT,groundwater,UV_training_set,4.135478523076504,LOCO,10,GBM_groupedtrees,145
+358,69,10,0,4.6887298004043965,RSSCT,groundwater,UV_training_set,4.369001451455896,LOCO,10,GBM_groupedtrees,145
+359,69,10,0,4.8414011268176225,RSSCT,groundwater,UV_training_set,4.48001771862691,LOCO,10,GBM_groupedtrees,145
+360,69,10,0,3.9756592973296243,RSSCT,groundwater,UV_training_set,4.341601586763395,LOCO,10,GBM_groupedtrees,145
+361,69,10,0,4.68558307615598,RSSCT,groundwater,UV_training_set,4.509365449895843,LOCO,10,GBM_groupedtrees,145
+362,69,10,0,4.709373099264723,RSSCT,groundwater,UV_training_set,4.083009278028024,LOCO,10,GBM_groupedtrees,145
+363,69,10,0,4.927323895184095,RSSCT,groundwater,UV_training_set,4.3404394792841,LOCO,10,GBM_groupedtrees,145
+364,69,10,0,4.298777221872966,RSSCT,groundwater,UV_training_set,4.239082533648327,LOCO,10,GBM_groupedtrees,145
+365,69,10,0,4.782673512288013,RSSCT,groundwater,UV_training_set,4.179757160438868,LOCO,10,GBM_groupedtrees,145
+366,69,10,0,4.868282321117463,RSSCT,groundwater,UV_training_set,4.3404394792841,LOCO,10,GBM_groupedtrees,145
+367,77,11,0,4.049126196941958,RSSCT,Treated WW,UV_training_set,3.9910267352491626,LOCO,11,GBM_groupedtrees,109
+368,77,11,0,3.783280033170322,RSSCT,Treated WW,UV_training_set,3.9910267352491626,LOCO,11,GBM_groupedtrees,109
+369,77,11,0,3.2227834879566206,RSSCT,Treated WW,UV_training_set,3.9527393783351,LOCO,11,GBM_groupedtrees,109
+371,77,11,0,4.390298897656521,RSSCT,Treated WW,UV_training_set,4.012908152768692,LOCO,11,GBM_groupedtrees,109
+372,77,11,0,4.353037257968136,RSSCT,Treated WW,UV_training_set,3.9938160169554053,LOCO,11,GBM_groupedtrees,109
+373,77,11,0,3.6860414330609004,RSSCT,Treated WW,UV_training_set,3.9322722949151756,LOCO,11,GBM_groupedtrees,109
+374,77,11,0,3.263472395921375,RSSCT,Treated WW,UV_training_set,3.169761253057838,LOCO,11,GBM_groupedtrees,109
+375,77,11,0,2.7048633766482144,RSSCT,Treated WW,UV_training_set,3.1660891860247093,LOCO,11,GBM_groupedtrees,109
+377,77,11,0,3.7376787573044763,RSSCT,Treated WW,UV_training_set,3.427291156587613,LOCO,11,GBM_groupedtrees,109
+378,77,11,0,3.069999727906512,RSSCT,Treated WW,UV_training_set,3.4315522437949495,LOCO,11,GBM_groupedtrees,109
+379,77,11,0,2.9252895866094137,RSSCT,Treated WW,UV_training_set,3.3998021076874934,LOCO,11,GBM_groupedtrees,109
+381,77,11,0,3.6996001884863365,RSSCT,Treated WW,UV_training_set,3.673708165899299,LOCO,11,GBM_groupedtrees,109
+382,77,11,0,3.448329752814807,RSSCT,Treated WW,UV_training_set,3.673708165899299,LOCO,11,GBM_groupedtrees,109
+383,77,11,0,3.334618921061572,RSSCT,Treated WW,UV_training_set,3.629089163138772,LOCO,11,GBM_groupedtrees,109
+385,77,11,0,3.9670724811380977,RSSCT,Treated WW,UV_training_set,4.120185375554339,LOCO,11,GBM_groupedtrees,109
+386,77,11,0,3.448329752814807,RSSCT,Treated WW,UV_training_set,3.299911849731049,LOCO,11,GBM_groupedtrees,109
+393,77,11,0,3.5932441454272857,RSSCT,Treated WW,UV_training_set,3.547569667236079,LOCO,11,GBM_groupedtrees,109
+394,77,11,0,3.5932441454272857,RSSCT,Treated WW,UV_training_set,3.802489506179584,LOCO,11,GBM_groupedtrees,109

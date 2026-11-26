@@ -1,0 +1,1709 @@
+row,study,campaign,flag,y,scale,matrix_type,Label,pred,scheme,rep,model,n_trees
+0,1,0,0,3.7728754,pilot/full,Treated WW,original_test_set,3.8617893931018066,original,0,GBM,2485
+7,1,0,0,3.620574127,pilot/full,Treated WW,original_test_set,3.409825205655568,original,0,GBM,2485
+9,1,0,1,4.033291752,pilot/full,Treated WW,original_test_set,3.8024203722449252,original,0,GBM,2485
+10,1,0,0,3.369491602,pilot/full,Treated WW,original_test_set,3.453121828855313,original,0,GBM,2485
+14,16,1,0,4.792391689,pilot/full,surface water,original_test_set,4.697101864694003,original,0,GBM,2485
+21,16,1,1,4.716003344,pilot/full,surface water,original_test_set,4.843766552825742,original,0,GBM,2485
+24,16,1,0,4.924279286,pilot/full,surface water,original_test_set,4.841891366623269,original,0,GBM,2485
+31,16,1,0,4.146128036,pilot/full,surface water,original_test_set,4.118120155585322,original,0,GBM,2485
+32,16,1,0,4.176091259,pilot/full,surface water,original_test_set,4.293201479888656,original,0,GBM,2485
+34,16,1,0,4.698970004,pilot/full,synthetic surface water,original_test_set,4.69019067226327,original,0,GBM,2485
+42,16,1,0,4.832508913,pilot/full,surface water,original_test_set,4.853143412550728,original,0,GBM,2485
+52,16,1,0,4.740362689,pilot/full,synthetic surface water,original_test_set,4.751024804224497,original,0,GBM,2485
+59,16,1,1,4.681241237,pilot/full,synthetic surface water,original_test_set,4.906916679719575,original,0,GBM,2485
+91,19,2,0,3.991428155,pilot/full,groundwater,original_test_set,4.114757705412134,original,0,GBM,2485
+93,19,2,1,4.052610845,pilot/full,groundwater,original_test_set,4.272457148134109,original,0,GBM,2485
+94,19,2,0,4.152087052,pilot/full,groundwater,original_test_set,4.210163362684695,original,0,GBM,2485
+95,19,2,1,4.081764683,pilot/full,groundwater,original_test_set,4.185677542934545,original,0,GBM,2485
+101,19,2,1,4.112080362,pilot/full,groundwater,original_test_set,4.100533508924636,original,0,GBM,2485
+103,19,2,0,4.170519464,pilot/full,groundwater,original_test_set,4.17359944230419,original,0,GBM,2485
+105,19,2,0,4.42709088,pilot/full,groundwater,original_test_set,4.3179375420326345,original,0,GBM,2485
+108,19,2,0,4.21974497647267,pilot/full,groundwater,original_test_set,4.282768565833493,original,0,GBM,2485
+110,19,2,0,4.11316232739591,pilot/full,groundwater,original_test_set,4.170676338269093,original,0,GBM,2485
+112,19,2,1,4.417405214,pilot/full,groundwater,original_test_set,4.487734523884583,original,0,GBM,2485
+115,19,2,1,3.969678939,pilot/full,groundwater,original_test_set,4.035983509400116,original,0,GBM,2485
+117,19,2,0,4.039207236,pilot/full,groundwater,original_test_set,3.9783834989063953,original,0,GBM,2485
+118,19,2,0,3.929890062,pilot/full,groundwater,original_test_set,3.9698830780382233,original,0,GBM,2485
+124,19,2,1,4.044957851,pilot/full,groundwater,original_test_set,4.146137168838345,original,0,GBM,2485
+144,50,4,0,3.292450705,pilot/full,surface water,original_test_set,3.547307109276804,original,0,GBM,2485
+147,50,4,0,3.737304101,pilot/full,surface water,original_test_set,3.640368132274572,original,0,GBM,2485
+151,50,4,1,3.876206583,pilot/full,surface water,original_test_set,3.8186292324616122,original,0,GBM,2485
+154,50,4,0,3.68169817,pilot/full,surface water,original_test_set,3.653603430194376,original,0,GBM,2485
+156,50,4,1,4.154293485,pilot/full,surface water,original_test_set,4.057992355517275,original,0,GBM,2485
+158,50,4,0,2.973747188,pilot/full,surface water,original_test_set,3.5134953148013968,original,0,GBM,2485
+163,50,4,1,3.721238623,pilot/full,surface water,original_test_set,3.645419756949141,original,0,GBM,2485
+167,50,4,1,3.924686625,pilot/full,surface water,original_test_set,4.0097685677301165,original,0,GBM,2485
+169,50,4,1,4.19188477,pilot/full,surface water,original_test_set,3.7719343209926874,original,0,GBM,2485
+172,50,4,1,3.93050939,pilot/full,surface water,original_test_set,3.808181326546928,original,0,GBM,2485
+268,58,6,0,3.707570176,pilot/full,groundwater,original_test_set,3.828032680436165,original,0,GBM,2485
+275,60,8,0,4.364584715,pilot/full,surface water,original_test_set,4.515251214432437,original,0,GBM,2485
+283,60,8,0,4.261138232,pilot/full,surface water,original_test_set,4.3978729775652425,original,0,GBM,2485
+287,60,8,0,3.879743834,pilot/full,surface water,original_test_set,4.229018343118054,original,0,GBM,2485
+405,79,1,0,4.417945715,pilot/full,surface water,original_test_set,4.361303164524203,original,0,GBM,2485
+240,52,6,0,3.866287339719663,RSSCT,groundwater,UV_training_set,3.8589808872023683,random_point,0,GBM,2986
+248,52,6,0,4.267406418719664,RSSCT,groundwater,UV_training_set,4.152865998897222,random_point,0,GBM,2986
+60,17,1,0,4.892094601719663,RSSCT,surface water,UV_training_set,4.892255097925022,random_point,0,GBM,2986
+30,16,1,0,4.079181246,pilot/full,synthetic surface water,UV_training_set,4.1036465542305995,random_point,0,GBM,2986
+387,78,6,0,3.217483943719663,RSSCT,groundwater,UV_training_set,3.443384470182387,random_point,0,GBM,2986
+294,61,9,0,3.596083633354088,RSSCT,groundwater,UV_training_set,3.8632591703991306,random_point,0,GBM,2986
+410,79,1,0,4.288087753,pilot/full,surface water,UV_training_set,4.287589855459748,random_point,0,GBM,2986
+375,77,11,0,2.7048633766482144,RSSCT,Treated WW,UV_training_set,2.954695676861602,random_point,0,GBM,2986
+397,78,6,0,4.051731195719663,RSSCT,groundwater,UV_training_set,4.1835021775325085,random_point,0,GBM,2986
+115,19,2,1,3.969678939,pilot/full,groundwater,original_test_set,4.03763841129248,random_point,0,GBM,2986
+287,60,8,0,3.879743834,pilot/full,surface water,original_test_set,4.240570443682135,random_point,0,GBM,2986
+298,61,9,0,4.683977372086776,RSSCT,groundwater,UV_training_set,4.688049555535315,random_point,0,GBM,2986
+281,60,8,0,4.044312793719663,RSSCT,surface water,UV_training_set,4.032705144150736,random_point,0,GBM,2986
+80,17,1,0,4.498310553719663,RSSCT,synthetic surface water,UV_training_set,4.581366178767107,random_point,0,GBM,2986
+395,78,6,0,3.767155865719663,RSSCT,groundwater,UV_training_set,3.8181443620019917,random_point,0,GBM,2986
+168,50,4,0,4.151750371,pilot/full,surface water,UV_training_set,3.4585176087751397,random_point,0,GBM,2986
+273,59,7,0,3.918904084015689,RSSCT,surface water,UV_training_set,4.028850917628157,random_point,0,GBM,2986
+268,58,6,0,3.707570176,pilot/full,groundwater,original_test_set,3.8162909566573804,random_point,0,GBM,2986
+118,19,2,0,3.929890062,pilot/full,groundwater,original_test_set,4.027640417822636,random_point,0,GBM,2986
+371,77,11,0,4.390298897656521,RSSCT,Treated WW,UV_training_set,4.329104776860658,random_point,0,GBM,2986
+202,51,5,0,3.7993405497196626,RSSCT,surface water,UV_training_set,3.7600392480163354,random_point,0,GBM,2986
+308,61,9,0,4.302872682150407,RSSCT,groundwater,UV_training_set,4.400860648150285,random_point,0,GBM,2986
+338,62,6,0,3.784566780719663,RSSCT,groundwater,UV_training_set,3.7931815906643904,random_point,0,GBM,2986
+293,61,9,0,3.842784559436661,RSSCT,groundwater,UV_training_set,3.8124206378665786,random_point,0,GBM,2986
+369,77,11,0,3.2227834879566206,RSSCT,Treated WW,UV_training_set,3.5197903524600025,random_point,0,GBM,2986
+204,51,5,0,4.374748345719663,RSSCT,surface water,UV_training_set,4.396179297220884,random_point,0,GBM,2986
+132,17,1,0,4.968482948719663,RSSCT,synthetic surface water,UV_training_set,4.795439443055143,random_point,0,GBM,2986
+231,52,6,0,3.6972293437196626,RSSCT,groundwater,UV_training_set,3.693009050894297,random_point,0,GBM,2986
+129,35,3,0,4.146269645694943,RSSCT,surface water,UV_training_set,3.851713182663981,random_point,0,GBM,2986
+26,16,1,0,5.033423755,pilot/full,surface water,UV_training_set,4.931898547214202,random_point,0,GBM,2986
+223,52,6,0,3.6812412367196625,RSSCT,groundwater,UV_training_set,3.7194491128807825,random_point,0,GBM,2986
+207,51,5,0,4.352182518719663,RSSCT,surface water,UV_training_set,4.355879664020929,random_point,0,GBM,2986
+51,51,5,0,3.819543935719663,RSSCT,surface water,UV_training_set,3.8995798483830915,random_point,0,GBM,2986
+402,78,6,0,4.516614689719662,RSSCT,groundwater,UV_training_set,4.512115481907755,random_point,0,GBM,2986
+266,57,1,0,4.64861117561938,RSSCT,surface water,UV_training_set,4.614388429299978,random_point,0,GBM,2986
+14,16,1,0,4.792391689,pilot/full,surface water,original_test_set,4.706806562812489,random_point,0,GBM,2986
+101,19,2,1,4.112080362,pilot/full,groundwater,original_test_set,4.080132304187893,random_point,0,GBM,2986
+253,52,6,0,4.059502831719662,RSSCT,groundwater,UV_training_set,4.16705547813093,random_point,0,GBM,2986
+188,17,1,0,4.498310553719663,RSSCT,synthetic surface water,UV_training_set,4.526248110332026,random_point,0,GBM,2986
+52,16,1,0,4.740362689,pilot/full,synthetic surface water,original_test_set,4.841658465170895,random_point,0,GBM,2986
+140,17,1,0,3.3802112417196626,RSSCT,synthetic surface water,UV_training_set,3.665484889331621,random_point,0,GBM,2986
+56,16,1,0,4.812913357,pilot/full,synthetic surface water,UV_training_set,4.8570953289687555,random_point,0,GBM,2986
+134,35,3,0,2.9075968696551424,RSSCT,surface water,UV_training_set,3.325774705241483,random_point,1,GBM,2799
+159,50,4,0,3.424876094,pilot/full,surface water,UV_training_set,3.6711139052530126,random_point,1,GBM,2799
+53,17,1,0,4.537819094719662,RSSCT,synthetic surface water,UV_training_set,4.625292200094877,random_point,1,GBM,2799
+276,60,8,0,4.541520789719662,RSSCT,surface water,UV_training_set,4.542021260136653,random_point,1,GBM,2799
+224,52,6,0,3.6946051987196626,RSSCT,synthetic surface water,UV_training_set,3.7424636609041677,random_point,1,GBM,2799
+278,60,8,0,3.2383290407196625,RSSCT,surface water,UV_training_set,3.0648483743161745,random_point,1,GBM,2799
+256,52,6,0,4.440228784719663,RSSCT,groundwater,UV_training_set,4.3782957638031474,random_point,1,GBM,2799
+190,51,5,0,4.385606273719663,RSSCT,surface water,UV_training_set,4.399388006042914,random_point,1,GBM,2799
+178,17,1,0,4.406540180719663,RSSCT,synthetic surface water,UV_training_set,4.3669770940821975,random_point,1,GBM,2799
+130,17,1,0,4.819543935719663,RSSCT,synthetic surface water,UV_training_set,4.787419638299783,random_point,1,GBM,2799
+375,77,11,0,2.7048633766482144,RSSCT,Treated WW,UV_training_set,2.9149266695210176,random_point,1,GBM,2799
+34,16,1,0,4.698970004,pilot/full,synthetic surface water,original_test_set,4.62688612130011,random_point,1,GBM,2799
+168,50,4,0,4.151750371,pilot/full,surface water,UV_training_set,3.4608138103419734,random_point,1,GBM,2799
+347,62,6,0,4.633247431719663,RSSCT,groundwater,UV_training_set,4.576329932578904,random_point,1,GBM,2799
+355,69,10,0,4.38191535131012,RSSCT,groundwater,UV_training_set,4.371135051285157,random_point,1,GBM,2799
+153,50,4,0,3.529133248,pilot/full,surface water,UV_training_set,3.731166169751416,random_point,1,GBM,2799
+339,62,6,0,4.2342107737196635,RSSCT,groundwater,UV_training_set,4.323799886416504,random_point,1,GBM,2799
+406,79,1,0,4.3353193,pilot/full,surface water,UV_training_set,4.21253340812666,random_point,1,GBM,2799
+6,1,0,0,3.522517249,pilot/full,Treated WW,UV_training_set,3.7955079914241745,random_point,1,GBM,2799
+383,77,11,0,3.334618921061572,RSSCT,Treated WW,UV_training_set,2.9333498712150554,random_point,1,GBM,2799
+139,35,3,0,3.222808034284815,RSSCT,surface water,UV_training_set,3.1405235454270573,random_point,1,GBM,2799
+230,52,6,0,3.8293037727196633,RSSCT,groundwater,UV_training_set,3.665687017551209,random_point,1,GBM,2799
+184,51,5,0,4.396199346719663,RSSCT,surface water,UV_training_set,4.393227199510927,random_point,1,GBM,2799
+374,77,11,0,3.263472395921375,RSSCT,Treated WW,UV_training_set,3.244874714716273,random_point,1,GBM,2799
+138,17,1,0,4.380211241719664,RSSCT,synthetic surface water,UV_training_set,4.293560266559871,random_point,1,GBM,2799
+61,17,1,0,4.9956351947196636,RSSCT,surface water,UV_training_set,5.02942140654298,random_point,1,GBM,2799
+125,19,2,0,4.078606937,pilot/full,groundwater,UV_training_set,4.137353161174379,random_point,1,GBM,2799
+94,19,2,0,4.152087052,pilot/full,groundwater,original_test_set,4.136309306580424,random_point,1,GBM,2799
+83,17,1,0,4.681241237719663,RSSCT,surface water,UV_training_set,4.783424595007669,random_point,1,GBM,2799
+247,52,6,0,4.197280558719663,RSSCT,groundwater,UV_training_set,4.347468086509109,random_point,1,GBM,2799
+160,50,4,0,3.567310642,pilot/full,surface water,UV_training_set,3.642588644773724,random_point,1,GBM,2799
+209,51,5,0,4.340444114719663,RSSCT,surface water,UV_training_set,4.396099023499062,random_point,1,GBM,2799
+351,69,10,0,4.646201611154577,RSSCT,groundwater,UV_training_set,4.656099797443415,random_point,1,GBM,2799
+92,19,2,0,4.00593433,pilot/full,groundwater,UV_training_set,3.888175591068481,random_point,1,GBM,2799
+266,57,1,0,4.64861117561938,RSSCT,surface water,UV_training_set,4.655989071126639,random_point,1,GBM,2799
+306,61,9,0,4.63977181104172,RSSCT,groundwater,UV_training_set,4.6276349074311804,random_point,1,GBM,2799
+157,50,4,0,4.164579409,pilot/full,surface water,UV_training_set,4.181345877686312,random_point,1,GBM,2799
+129,35,3,0,4.146269645694943,RSSCT,surface water,UV_training_set,3.80205235581682,random_point,1,GBM,2799
+367,77,11,0,4.049126196941958,RSSCT,Treated WW,UV_training_set,4.019691024873359,random_point,1,GBM,2799
+398,78,6,0,4.096631975719663,RSSCT,groundwater,UV_training_set,4.264131353167934,random_point,1,GBM,2799
+13,16,1,0,4.892094603,pilot/full,synthetic surface water,UV_training_set,4.759716245885035,random_point,1,GBM,2799
+72,17,1,0,3.9542425097196627,RSSCT,surface water,UV_training_set,4.042007510045514,random_point,1,GBM,2799
+331,62,6,0,3.696966317719663,RSSCT,groundwater,UV_training_set,3.7101362429188436,random_point,2,GBM,2488
+290,61,9,0,3.4983415176107067,RSSCT,groundwater,UV_training_set,3.621974444708617,random_point,2,GBM,2488
+84,17,1,0,4.857332496719663,RSSCT,synthetic surface water,UV_training_set,4.675701081199518,random_point,2,GBM,2488
+179,51,5,0,4.406540180719663,RSSCT,surface water,UV_training_set,4.433391950553236,random_point,2,GBM,2488
+367,77,11,0,4.049126196941958,RSSCT,Treated WW,UV_training_set,3.9952900058067256,random_point,2,GBM,2488
+256,52,6,0,4.440228784719663,RSSCT,groundwater,UV_training_set,4.341876460098054,random_point,2,GBM,2488
+46,51,5,0,4.120573930719663,RSSCT,surface water,UV_training_set,4.068205778643749,random_point,2,GBM,2488
+267,57,1,0,4.806875401645539,RSSCT,surface water,UV_training_set,4.925874731520252,random_point,2,GBM,2488
+264,57,1,0,4.0275525016927265,RSSCT,surface water,UV_training_set,4.135992809360605,random_point,2,GBM,2488
+305,61,9,0,4.59000233821602,RSSCT,groundwater,UV_training_set,4.61343410480824,random_point,2,GBM,2488
+189,17,1,0,4.732393759719662,RSSCT,synthetic surface water,UV_training_set,4.555883594243522,random_point,2,GBM,2488
+76,17,1,0,4.556302500719663,RSSCT,synthetic surface water,UV_training_set,4.455504259242111,random_point,2,GBM,2488
+374,77,11,0,3.263472395921375,RSSCT,Treated WW,UV_training_set,3.154680558335978,random_point,2,GBM,2488
+306,61,9,0,4.63977181104172,RSSCT,groundwater,UV_training_set,4.628630484393528,random_point,2,GBM,2488
+157,50,4,0,4.164579409,pilot/full,surface water,UV_training_set,4.17130880088883,random_point,2,GBM,2488
+96,19,2,1,4.265020376,pilot/full,groundwater,UV_training_set,4.321139405837795,random_point,2,GBM,2488
+396,78,6,0,3.7888751157196627,RSSCT,groundwater,UV_training_set,3.688573466227557,random_point,2,GBM,2488
+405,79,1,0,4.417945715,pilot/full,surface water,original_test_set,4.357366580708786,random_point,2,GBM,2488
+252,52,6,0,4.436391664719663,RSSCT,groundwater,UV_training_set,4.213108365941281,random_point,2,GBM,2488
+268,58,6,0,3.707570176,pilot/full,groundwater,original_test_set,3.7873811814293505,random_point,2,GBM,2488
+68,17,1,0,4.939519251719663,RSSCT,surface water,UV_training_set,4.595262898994294,random_point,2,GBM,2488
+51,51,5,0,3.819543935719663,RSSCT,surface water,UV_training_set,3.8737865915686718,random_point,2,GBM,2488
+159,50,4,0,3.424876094,pilot/full,surface water,UV_training_set,3.6189473301003248,random_point,2,GBM,2488
+320,61,9,0,4.749173855985667,RSSCT,groundwater,UV_training_set,4.767650051066747,random_point,2,GBM,2488
+63,17,1,0,4.623249290719663,RSSCT,synthetic surface water,UV_training_set,4.449552393772451,random_point,2,GBM,2488
+355,69,10,0,4.38191535131012,RSSCT,groundwater,UV_training_set,4.421122216423515,random_point,2,GBM,2488
+233,52,6,0,3.587335983719663,RSSCT,groundwater,UV_training_set,3.646496544704486,random_point,2,GBM,2488
+27,51,5,0,4.1583624917196635,RSSCT,surface water,UV_training_set,4.164201625705888,random_point,2,GBM,2488
+172,50,4,1,3.93050939,pilot/full,surface water,original_test_set,3.838020237196148,random_point,2,GBM,2488
+205,51,5,0,4.454844859719664,RSSCT,surface water,UV_training_set,4.393703032702769,random_point,2,GBM,2488
+32,16,1,0,4.176091259,pilot/full,surface water,original_test_set,4.3752999605522405,random_point,2,GBM,2488
+114,19,2,0,3.892284475,pilot/full,groundwater,UV_training_set,3.717994989706012,random_point,2,GBM,2488
+90,17,1,0,4.9036325157196625,RSSCT,surface water,UV_training_set,4.900752156003499,random_point,2,GBM,2488
+34,16,1,0,4.698970004,pilot/full,synthetic surface water,original_test_set,4.592593018792259,random_point,2,GBM,2488
+154,50,4,0,3.68169817,pilot/full,surface water,original_test_set,3.6841797998239625,random_point,2,GBM,2488
+113,19,2,0,4.524329718,pilot/full,groundwater,UV_training_set,4.406495020947888,random_point,2,GBM,2488
+55,17,1,0,5.008600171719663,RSSCT,surface water,UV_training_set,4.760835063587957,random_point,2,GBM,2488
+165,50,4,0,3.853247311,pilot/full,surface water,UV_training_set,3.6387628181580287,random_point,2,GBM,2488
+220,52,6,0,3.6074550237196625,RSSCT,groundwater,UV_training_set,3.6207687085549756,random_point,2,GBM,2488
+336,62,6,0,3.7659049477196627,RSSCT,groundwater,UV_training_set,3.855758835189903,random_point,2,GBM,2488
+215,51,5,0,4.139879085719663,RSSCT,surface water,UV_training_set,4.209985992933062,random_point,2,GBM,2488
+169,50,4,1,4.19188477,pilot/full,surface water,original_test_set,3.835210119155128,random_point,2,GBM,2488
+362,69,10,0,4.709373099264723,RSSCT,groundwater,UV_training_set,4.766881626904331,random_point,3,GBM,2316
+219,52,6,0,3.6074550237196625,RSSCT,groundwater,UV_training_set,3.5932823601333643,random_point,3,GBM,2316
+259,52,6,0,4.411962965719662,RSSCT,groundwater,UV_training_set,4.4137157127369715,random_point,3,GBM,2316
+56,16,1,0,4.812913357,pilot/full,synthetic surface water,UV_training_set,4.769983705581644,random_point,3,GBM,2316
+36,16,1,0,4.903089987,pilot/full,surface water,UV_training_set,4.866543445996021,random_point,3,GBM,2316
+286,60,8,0,4.689288570719663,RSSCT,surface water,UV_training_set,4.41411449510525,random_point,3,GBM,2316
+111,19,2,0,4.295691451,pilot/full,groundwater,UV_training_set,4.371572454951266,random_point,3,GBM,2316
+66,16,1,0,4.342422681,pilot/full,synthetic surface water,UV_training_set,4.400580705113057,random_point,3,GBM,2316
+319,61,9,0,4.722255117032484,RSSCT,groundwater,UV_training_set,4.76182208823078,random_point,3,GBM,2316
+83,17,1,0,4.681241237719663,RSSCT,surface water,UV_training_set,4.80407517147098,random_point,3,GBM,2316
+42,16,1,0,4.832508913,pilot/full,surface water,original_test_set,4.935134155211654,random_point,3,GBM,2316
+29,51,5,0,4.068185861719663,RSSCT,surface water,UV_training_set,4.1351352797496475,random_point,3,GBM,2316
+269,58,6,0,4.492760389,pilot/full,groundwater,UV_training_set,4.359818598879604,random_point,3,GBM,2316
+240,52,6,0,3.866287339719663,RSSCT,groundwater,UV_training_set,3.8579889761941195,random_point,3,GBM,2316
+31,16,1,0,4.146128036,pilot/full,surface water,original_test_set,4.10697917057082,random_point,3,GBM,2316
+246,52,6,0,3.9585638837196626,RSSCT,deionized water,UV_training_set,3.8926378297682684,random_point,3,GBM,2316
+169,50,4,1,4.19188477,pilot/full,surface water,original_test_set,3.833461814187744,random_point,3,GBM,2316
+72,17,1,0,3.9542425097196627,RSSCT,surface water,UV_training_set,4.051138832125215,random_point,3,GBM,2316
+357,69,10,0,4.8310509222249145,RSSCT,groundwater,UV_training_set,4.6989770885509055,random_point,3,GBM,2316
+312,61,9,0,4.46632296425386,RSSCT,groundwater,UV_training_set,4.589907312560977,random_point,3,GBM,2316
+234,52,6,0,3.600972895719663,RSSCT,groundwater,UV_training_set,3.6095981152746943,random_point,3,GBM,2316
+267,57,1,0,4.806875401645539,RSSCT,surface water,UV_training_set,4.957347834861116,random_point,3,GBM,2316
+150,50,4,0,3.699379267,pilot/full,surface water,UV_training_set,3.800439030214578,random_point,3,GBM,2316
+352,69,10,0,4.741085250984216,RSSCT,groundwater,UV_training_set,4.643548792951656,random_point,3,GBM,2316
+147,50,4,0,3.737304101,pilot/full,surface water,original_test_set,3.6264448070230646,random_point,3,GBM,2316
+178,17,1,0,4.406540180719663,RSSCT,synthetic surface water,UV_training_set,4.4202259043040275,random_point,3,GBM,2316
+57,17,1,0,4.8388490907196635,RSSCT,surface water,UV_training_set,4.771736839588575,random_point,3,GBM,2316
+6,1,0,0,3.522517249,pilot/full,Treated WW,UV_training_set,3.806552554130972,random_point,3,GBM,2316
+33,51,5,0,4.468347330719663,RSSCT,surface water,UV_training_set,4.2827594161299505,random_point,3,GBM,2316
+79,16,1,0,4.875061263,pilot/full,synthetic surface water,UV_training_set,4.526465876938349,random_point,3,GBM,2316
+368,77,11,0,3.783280033170322,RSSCT,Treated WW,UV_training_set,3.6429740739190564,random_point,3,GBM,2316
+222,52,6,0,3.6384892567196623,RSSCT,groundwater,UV_training_set,3.614849658483191,random_point,3,GBM,2316
+140,17,1,0,3.3802112417196626,RSSCT,synthetic surface water,UV_training_set,3.7351391613365217,random_point,3,GBM,2316
+268,58,6,0,3.707570176,pilot/full,groundwater,original_test_set,3.7805416021037246,random_point,3,GBM,2316
+78,17,1,0,4.707570175719662,RSSCT,surface water,UV_training_set,4.744815621926536,random_point,3,GBM,2316
+70,16,1,0,4.544068044,pilot/full,synthetic surface water,UV_training_set,4.583450583249682,random_point,3,GBM,2316
+303,61,9,0,4.419703975733719,RSSCT,groundwater,UV_training_set,4.513683803719709,random_point,3,GBM,2316
+355,69,10,0,4.38191535131012,RSSCT,groundwater,UV_training_set,4.379401056040543,random_point,3,GBM,2316
+40,16,1,0,4.806179974,pilot/full,surface water,UV_training_set,4.83571122396199,random_point,3,GBM,2316
+302,61,9,0,4.74658849926776,RSSCT,groundwater,UV_training_set,4.688395378503308,random_point,3,GBM,2316
+409,79,1,0,4.409104653,pilot/full,surface water,UV_training_set,4.367161082232077,random_point,3,GBM,2316
+346,62,6,0,4.984121839719664,RSSCT,groundwater,UV_training_set,4.828726281333598,random_point,3,GBM,2316
+396,78,6,0,3.7888751157196627,RSSCT,groundwater,UV_training_set,3.6215257073945915,random_point,4,GBM,2841
+117,19,2,0,4.039207236,pilot/full,groundwater,original_test_set,3.968596889927303,random_point,4,GBM,2841
+179,51,5,0,4.406540180719663,RSSCT,surface water,UV_training_set,4.433952134571455,random_point,4,GBM,2841
+32,16,1,0,4.176091259,pilot/full,surface water,original_test_set,4.329499698881893,random_point,4,GBM,2841
+177,50,4,0,3.699044809,pilot/full,surface water,UV_training_set,3.4937397399386447,random_point,4,GBM,2841
+71,17,1,0,3.9242792857196624,RSSCT,synthetic surface water,UV_training_set,3.886673906118066,random_point,4,GBM,2841
+312,61,9,0,4.46632296425386,RSSCT,groundwater,UV_training_set,4.547472160035415,random_point,4,GBM,2841
+16,78,6,0,3.561697532719663,RSSCT,groundwater,UV_training_set,3.6376577641979626,random_point,4,GBM,2841
+326,61,9,0,4.098540607876411,RSSCT,groundwater,UV_training_set,4.139191597351333,random_point,4,GBM,2841
+126,35,3,0,4.082257857351604,RSSCT,surface water,UV_training_set,3.9916021552865315,random_point,4,GBM,2841
+347,62,6,0,4.633247431719663,RSSCT,groundwater,UV_training_set,4.602611668355467,random_point,4,GBM,2841
+72,17,1,0,3.9542425097196627,RSSCT,surface water,UV_training_set,4.0522392689709985,random_point,4,GBM,2841
+373,77,11,0,3.6860414330609004,RSSCT,Treated WW,UV_training_set,3.920604214205997,random_point,4,GBM,2841
+53,17,1,0,4.537819094719662,RSSCT,synthetic surface water,UV_training_set,4.625030170483235,random_point,4,GBM,2841
+11,1,0,0,3.4935993,pilot/full,Treated WW,UV_training_set,3.4775465118838254,random_point,4,GBM,2841
+51,51,5,0,3.819543935719663,RSSCT,surface water,UV_training_set,3.912156029581809,random_point,4,GBM,2841
+293,61,9,0,3.842784559436661,RSSCT,groundwater,UV_training_set,3.8303567308454416,random_point,4,GBM,2841
+241,52,6,0,3.8715729357196627,RSSCT,groundwater,UV_training_set,3.831316350567995,random_point,4,GBM,2841
+368,77,11,0,3.783280033170322,RSSCT,Treated WW,UV_training_set,3.6507065497781164,random_point,4,GBM,2841
+59,16,1,1,4.681241237,pilot/full,synthetic surface water,original_test_set,4.88434248115676,random_point,4,GBM,2841
+301,61,9,0,4.727870395956745,RSSCT,groundwater,UV_training_set,4.594370519311338,random_point,4,GBM,2841
+39,16,1,0,4.662757832,pilot/full,surface water,UV_training_set,4.744609753419399,random_point,4,GBM,2841
+252,52,6,0,4.436391664719663,RSSCT,groundwater,UV_training_set,4.224516952774916,random_point,4,GBM,2841
+339,62,6,0,4.2342107737196635,RSSCT,groundwater,UV_training_set,4.30305762730283,random_point,4,GBM,2841
+173,50,4,0,4.16702996,pilot/full,surface water,UV_training_set,3.9862575523924026,random_point,4,GBM,2841
+258,52,6,0,4.3162220367196635,RSSCT,groundwater,UV_training_set,4.2001303687211555,random_point,4,GBM,2841
+307,61,9,0,4.73772457082064,RSSCT,groundwater,UV_training_set,4.655773984291461,random_point,4,GBM,2841
+278,60,8,0,3.2383290407196625,RSSCT,surface water,UV_training_set,3.0672583515019762,random_point,4,GBM,2841
+268,58,6,0,3.707570176,pilot/full,groundwater,original_test_set,3.8272050992990305,random_point,4,GBM,2841
+388,78,6,0,3.265996370719663,RSSCT,groundwater,UV_training_set,3.082600536893485,random_point,4,GBM,2841
+206,51,5,0,4.363611979719662,RSSCT,surface water,UV_training_set,4.489684867181639,random_point,4,GBM,2841
+212,51,5,0,4.334453750719662,RSSCT,surface water,UV_training_set,4.343282242986347,random_point,4,GBM,2841
+300,61,9,0,4.703944592732077,RSSCT,groundwater,UV_training_set,4.70247918987817,random_point,4,GBM,2841
+106,19,2,0,3.83059812550234,pilot/full,groundwater,UV_training_set,4.00128273938934,random_point,4,GBM,2841
+87,17,1,0,4.556302500719663,RSSCT,synthetic surface water,UV_training_set,4.655639533082741,random_point,4,GBM,2841
+54,17,1,0,4.707570175719662,RSSCT,surface water,UV_training_set,4.754526610069539,random_point,4,GBM,2841
+367,77,11,0,4.049126196941958,RSSCT,Treated WW,UV_training_set,3.7608331579804495,random_point,4,GBM,2841
+394,77,11,0,3.5932441454272857,RSSCT,Treated WW,UV_training_set,3.8312798069022613,random_point,4,GBM,2841
+152,50,4,0,3.411371726,pilot/full,surface water,UV_training_set,3.4862012114175993,random_point,4,GBM,2841
+0,1,0,0,3.7728754,pilot/full,Treated WW,original_test_set,3.8679003937391365,random_point,4,GBM,2841
+139,35,3,0,3.222808034284815,RSSCT,surface water,UV_training_set,3.3892084130849027,random_point,4,GBM,2841
+377,77,11,0,3.7376787573044763,RSSCT,Treated WW,UV_training_set,3.2183816744866567,random_point,4,GBM,2841
+143,17,1,0,3.819543935719663,RSSCT,synthetic surface water,UV_training_set,3.4993057890982606,random_point,5,GBM,1311
+228,52,6,0,3.7419390777196626,RSSCT,groundwater,UV_training_set,3.746165001727544,random_point,5,GBM,1311
+200,51,5,0,3.819543935719663,RSSCT,surface water,UV_training_set,3.8340815836190676,random_point,5,GBM,1311
+187,51,5,0,4.3031960567196625,RSSCT,surface water,UV_training_set,4.369893934800641,random_point,5,GBM,1311
+214,51,5,0,4.1846914307196625,RSSCT,surface water,UV_training_set,4.134706220712541,random_point,5,GBM,1311
+256,52,6,0,4.440228784719663,RSSCT,groundwater,UV_training_set,4.412986472383681,random_point,5,GBM,1311
+307,61,9,0,4.73772457082064,RSSCT,groundwater,UV_training_set,4.651422039057654,random_point,5,GBM,1311
+1,1,0,0,3.778718715,pilot/full,Treated WW,UV_training_set,3.728848069225611,random_point,5,GBM,1311
+96,19,2,1,4.265020376,pilot/full,groundwater,UV_training_set,4.321365585278066,random_point,5,GBM,1311
+49,17,1,0,4.380211241719664,RSSCT,surface water,UV_training_set,4.75092604904812,random_point,5,GBM,1311
+26,16,1,0,5.033423755,pilot/full,surface water,UV_training_set,4.968980912047181,random_point,5,GBM,1311
+280,60,8,0,3.960774872719663,RSSCT,surface water,UV_training_set,4.109792155296245,random_point,5,GBM,1311
+80,17,1,0,4.498310553719663,RSSCT,synthetic surface water,UV_training_set,4.694481241482098,random_point,5,GBM,1311
+193,51,5,0,4.309630166719662,RSSCT,surface water,UV_training_set,4.414319237348027,random_point,5,GBM,1311
+162,50,4,0,3.629959128,pilot/full,surface water,UV_training_set,3.7609929662655763,random_point,5,GBM,1311
+369,77,11,0,3.2227834879566206,RSSCT,Treated WW,UV_training_set,3.550895788536061,random_point,5,GBM,1311
+53,17,1,0,4.537819094719662,RSSCT,synthetic surface water,UV_training_set,4.642552474243495,random_point,5,GBM,1311
+125,19,2,0,4.078606937,pilot/full,groundwater,UV_training_set,4.141159646341842,random_point,5,GBM,1311
+367,77,11,0,4.049126196941958,RSSCT,Treated WW,UV_training_set,3.9802263269075704,random_point,5,GBM,1311
+365,69,10,0,4.782673512288013,RSSCT,groundwater,UV_training_set,4.770882137820781,random_point,5,GBM,1311
+290,61,9,0,3.4983415176107067,RSSCT,groundwater,UV_training_set,3.643797614898254,random_point,5,GBM,1311
+279,60,8,0,3.3320432487196627,RSSCT,surface water,UV_training_set,3.0218666160147474,random_point,5,GBM,1311
+144,50,4,0,3.292450705,pilot/full,surface water,original_test_set,3.5850932799453332,random_point,5,GBM,1311
+293,61,9,0,3.842784559436661,RSSCT,groundwater,UV_training_set,3.8611461312352056,random_point,5,GBM,1311
+192,51,5,0,4.352182518719663,RSSCT,surface water,UV_training_set,4.46853712614452,random_point,5,GBM,1311
+392,78,6,0,3.9933921377196624,RSSCT,groundwater,UV_training_set,3.703201121633456,random_point,5,GBM,1311
+234,52,6,0,3.600972895719663,RSSCT,groundwater,UV_training_set,3.6141291027030573,random_point,5,GBM,1311
+178,17,1,0,4.406540180719663,RSSCT,synthetic surface water,UV_training_set,4.492902641856297,random_point,5,GBM,1311
+212,51,5,0,4.334453750719662,RSSCT,surface water,UV_training_set,4.365680494264793,random_point,5,GBM,1311
+8,1,0,0,3.945604473,pilot/full,Treated WW,UV_training_set,3.3226711462814515,random_point,5,GBM,1311
+35,16,1,0,4.716003344,pilot/full,surface water,UV_training_set,4.712921261142202,random_point,5,GBM,1311
+115,19,2,1,3.969678939,pilot/full,groundwater,original_test_set,4.089598213055726,random_point,5,GBM,1311
+24,16,1,0,4.924279286,pilot/full,surface water,original_test_set,4.899930375490735,random_point,5,GBM,1311
+15,16,1,0,4.929418926,pilot/full,surface water,UV_training_set,4.919415671828977,random_point,5,GBM,1311
+316,61,9,0,4.522694967753341,RSSCT,groundwater,UV_training_set,4.646122208084728,random_point,5,GBM,1311
+170,50,4,0,3.645470885,pilot/full,surface water,UV_training_set,3.9859043891067603,random_point,5,GBM,1311
+33,51,5,0,4.468347330719663,RSSCT,surface water,UV_training_set,4.341129931819718,random_point,5,GBM,1311
+410,79,1,0,4.288087753,pilot/full,surface water,UV_training_set,4.341103652868178,random_point,5,GBM,1311
+349,69,10,0,4.799916809405545,RSSCT,groundwater,UV_training_set,4.676815897530465,random_point,5,GBM,1311
+45,16,1,0,4.973127854,pilot/full,surface water,UV_training_set,4.9496799356237435,random_point,5,GBM,1311
+87,17,1,0,4.556302500719663,RSSCT,synthetic surface water,UV_training_set,4.800915321409206,random_point,5,GBM,1311
+380,35,3,0,3.5817626399151337,RSSCT,synthetic surface water,UV_training_set,3.602211820549748,random_point,5,GBM,1311
+403,78,6,0,4.5317343097196625,RSSCT,groundwater,UV_training_set,4.526334659937763,random_point,6,GBM,2954
+404,79,1,0,4.359097697,pilot/full,surface water,UV_training_set,4.410605679442223,random_point,6,GBM,2954
+27,51,5,0,4.1583624917196635,RSSCT,surface water,UV_training_set,4.215799418021344,random_point,6,GBM,2954
+275,60,8,0,4.364584715,pilot/full,surface water,original_test_set,4.410746999368173,random_point,6,GBM,2954
+181,51,5,0,4.468347330719663,RSSCT,surface water,UV_training_set,4.477848533211341,random_point,6,GBM,2954
+186,51,5,0,4.545307115719663,RSSCT,surface water,UV_training_set,4.407590537873405,random_point,6,GBM,2954
+371,77,11,0,4.390298897656521,RSSCT,Treated WW,UV_training_set,4.3372537598267265,random_point,6,GBM,2954
+199,51,5,0,3.7781512507196626,RSSCT,surface water,UV_training_set,3.898661593325119,random_point,6,GBM,2954
+297,61,9,0,4.402911792837681,RSSCT,groundwater,UV_training_set,4.498131600938989,random_point,6,GBM,2954
+379,77,11,0,2.9252895866094137,RSSCT,Treated WW,UV_training_set,2.87831461493972,random_point,6,GBM,2954
+226,52,6,0,3.7824726247196634,RSSCT,synthetic surface water,UV_training_set,3.663870159299274,random_point,6,GBM,2954
+206,51,5,0,4.363611979719662,RSSCT,surface water,UV_training_set,4.4501736024338046,random_point,6,GBM,2954
+31,16,1,0,4.146128036,pilot/full,surface water,original_test_set,4.036640446831676,random_point,6,GBM,2954
+249,52,6,0,3.4243098207196625,RSSCT,groundwater,UV_training_set,3.3759686310356396,random_point,6,GBM,2954
+398,78,6,0,4.096631975719663,RSSCT,groundwater,UV_training_set,4.271158666686945,random_point,6,GBM,2954
+241,52,6,0,3.8715729357196627,RSSCT,groundwater,UV_training_set,3.845963445515854,random_point,6,GBM,2954
+394,77,11,0,3.5932441454272857,RSSCT,Treated WW,UV_training_set,3.7712053008597977,random_point,6,GBM,2954
+176,50,4,0,3.630357692,pilot/full,surface water,UV_training_set,3.646370475241196,random_point,6,GBM,2954
+289,60,8,0,3.5553293437196634,RSSCT,surface water,UV_training_set,4.021455130768249,random_point,6,GBM,2954
+142,35,3,0,3.2966717063618485,RSSCT,surface water,UV_training_set,3.7052526673798316,random_point,6,GBM,2954
+106,19,2,0,3.83059812550234,pilot/full,groundwater,UV_training_set,4.011387643371692,random_point,6,GBM,2954
+388,78,6,0,3.265996370719663,RSSCT,groundwater,UV_training_set,3.2056881572210907,random_point,6,GBM,2954
+380,35,3,0,3.5817626399151337,RSSCT,synthetic surface water,UV_training_set,3.4829530032176637,random_point,6,GBM,2954
+412,79,1,0,3.925941507,pilot/full,surface water,UV_training_set,4.112324464689833,random_point,6,GBM,2954
+349,69,10,0,4.799916809405545,RSSCT,groundwater,UV_training_set,4.708789830698767,random_point,6,GBM,2954
+230,52,6,0,3.8293037727196633,RSSCT,groundwater,UV_training_set,3.665174915435033,random_point,6,GBM,2954
+196,51,5,0,4.545307115719663,RSSCT,surface water,UV_training_set,4.441296995321569,random_point,6,GBM,2954
+80,17,1,0,4.498310553719663,RSSCT,synthetic surface water,UV_training_set,4.532783261481237,random_point,6,GBM,2954
+163,50,4,1,3.721238623,pilot/full,surface water,original_test_set,3.472236572108426,random_point,6,GBM,2954
+328,61,9,0,4.203704480546643,RSSCT,groundwater,UV_training_set,4.249350566636538,random_point,6,GBM,2954
+242,52,6,0,3.898725181719662,RSSCT,groundwater,UV_training_set,3.8118165151937125,random_point,6,GBM,2954
+410,79,1,0,4.288087753,pilot/full,surface water,UV_training_set,4.3160672835686436,random_point,6,GBM,2954
+351,69,10,0,4.646201611154577,RSSCT,groundwater,UV_training_set,4.620135671526265,random_point,6,GBM,2954
+285,60,8,0,4.494364806,pilot/full,surface water,UV_training_set,4.389236023011394,random_point,6,GBM,2954
+183,17,1,0,4.477121254719663,RSSCT,synthetic surface water,UV_training_set,4.608335852887492,random_point,6,GBM,2954
+252,52,6,0,4.436391664719663,RSSCT,groundwater,UV_training_set,4.230936467430983,random_point,6,GBM,2954
+124,19,2,1,4.044957851,pilot/full,groundwater,original_test_set,4.16601207097303,random_point,6,GBM,2954
+340,62,6,0,4.242507163719663,RSSCT,groundwater,UV_training_set,4.203882079225155,random_point,6,GBM,2954
+89,17,1,0,4.755874855719663,RSSCT,surface water,UV_training_set,4.76334461320813,random_point,6,GBM,2954
+141,35,3,0,3.5594963191090723,RSSCT,Treated WW,UV_training_set,3.6243101627265286,random_point,6,GBM,2954
+361,69,10,0,4.68558307615598,RSSCT,groundwater,UV_training_set,4.647236874792066,random_point,6,GBM,2954
+174,50,4,0,3.154638695,pilot/full,surface water,UV_training_set,3.523990388988041,random_point,6,GBM,2954
+214,51,5,0,4.1846914307196625,RSSCT,surface water,UV_training_set,4.173530658133982,random_point,7,GBM,2999
+60,17,1,0,4.892094601719663,RSSCT,surface water,UV_training_set,4.842684619298349,random_point,7,GBM,2999
+329,61,9,0,4.405063530481639,RSSCT,groundwater,UV_training_set,4.328847694204641,random_point,7,GBM,2999
+123,19,2,0,3.989821267,pilot/full,groundwater,UV_training_set,3.9425698437860635,random_point,7,GBM,2999
+77,17,1,0,4.732393759719662,RSSCT,surface water,UV_training_set,4.533238576644387,random_point,7,GBM,2999
+97,19,2,0,4.489747597,pilot/full,groundwater,UV_training_set,4.362295408719598,random_point,7,GBM,2999
+393,77,11,0,3.5932441454272857,RSSCT,Treated WW,UV_training_set,3.5114364716870905,random_point,7,GBM,2999
+406,79,1,0,4.3353193,pilot/full,surface water,UV_training_set,4.250696411878163,random_point,7,GBM,2999
+222,52,6,0,3.6384892567196623,RSSCT,groundwater,UV_training_set,3.6234665851735253,random_point,7,GBM,2999
+159,50,4,0,3.424876094,pilot/full,surface water,UV_training_set,3.63146586791612,random_point,7,GBM,2999
+2,1,0,0,3.030080778,pilot/full,Treated WW,UV_training_set,3.2461392951659755,random_point,7,GBM,2999
+283,60,8,0,4.261138232,pilot/full,surface water,original_test_set,4.254341468357974,random_point,7,GBM,2999
+348,62,6,0,4.717869310719663,RSSCT,groundwater,UV_training_set,4.631062660358267,random_point,7,GBM,2999
+395,78,6,0,3.767155865719663,RSSCT,groundwater,UV_training_set,3.7315264249270634,random_point,7,GBM,2999
+378,77,11,0,3.069999727906512,RSSCT,Treated WW,UV_training_set,3.6453513340751846,random_point,7,GBM,2999
+72,17,1,0,3.9542425097196627,RSSCT,surface water,UV_training_set,4.003839350588531,random_point,7,GBM,2999
+360,69,10,0,3.9756592973296243,RSSCT,groundwater,UV_training_set,3.975000772746632,random_point,7,GBM,2999
+80,17,1,0,4.498310553719663,RSSCT,synthetic surface water,UV_training_set,4.500986304485898,random_point,7,GBM,2999
+382,77,11,0,3.448329752814807,RSSCT,Treated WW,UV_training_set,3.469330447213678,random_point,7,GBM,2999
+198,17,1,0,4.5185139397196625,RSSCT,synthetic surface water,UV_training_set,4.63986726902006,random_point,7,GBM,2999
+34,16,1,0,4.698970004,pilot/full,synthetic surface water,original_test_set,4.676178137127789,random_point,7,GBM,2999
+171,50,4,0,3.861379095,pilot/full,surface water,UV_training_set,3.529084152484077,random_point,7,GBM,2999
+95,19,2,1,4.081764683,pilot/full,groundwater,original_test_set,4.0635712068704954,random_point,7,GBM,2999
+409,79,1,0,4.409104653,pilot/full,surface water,UV_training_set,4.331778407894239,random_point,7,GBM,2999
+251,52,6,0,4.2545335757196625,RSSCT,groundwater,UV_training_set,4.458081727512223,random_point,7,GBM,2999
+62,16,1,0,4.903089987,pilot/full,synthetic surface water,UV_training_set,4.962730398965032,random_point,7,GBM,2999
+384,35,3,0,3.915550176914748,RSSCT,synthetic surface water,UV_training_set,3.746893058702726,random_point,7,GBM,2999
+244,52,6,0,3.720159303719663,RSSCT,deionized water,UV_training_set,3.787814138042798,random_point,7,GBM,2999
+281,60,8,0,4.044312793719663,RSSCT,surface water,UV_training_set,4.050001340881508,random_point,7,GBM,2999
+135,17,1,0,4.431363764719664,RSSCT,synthetic surface water,UV_training_set,4.481908648785628,random_point,7,GBM,2999
+340,62,6,0,4.242507163719663,RSSCT,groundwater,UV_training_set,4.212721816065719,random_point,7,GBM,2999
+165,50,4,0,3.853247311,pilot/full,surface water,UV_training_set,3.648843671872886,random_point,7,GBM,2999
+63,17,1,0,4.623249290719663,RSSCT,synthetic surface water,UV_training_set,4.471142961338335,random_point,7,GBM,2999
+138,17,1,0,4.380211241719664,RSSCT,synthetic surface water,UV_training_set,4.355474189513768,random_point,7,GBM,2999
+223,52,6,0,3.6812412367196625,RSSCT,groundwater,UV_training_set,3.709649079230855,random_point,7,GBM,2999
+117,19,2,0,4.039207236,pilot/full,groundwater,original_test_set,3.9955594475813228,random_point,7,GBM,2999
+36,16,1,0,4.903089987,pilot/full,surface water,UV_training_set,4.820341517613155,random_point,7,GBM,2999
+54,17,1,0,4.707570175719662,RSSCT,surface water,UV_training_set,4.737712096820772,random_point,7,GBM,2999
+120,19,2,0,4.135098175,pilot/full,groundwater,UV_training_set,4.225146614588742,random_point,7,GBM,2999
+180,51,5,0,4.450249108719663,RSSCT,surface water,UV_training_set,4.426330628057571,random_point,7,GBM,2999
+163,50,4,1,3.721238623,pilot/full,surface water,original_test_set,3.413226748409869,random_point,7,GBM,2999
+228,52,6,0,3.7419390777196626,RSSCT,groundwater,UV_training_set,3.7687656981570883,random_point,7,GBM,2999
+112,19,2,1,4.417405214,pilot/full,groundwater,original_test_set,4.508611461965213,random_point,8,GBM,2633
+376,35,3,0,3.5033211092082235,RSSCT,synthetic surface water,UV_training_set,3.5669889286070995,random_point,8,GBM,2633
+246,52,6,0,3.9585638837196626,RSSCT,deionized water,UV_training_set,3.874752807417519,random_point,8,GBM,2633
+370,35,3,0,2.9155708808820813,RSSCT,synthetic surface water,UV_training_set,3.1575164779492626,random_point,8,GBM,2633
+138,17,1,0,4.380211241719664,RSSCT,synthetic surface water,UV_training_set,4.29724975554004,random_point,8,GBM,2633
+406,79,1,0,4.3353193,pilot/full,surface water,UV_training_set,4.210660936892865,random_point,8,GBM,2633
+288,60,8,0,4.151700610814557,RSSCT,surface water,UV_training_set,3.653649355787285,random_point,8,GBM,2633
+298,61,9,0,4.683977372086776,RSSCT,groundwater,UV_training_set,4.717158228279254,random_point,8,GBM,2633
+375,77,11,0,2.7048633766482144,RSSCT,Treated WW,UV_training_set,2.9097518473163055,random_point,8,GBM,2633
+189,17,1,0,4.732393759719662,RSSCT,synthetic surface water,UV_training_set,4.591231284252474,random_point,8,GBM,2633
+83,17,1,0,4.681241237719663,RSSCT,surface water,UV_training_set,4.72018952635284,random_point,8,GBM,2633
+10,1,0,0,3.369491602,pilot/full,Treated WW,original_test_set,3.5058911338148793,random_point,8,GBM,2633
+129,35,3,0,4.146269645694943,RSSCT,surface water,UV_training_set,3.731568398088666,random_point,8,GBM,2633
+248,52,6,0,4.267406418719664,RSSCT,groundwater,UV_training_set,4.172739452207607,random_point,8,GBM,2633
+139,35,3,0,3.222808034284815,RSSCT,surface water,UV_training_set,3.208540123027787,random_point,8,GBM,2633
+211,51,5,0,4.522444233719662,RSSCT,surface water,UV_training_set,4.395044019021742,random_point,8,GBM,2633
+381,77,11,0,3.6996001884863365,RSSCT,Treated WW,UV_training_set,3.867145969518531,random_point,8,GBM,2633
+316,61,9,0,4.522694967753341,RSSCT,groundwater,UV_training_set,4.6054168680824885,random_point,8,GBM,2633
+251,52,6,0,4.2545335757196625,RSSCT,groundwater,UV_training_set,4.472741480107546,random_point,8,GBM,2633
+154,50,4,0,3.68169817,pilot/full,surface water,original_test_set,3.6924961284391005,random_point,8,GBM,2633
+337,62,6,0,3.768299233719663,RSSCT,groundwater,UV_training_set,3.788687354080593,random_point,8,GBM,2633
+149,50,4,0,3.653103665,pilot/full,surface water,UV_training_set,3.591275608675942,random_point,8,GBM,2633
+175,50,4,0,3.460112747,pilot/full,surface water,UV_training_set,3.564981219730453,random_point,8,GBM,2633
+321,61,9,0,4.750822513372734,RSSCT,groundwater,UV_training_set,4.854754692725623,random_point,8,GBM,2633
+239,52,6,0,3.8444771757196627,RSSCT,groundwater,UV_training_set,3.9073706103652097,random_point,8,GBM,2633
+31,16,1,0,4.146128036,pilot/full,surface water,original_test_set,4.069694906948667,random_point,8,GBM,2633
+20,16,1,1,4.556302501,pilot/full,synthetic surface water,UV_training_set,4.757625276277205,random_point,8,GBM,2633
+272,58,6,0,4.522444234,pilot/full,groundwater,UV_training_set,4.3260072612727365,random_point,8,GBM,2633
+333,62,6,0,4.399940156719663,RSSCT,groundwater,UV_training_set,4.482385952220267,random_point,8,GBM,2633
+182,51,5,0,4.374748345719663,RSSCT,surface water,UV_training_set,4.384945811037945,random_point,8,GBM,2633
+400,78,6,0,4.2940912927196635,RSSCT,groundwater,UV_training_set,4.182193727862528,random_point,8,GBM,2633
+62,16,1,0,4.903089987,pilot/full,synthetic surface water,UV_training_set,4.9137207049695615,random_point,8,GBM,2633
+273,59,7,0,3.918904084015689,RSSCT,surface water,UV_training_set,3.9006768792411206,random_point,8,GBM,2633
+312,61,9,0,4.46632296425386,RSSCT,groundwater,UV_training_set,4.516304007917342,random_point,8,GBM,2633
+51,51,5,0,3.819543935719663,RSSCT,surface water,UV_training_set,3.9529425660836193,random_point,8,GBM,2633
+72,17,1,0,3.9542425097196627,RSSCT,surface water,UV_training_set,4.071113655142679,random_point,8,GBM,2633
+394,77,11,0,3.5932441454272857,RSSCT,Treated WW,UV_training_set,3.805161365538717,random_point,8,GBM,2633
+405,79,1,0,4.417945715,pilot/full,surface water,original_test_set,4.345139808651004,random_point,8,GBM,2633
+227,52,6,0,3.715167358719663,RSSCT,groundwater,UV_training_set,3.8111674886106273,random_point,8,GBM,2633
+49,17,1,0,4.380211241719664,RSSCT,surface water,UV_training_set,4.742867704773503,random_point,8,GBM,2633
+55,17,1,0,5.008600171719663,RSSCT,surface water,UV_training_set,4.765821193049053,random_point,8,GBM,2633
+268,58,6,0,3.707570176,pilot/full,groundwater,original_test_set,3.738585498019619,random_point,8,GBM,2633
+89,17,1,0,4.755874855719663,RSSCT,surface water,UV_training_set,4.761323424167042,random_point,9,GBM,2986
+114,19,2,0,3.892284475,pilot/full,groundwater,UV_training_set,3.7463868444952984,random_point,9,GBM,2986
+29,51,5,0,4.068185861719663,RSSCT,surface water,UV_training_set,4.1409652736398455,random_point,9,GBM,2986
+238,52,6,0,3.805847339719662,RSSCT,groundwater,UV_training_set,3.7673266491682753,random_point,9,GBM,2986
+27,51,5,0,4.1583624917196635,RSSCT,surface water,UV_training_set,4.192365216677262,random_point,9,GBM,2986
+220,52,6,0,3.6074550237196625,RSSCT,groundwater,UV_training_set,3.5888718382666447,random_point,9,GBM,2986
+221,52,6,0,3.6201360547196635,RSSCT,groundwater,UV_training_set,3.644774096360994,random_point,9,GBM,2986
+262,57,1,0,4.829328066214528,RSSCT,surface water,UV_training_set,4.74549586477251,random_point,9,GBM,2986
+258,52,6,0,4.3162220367196635,RSSCT,groundwater,UV_training_set,4.221146821626739,random_point,9,GBM,2986
+104,19,2,0,4.35871685191586,pilot/full,groundwater,UV_training_set,4.362314992822922,random_point,9,GBM,2986
+189,17,1,0,4.732393759719662,RSSCT,synthetic surface water,UV_training_set,4.601850586090545,random_point,9,GBM,2986
+158,50,4,0,2.973747188,pilot/full,surface water,original_test_set,3.5386023507179822,random_point,9,GBM,2986
+93,19,2,1,4.052610845,pilot/full,groundwater,original_test_set,4.164142230391076,random_point,9,GBM,2986
+396,78,6,0,3.7888751157196627,RSSCT,groundwater,UV_training_set,3.7206517626673308,random_point,9,GBM,2986
+111,19,2,0,4.295691451,pilot/full,groundwater,UV_training_set,4.399467422220516,random_point,9,GBM,2986
+255,52,6,0,4.382290868719664,RSSCT,groundwater,UV_training_set,4.482910867752949,random_point,9,GBM,2986
+40,16,1,0,4.806179974,pilot/full,surface water,UV_training_set,4.827379763897727,random_point,9,GBM,2986
+401,78,6,0,4.410810963719664,RSSCT,groundwater,UV_training_set,4.521830820642593,random_point,9,GBM,2986
+96,19,2,1,4.265020376,pilot/full,groundwater,UV_training_set,4.308177353679257,random_point,9,GBM,2986
+48,17,1,0,4.623249290719663,RSSCT,synthetic surface water,UV_training_set,4.679375990083949,random_point,9,GBM,2986
+246,52,6,0,3.9585638837196626,RSSCT,deionized water,UV_training_set,3.907302684269022,random_point,9,GBM,2986
+175,50,4,0,3.460112747,pilot/full,surface water,UV_training_set,3.5459338258427757,random_point,9,GBM,2986
+268,58,6,0,3.707570176,pilot/full,groundwater,original_test_set,3.788694960121908,random_point,9,GBM,2986
+296,61,9,0,3.9245705544122775,RSSCT,groundwater,UV_training_set,3.8040986224470927,random_point,9,GBM,2986
+252,52,6,0,4.436391664719663,RSSCT,groundwater,UV_training_set,4.207245305367717,random_point,9,GBM,2986
+277,60,8,0,2.8026600057196625,RSSCT,surface water,UV_training_set,3.288942711976608,random_point,9,GBM,2986
+360,69,10,0,3.9756592973296243,RSSCT,groundwater,UV_training_set,3.95285447561527,random_point,9,GBM,2986
+138,17,1,0,4.380211241719664,RSSCT,synthetic surface water,UV_training_set,4.360950154194745,random_point,9,GBM,2986
+54,17,1,0,4.707570175719662,RSSCT,surface water,UV_training_set,4.734748021835452,random_point,9,GBM,2986
+143,17,1,0,3.819543935719663,RSSCT,synthetic surface water,UV_training_set,3.650661121678656,random_point,9,GBM,2986
+269,58,6,0,4.492760389,pilot/full,groundwater,UV_training_set,4.3809962025155365,random_point,9,GBM,2986
+387,78,6,0,3.217483943719663,RSSCT,groundwater,UV_training_set,3.4081229324936198,random_point,9,GBM,2986
+148,50,4,0,3.738930171,pilot/full,surface water,UV_training_set,3.6417530509841347,random_point,9,GBM,2986
+295,61,9,0,3.86352005296353,RSSCT,groundwater,UV_training_set,3.7979445402221392,random_point,9,GBM,2986
+120,19,2,0,4.135098175,pilot/full,groundwater,UV_training_set,4.246738762813796,random_point,9,GBM,2986
+204,51,5,0,4.374748345719663,RSSCT,surface water,UV_training_set,4.38909301313376,random_point,9,GBM,2986
+327,61,9,0,4.180971448865605,RSSCT,groundwater,UV_training_set,4.088914491701301,random_point,9,GBM,2986
+388,78,6,0,3.265996370719663,RSSCT,groundwater,UV_training_set,3.25671352987231,random_point,9,GBM,2986
+351,69,10,0,4.646201611154577,RSSCT,groundwater,UV_training_set,4.671765115786831,random_point,9,GBM,2986
+155,50,4,0,3.783979294,pilot/full,surface water,UV_training_set,3.5490817426662775,random_point,9,GBM,2986
+407,79,1,0,4.151234192,pilot/full,surface water,UV_training_set,4.156342282986756,random_point,9,GBM,2986
+409,79,1,0,4.409104653,pilot/full,surface water,UV_training_set,4.335956066596167,random_point,9,GBM,2986
+42,16,1,0,4.832508913,pilot/full,surface water,original_test_set,4.9296991847460685,random_point,10,GBM,2366
+26,16,1,0,5.033423755,pilot/full,surface water,UV_training_set,4.943429441482419,random_point,10,GBM,2366
+270,58,6,0,4.506505032,pilot/full,groundwater,UV_training_set,4.4574251377739165,random_point,10,GBM,2366
+389,78,6,0,3.5930644317196627,RSSCT,groundwater,UV_training_set,3.735710137501252,random_point,10,GBM,2366
+263,57,1,0,4.786074244992476,RSSCT,surface water,UV_training_set,4.791077098129687,random_point,10,GBM,2366
+154,50,4,0,3.68169817,pilot/full,surface water,original_test_set,3.707158684055543,random_point,10,GBM,2366
+165,50,4,0,3.853247311,pilot/full,surface water,UV_training_set,3.626020692594732,random_point,10,GBM,2366
+266,57,1,0,4.64861117561938,RSSCT,surface water,UV_training_set,4.714186366247648,random_point,10,GBM,2366
+47,51,5,0,4.068185861719663,RSSCT,surface water,UV_training_set,4.145962140778418,random_point,10,GBM,2366
+140,17,1,0,3.3802112417196626,RSSCT,synthetic surface water,UV_training_set,3.69878562594287,random_point,10,GBM,2366
+374,77,11,0,3.263472395921375,RSSCT,Treated WW,UV_training_set,2.9308911548566177,random_point,10,GBM,2366
+229,52,6,0,3.8075350287196628,RSSCT,groundwater,UV_training_set,3.753102194381547,random_point,10,GBM,2366
+395,78,6,0,3.767155865719663,RSSCT,groundwater,UV_training_set,3.7666327767741468,random_point,10,GBM,2366
+95,19,2,1,4.081764683,pilot/full,groundwater,original_test_set,4.151920952981561,random_point,10,GBM,2366
+53,17,1,0,4.537819094719662,RSSCT,synthetic surface water,UV_training_set,4.601411973234621,random_point,10,GBM,2366
+161,50,4,0,3.686039729,pilot/full,surface water,UV_training_set,3.4096495640461018,random_point,10,GBM,2366
+187,51,5,0,4.3031960567196625,RSSCT,surface water,UV_training_set,4.350519232825025,random_point,10,GBM,2366
+38,16,1,0,4.544068044,pilot/full,synthetic surface water,UV_training_set,4.646450119216741,random_point,10,GBM,2366
+315,61,9,0,4.648593554199511,RSSCT,groundwater,UV_training_set,4.465456693365268,random_point,10,GBM,2366
+71,17,1,0,3.9242792857196624,RSSCT,synthetic surface water,UV_training_set,3.934128541603876,random_point,10,GBM,2366
+199,51,5,0,3.7781512507196626,RSSCT,surface water,UV_training_set,3.8331856818213286,random_point,10,GBM,2366
+133,35,3,0,3.3238960406074782,RSSCT,Treated WW,UV_training_set,2.8887256538827697,random_point,10,GBM,2366
+198,17,1,0,4.5185139397196625,RSSCT,synthetic surface water,UV_training_set,4.695794159157791,random_point,10,GBM,2366
+274,59,7,0,3.7533233638106527,RSSCT,surface water,UV_training_set,3.72864789131595,random_point,10,GBM,2366
+125,19,2,0,4.078606937,pilot/full,groundwater,UV_training_set,4.164548202780891,random_point,10,GBM,2366
+254,52,6,0,4.1660924947196625,RSSCT,groundwater,UV_training_set,4.1575672367913326,random_point,10,GBM,2366
+149,50,4,0,3.653103665,pilot/full,surface water,UV_training_set,3.583176535345486,random_point,10,GBM,2366
+306,61,9,0,4.63977181104172,RSSCT,groundwater,UV_training_set,4.6209612080933,random_point,10,GBM,2366
+39,16,1,0,4.662757832,pilot/full,surface water,UV_training_set,4.800357855420764,random_point,10,GBM,2366
+275,60,8,0,4.364584715,pilot/full,surface water,original_test_set,4.424058688075785,random_point,10,GBM,2366
+338,62,6,0,3.784566780719663,RSSCT,groundwater,UV_training_set,3.8179948075009142,random_point,10,GBM,2366
+19,78,6,0,4.0346284567196635,RSSCT,groundwater,UV_training_set,4.05636937753193,random_point,10,GBM,2366
+258,52,6,0,4.3162220367196635,RSSCT,groundwater,UV_training_set,4.182124647587522,random_point,10,GBM,2366
+360,69,10,0,3.9756592973296243,RSSCT,groundwater,UV_training_set,3.9616799844377675,random_point,10,GBM,2366
+186,51,5,0,4.545307115719663,RSSCT,surface water,UV_training_set,4.416576771311218,random_point,10,GBM,2366
+302,61,9,0,4.74658849926776,RSSCT,groundwater,UV_training_set,4.7021685716457675,random_point,10,GBM,2366
+114,19,2,0,3.892284475,pilot/full,groundwater,UV_training_set,3.768463104469618,random_point,10,GBM,2366
+185,51,5,0,4.390935106719663,RSSCT,surface water,UV_training_set,4.389207346100813,random_point,10,GBM,2366
+370,35,3,0,2.9155708808820813,RSSCT,synthetic surface water,UV_training_set,3.120794942948545,random_point,10,GBM,2366
+85,17,1,0,4.892094601719663,RSSCT,surface water,UV_training_set,4.821390026903606,random_point,10,GBM,2366
+307,61,9,0,4.73772457082064,RSSCT,groundwater,UV_training_set,4.594858452553942,random_point,10,GBM,2366
+231,52,6,0,3.6972293437196626,RSSCT,groundwater,UV_training_set,3.750818308656701,random_point,10,GBM,2366
+307,61,9,0,4.73772457082064,RSSCT,groundwater,UV_training_set,4.664422099444111,random_point,11,GBM,2049
+257,52,6,0,4.107335489719663,RSSCT,groundwater,UV_training_set,4.259143825420837,random_point,11,GBM,2049
+8,1,0,0,3.945604473,pilot/full,Treated WW,UV_training_set,3.4663497850178566,random_point,11,GBM,2049
+135,17,1,0,4.431363764719664,RSSCT,synthetic surface water,UV_training_set,4.501111152687924,random_point,11,GBM,2049
+94,19,2,0,4.152087052,pilot/full,groundwater,original_test_set,4.165424886546633,random_point,11,GBM,2049
+148,50,4,0,3.738930171,pilot/full,surface water,UV_training_set,3.332406366177141,random_point,11,GBM,2049
+77,17,1,0,4.732393759719662,RSSCT,surface water,UV_training_set,4.544539772295997,random_point,11,GBM,2049
+320,61,9,0,4.749173855985667,RSSCT,groundwater,UV_training_set,4.770368416046441,random_point,11,GBM,2049
+330,62,6,0,3.6894402907196633,RSSCT,groundwater,UV_training_set,3.711691393079309,random_point,11,GBM,2049
+290,61,9,0,3.4983415176107067,RSSCT,groundwater,UV_training_set,3.6125162756934244,random_point,11,GBM,2049
+405,79,1,0,4.417945715,pilot/full,surface water,original_test_set,4.378775864348347,random_point,11,GBM,2049
+204,51,5,0,4.374748345719663,RSSCT,surface water,UV_training_set,4.394779157106279,random_point,11,GBM,2049
+281,60,8,0,4.044312793719663,RSSCT,surface water,UV_training_set,4.047295313855006,random_point,11,GBM,2049
+321,61,9,0,4.750822513372734,RSSCT,groundwater,UV_training_set,4.833680377308684,random_point,11,GBM,2049
+231,52,6,0,3.6972293437196626,RSSCT,groundwater,UV_training_set,3.7162499962374644,random_point,11,GBM,2049
+370,35,3,0,2.9155708808820813,RSSCT,synthetic surface water,UV_training_set,3.245918764376201,random_point,11,GBM,2049
+96,19,2,1,4.265020376,pilot/full,groundwater,UV_training_set,4.307558811888608,random_point,11,GBM,2049
+122,19,2,0,3.894436059,pilot/full,groundwater,UV_training_set,3.91946260794373,random_point,11,GBM,2049
+37,51,5,0,4.045322978719662,RSSCT,surface water,UV_training_set,3.934988744674613,random_point,11,GBM,2049
+412,79,1,0,3.925941507,pilot/full,surface water,UV_training_set,4.0407037120079226,random_point,11,GBM,2049
+56,16,1,0,4.812913357,pilot/full,synthetic surface water,UV_training_set,4.7913354794021945,random_point,11,GBM,2049
+278,60,8,0,3.2383290407196625,RSSCT,surface water,UV_training_set,3.0763168172724193,random_point,11,GBM,2049
+9,1,0,1,4.033291752,pilot/full,Treated WW,original_test_set,3.4371922529341266,random_point,11,GBM,2049
+154,50,4,0,3.68169817,pilot/full,surface water,original_test_set,3.7516109185735793,random_point,11,GBM,2049
+21,16,1,1,4.716003344,pilot/full,surface water,original_test_set,4.8643986069759135,random_point,11,GBM,2049
+177,50,4,0,3.699044809,pilot/full,surface water,UV_training_set,3.457266767608839,random_point,11,GBM,2049
+147,50,4,0,3.737304101,pilot/full,surface water,original_test_set,3.332406366177141,random_point,11,GBM,2049
+23,78,6,0,4.0346284567196635,RSSCT,groundwater,UV_training_set,3.9700342373184814,random_point,11,GBM,2049
+73,17,1,0,4.255272504719663,RSSCT,surface water,UV_training_set,4.0725213173842585,random_point,11,GBM,2049
+89,17,1,0,4.755874855719663,RSSCT,surface water,UV_training_set,4.758428457422134,random_point,11,GBM,2049
+68,17,1,0,4.939519251719663,RSSCT,surface water,UV_training_set,4.564310237304711,random_point,11,GBM,2049
+138,17,1,0,4.380211241719664,RSSCT,synthetic surface water,UV_training_set,4.187908542856655,random_point,11,GBM,2049
+176,50,4,0,3.630357692,pilot/full,surface water,UV_training_set,3.6564894104311905,random_point,11,GBM,2049
+347,62,6,0,4.633247431719663,RSSCT,groundwater,UV_training_set,4.579758792385514,random_point,11,GBM,2049
+310,61,9,0,4.455441228733655,RSSCT,groundwater,UV_training_set,4.473448087831726,random_point,11,GBM,2049
+327,61,9,0,4.180971448865605,RSSCT,groundwater,UV_training_set,4.10257889862575,random_point,11,GBM,2049
+209,51,5,0,4.340444114719663,RSSCT,surface water,UV_training_set,4.406569853211755,random_point,11,GBM,2049
+137,35,3,0,3.6166949551202783,RSSCT,surface water,UV_training_set,3.3748175257318467,random_point,11,GBM,2049
+203,35,3,0,4.282793051348456,RSSCT,synthetic surface water,UV_training_set,4.3635267161610205,random_point,11,GBM,2049
+220,52,6,0,3.6074550237196625,RSSCT,groundwater,UV_training_set,3.6052317135828904,random_point,11,GBM,2049
+328,61,9,0,4.203704480546643,RSSCT,groundwater,UV_training_set,4.216453773150391,random_point,11,GBM,2049
+250,52,6,0,3.491557781719663,RSSCT,groundwater,UV_training_set,3.4807696322522386,random_point,11,GBM,2049
+130,17,1,0,4.819543935719663,RSSCT,synthetic surface water,UV_training_set,4.772059850624709,random_point,12,GBM,2112
+204,51,5,0,4.374748345719663,RSSCT,surface water,UV_training_set,4.41242697951788,random_point,12,GBM,2112
+116,19,2,0,4.01323026,pilot/full,groundwater,UV_training_set,4.158040054623076,random_point,12,GBM,2112
+12,78,6,0,3.460296326719663,RSSCT,groundwater,UV_training_set,3.469948074412923,random_point,12,GBM,2112
+8,1,0,0,3.945604473,pilot/full,Treated WW,UV_training_set,3.3389170577990748,random_point,12,GBM,2112
+330,62,6,0,3.6894402907196633,RSSCT,groundwater,UV_training_set,3.7015771698706335,random_point,12,GBM,2112
+49,17,1,0,4.380211241719664,RSSCT,surface water,UV_training_set,4.746305530248415,random_point,12,GBM,2112
+101,19,2,1,4.112080362,pilot/full,groundwater,original_test_set,4.103953288099884,random_point,12,GBM,2112
+73,17,1,0,4.255272504719663,RSSCT,surface water,UV_training_set,4.053157933252232,random_point,12,GBM,2112
+366,69,10,0,4.868282321117463,RSSCT,groundwater,UV_training_set,4.79597235831953,random_point,12,GBM,2112
+400,78,6,0,4.2940912927196635,RSSCT,groundwater,UV_training_set,4.190789379994866,random_point,12,GBM,2112
+251,52,6,0,4.2545335757196625,RSSCT,groundwater,UV_training_set,4.441125293076337,random_point,12,GBM,2112
+28,16,1,0,4.819543936,pilot/full,surface water,UV_training_set,5.020922627529778,random_point,12,GBM,2112
+405,79,1,0,4.417945715,pilot/full,surface water,original_test_set,4.325495623490336,random_point,12,GBM,2112
+313,61,9,0,4.473475586067429,RSSCT,groundwater,UV_training_set,4.38840783346104,random_point,12,GBM,2112
+69,16,1,0,3.903089987,pilot/full,synthetic surface water,UV_training_set,3.7313655531955057,random_point,12,GBM,2112
+122,19,2,0,3.894436059,pilot/full,groundwater,UV_training_set,3.920949251361787,random_point,12,GBM,2112
+56,16,1,0,4.812913357,pilot/full,synthetic surface water,UV_training_set,4.838073391930413,random_point,12,GBM,2112
+393,77,11,0,3.5932441454272857,RSSCT,Treated WW,UV_training_set,3.6030187102760163,random_point,12,GBM,2112
+169,50,4,1,4.19188477,pilot/full,surface water,original_test_set,3.9017010257203504,random_point,12,GBM,2112
+103,19,2,0,4.170519464,pilot/full,groundwater,original_test_set,4.225625258214055,random_point,12,GBM,2112
+114,19,2,0,3.892284475,pilot/full,groundwater,UV_training_set,3.806980450585689,random_point,12,GBM,2112
+30,16,1,0,4.079181246,pilot/full,synthetic surface water,UV_training_set,4.124089998888893,random_point,12,GBM,2112
+349,69,10,0,4.799916809405545,RSSCT,groundwater,UV_training_set,4.704460828817981,random_point,12,GBM,2112
+356,69,10,0,4.823122230767952,RSSCT,groundwater,UV_training_set,4.721011805949456,random_point,12,GBM,2112
+406,79,1,0,4.3353193,pilot/full,surface water,UV_training_set,4.22241901320256,random_point,12,GBM,2112
+148,50,4,0,3.738930171,pilot/full,surface water,UV_training_set,3.632467210482997,random_point,12,GBM,2112
+87,17,1,0,4.556302500719663,RSSCT,synthetic surface water,UV_training_set,4.734592198352875,random_point,12,GBM,2112
+317,61,9,0,4.6867421670696805,RSSCT,groundwater,UV_training_set,4.63031276703803,random_point,12,GBM,2112
+27,51,5,0,4.1583624917196635,RSSCT,surface water,UV_training_set,4.166281736540505,random_point,12,GBM,2112
+54,17,1,0,4.707570175719662,RSSCT,surface water,UV_training_set,4.875388590704528,random_point,12,GBM,2112
+412,79,1,0,3.925941507,pilot/full,surface water,UV_training_set,4.055147239542935,random_point,12,GBM,2112
+51,51,5,0,3.819543935719663,RSSCT,surface water,UV_training_set,3.8982754390443306,random_point,12,GBM,2112
+175,50,4,0,3.460112747,pilot/full,surface water,UV_training_set,3.6011024455254943,random_point,12,GBM,2112
+409,79,1,0,4.409104653,pilot/full,surface water,UV_training_set,4.331282267475487,random_point,12,GBM,2112
+278,60,8,0,3.2383290407196625,RSSCT,surface water,UV_training_set,3.0762290279546103,random_point,12,GBM,2112
+186,51,5,0,4.545307115719663,RSSCT,surface water,UV_training_set,4.388940945937178,random_point,12,GBM,2112
+370,35,3,0,2.9155708808820813,RSSCT,synthetic surface water,UV_training_set,3.2394788877779135,random_point,12,GBM,2112
+347,62,6,0,4.633247431719663,RSSCT,groundwater,UV_training_set,4.601048831192701,random_point,12,GBM,2112
+197,51,5,0,4.401400540719663,RSSCT,surface water,UV_training_set,4.422869859865229,random_point,12,GBM,2112
+125,19,2,0,4.078606937,pilot/full,groundwater,UV_training_set,4.15852338411923,random_point,12,GBM,2112
+36,16,1,0,4.903089987,pilot/full,surface water,UV_training_set,4.844635561170839,random_point,12,GBM,2112
+302,61,9,0,4.74658849926776,RSSCT,groundwater,UV_training_set,4.682883204862179,random_point,13,GBM,1146
+181,51,5,0,4.468347330719663,RSSCT,surface water,UV_training_set,4.453261307935324,random_point,13,GBM,1146
+133,35,3,0,3.3238960406074782,RSSCT,Treated WW,UV_training_set,3.0019906518074317,random_point,13,GBM,1146
+220,52,6,0,3.6074550237196625,RSSCT,groundwater,UV_training_set,3.5908017000591483,random_point,13,GBM,1146
+161,50,4,0,3.686039729,pilot/full,surface water,UV_training_set,3.4121076320831634,random_point,13,GBM,1146
+138,17,1,0,4.380211241719664,RSSCT,synthetic surface water,UV_training_set,4.374728507113133,random_point,13,GBM,1146
+250,52,6,0,3.491557781719663,RSSCT,groundwater,UV_training_set,3.4951701916096605,random_point,13,GBM,1146
+18,16,1,0,5.0,pilot/full,surface water,UV_training_set,4.935982410658405,random_point,13,GBM,1146
+210,51,5,0,4.406540180719663,RSSCT,surface water,UV_training_set,4.382198484601869,random_point,13,GBM,1146
+79,16,1,0,4.875061263,pilot/full,synthetic surface water,UV_training_set,4.5276960709280365,random_point,13,GBM,1146
+348,62,6,0,4.717869310719663,RSSCT,groundwater,UV_training_set,4.251494511576494,random_point,13,GBM,1146
+229,52,6,0,3.8075350287196628,RSSCT,groundwater,UV_training_set,3.744770417155775,random_point,13,GBM,1146
+356,69,10,0,4.823122230767952,RSSCT,groundwater,UV_training_set,4.775059295388865,random_point,13,GBM,1146
+244,52,6,0,3.720159303719663,RSSCT,deionized water,UV_training_set,3.8269333291902887,random_point,13,GBM,1146
+200,51,5,0,3.819543935719663,RSSCT,surface water,UV_training_set,3.8389885752334516,random_point,13,GBM,1146
+32,16,1,0,4.176091259,pilot/full,surface water,original_test_set,4.307578331391601,random_point,13,GBM,1146
+341,62,6,0,4.476772334719662,RSSCT,groundwater,UV_training_set,4.454582283911646,random_point,13,GBM,1146
+355,69,10,0,4.38191535131012,RSSCT,groundwater,UV_training_set,4.413967590820267,random_point,13,GBM,1146
+346,62,6,0,4.984121839719664,RSSCT,groundwater,UV_training_set,4.7210121478386675,random_point,13,GBM,1146
+246,52,6,0,3.9585638837196626,RSSCT,deionized water,UV_training_set,3.8577209311968184,random_point,13,GBM,1146
+347,62,6,0,4.633247431719663,RSSCT,groundwater,UV_training_set,4.247939347412919,random_point,13,GBM,1146
+84,17,1,0,4.857332496719663,RSSCT,synthetic surface water,UV_training_set,4.636579612951651,random_point,13,GBM,1146
+27,51,5,0,4.1583624917196635,RSSCT,surface water,UV_training_set,4.16197723861175,random_point,13,GBM,1146
+336,62,6,0,3.7659049477196627,RSSCT,groundwater,UV_training_set,3.768121229814843,random_point,13,GBM,1146
+89,17,1,0,4.755874855719663,RSSCT,surface water,UV_training_set,4.832070639631712,random_point,13,GBM,1146
+332,62,6,0,4.352852728719663,RSSCT,groundwater,UV_training_set,4.458482285292103,random_point,13,GBM,1146
+182,51,5,0,4.374748345719663,RSSCT,surface water,UV_training_set,4.368130236143474,random_point,13,GBM,1146
+274,59,7,0,3.7533233638106527,RSSCT,surface water,UV_training_set,3.729401012703585,random_point,13,GBM,1146
+321,61,9,0,4.750822513372734,RSSCT,groundwater,UV_training_set,4.833201419683252,random_point,13,GBM,1146
+180,51,5,0,4.450249108719663,RSSCT,surface water,UV_training_set,4.413046952552703,random_point,13,GBM,1146
+224,52,6,0,3.6946051987196626,RSSCT,synthetic surface water,UV_training_set,3.7001860832654403,random_point,13,GBM,1146
+123,19,2,0,3.989821267,pilot/full,groundwater,UV_training_set,3.995597142846217,random_point,13,GBM,1146
+303,61,9,0,4.419703975733719,RSSCT,groundwater,UV_training_set,4.571345943076786,random_point,13,GBM,1146
+43,16,1,0,5.071882007,pilot/full,surface water,UV_training_set,4.959521782839691,random_point,13,GBM,1146
+7,1,0,0,3.620574127,pilot/full,Treated WW,original_test_set,3.4544904441190023,random_point,13,GBM,1146
+349,69,10,0,4.799916809405545,RSSCT,groundwater,UV_training_set,4.690607916036299,random_point,13,GBM,1146
+275,60,8,0,4.364584715,pilot/full,surface water,original_test_set,4.429634807036168,random_point,13,GBM,1146
+195,51,5,0,4.468347330719663,RSSCT,surface water,UV_training_set,4.401042415798582,random_point,13,GBM,1146
+394,77,11,0,3.5932441454272857,RSSCT,Treated WW,UV_training_set,3.783312249697456,random_point,13,GBM,1146
+247,52,6,0,4.197280558719663,RSSCT,groundwater,UV_training_set,4.259345181901286,random_point,13,GBM,1146
+36,16,1,0,4.903089987,pilot/full,surface water,UV_training_set,4.838517334458013,random_point,13,GBM,1146
+122,19,2,0,3.894436059,pilot/full,groundwater,UV_training_set,3.8614639194046414,random_point,13,GBM,1146
+202,51,5,0,3.7993405497196626,RSSCT,surface water,UV_training_set,3.775370869492755,random_point,14,GBM,2351
+217,51,5,0,4.139879085719663,RSSCT,surface water,UV_training_set,4.107033194037415,random_point,14,GBM,2351
+223,52,6,0,3.6812412367196625,RSSCT,groundwater,UV_training_set,3.7574015540477337,random_point,14,GBM,2351
+155,50,4,0,3.783979294,pilot/full,surface water,UV_training_set,3.5308540970082105,random_point,14,GBM,2351
+42,16,1,0,4.832508913,pilot/full,surface water,original_test_set,4.904680618661947,random_point,14,GBM,2351
+367,77,11,0,4.049126196941958,RSSCT,Treated WW,UV_training_set,3.9834255674244075,random_point,14,GBM,2351
+40,16,1,0,4.806179974,pilot/full,surface water,UV_training_set,4.811089788445384,random_point,14,GBM,2351
+175,50,4,0,3.460112747,pilot/full,surface water,UV_training_set,3.6548810694016964,random_point,14,GBM,2351
+138,17,1,0,4.380211241719664,RSSCT,synthetic surface water,UV_training_set,4.3691183543937955,random_point,14,GBM,2351
+143,17,1,0,3.819543935719663,RSSCT,synthetic surface water,UV_training_set,3.6486682147748186,random_point,14,GBM,2351
+190,51,5,0,4.385606273719663,RSSCT,surface water,UV_training_set,4.329575205430685,random_point,14,GBM,2351
+142,35,3,0,3.2966717063618485,RSSCT,surface water,UV_training_set,3.5513500278651526,random_point,14,GBM,2351
+120,19,2,0,4.135098175,pilot/full,groundwater,UV_training_set,4.285890347073645,random_point,14,GBM,2351
+353,69,10,0,4.666369612623108,RSSCT,groundwater,UV_training_set,4.7320836346973385,random_point,14,GBM,2351
+162,50,4,0,3.629959128,pilot/full,surface water,UV_training_set,3.7643506425962143,random_point,14,GBM,2351
+49,17,1,0,4.380211241719664,RSSCT,surface water,UV_training_set,4.707204298616178,random_point,14,GBM,2351
+26,16,1,0,5.033423755,pilot/full,surface water,UV_training_set,4.941011525021865,random_point,14,GBM,2351
+198,17,1,0,4.5185139397196625,RSSCT,synthetic surface water,UV_training_set,4.671141442215193,random_point,14,GBM,2351
+265,57,1,0,4.727784266790629,RSSCT,surface water,UV_training_set,4.6672877032721125,random_point,14,GBM,2351
+376,35,3,0,3.5033211092082235,RSSCT,synthetic surface water,UV_training_set,3.486305372117548,random_point,14,GBM,2351
+59,16,1,1,4.681241237,pilot/full,synthetic surface water,original_test_set,4.871348406938593,random_point,14,GBM,2351
+282,60,8,0,4.096642543719662,RSSCT,surface water,UV_training_set,3.9941152033343545,random_point,14,GBM,2351
+225,52,6,0,3.7419390787196622,RSSCT,groundwater,UV_training_set,3.7529109258878237,random_point,14,GBM,2351
+287,60,8,0,3.879743834,pilot/full,surface water,original_test_set,4.255938986563502,random_point,14,GBM,2351
+118,19,2,0,3.929890062,pilot/full,groundwater,original_test_set,4.031248662454176,random_point,14,GBM,2351
+238,52,6,0,3.805847339719662,RSSCT,groundwater,UV_training_set,3.7817601087818686,random_point,14,GBM,2351
+407,79,1,0,4.151234192,pilot/full,surface water,UV_training_set,4.167583695530184,random_point,14,GBM,2351
+149,50,4,0,3.653103665,pilot/full,surface water,UV_training_set,3.7417152388468735,random_point,14,GBM,2351
+375,77,11,0,2.7048633766482144,RSSCT,Treated WW,UV_training_set,2.932487875517512,random_point,14,GBM,2351
+400,78,6,0,4.2940912927196635,RSSCT,groundwater,UV_training_set,4.182763976757306,random_point,14,GBM,2351
+10,1,0,0,3.369491602,pilot/full,Treated WW,original_test_set,3.4994767466366095,random_point,14,GBM,2351
+395,78,6,0,3.767155865719663,RSSCT,groundwater,UV_training_set,3.6788218635137446,random_point,14,GBM,2351
+187,51,5,0,4.3031960567196625,RSSCT,surface water,UV_training_set,4.362100258220583,random_point,14,GBM,2351
+280,60,8,0,3.960774872719663,RSSCT,surface water,UV_training_set,4.04023225254366,random_point,14,GBM,2351
+204,51,5,0,4.374748345719663,RSSCT,surface water,UV_training_set,4.407187150342794,random_point,14,GBM,2351
+183,17,1,0,4.477121254719663,RSSCT,synthetic surface water,UV_training_set,4.585558345868295,random_point,14,GBM,2351
+158,50,4,0,2.973747188,pilot/full,surface water,original_test_set,3.603952201245232,random_point,14,GBM,2351
+174,50,4,0,3.154638695,pilot/full,surface water,UV_training_set,3.6665814922897977,random_point,14,GBM,2351
+241,52,6,0,3.8715729357196627,RSSCT,groundwater,UV_training_set,3.8635183415321097,random_point,14,GBM,2351
+401,78,6,0,4.410810963719664,RSSCT,groundwater,UV_training_set,4.534545755056011,random_point,14,GBM,2351
+189,17,1,0,4.732393759719662,RSSCT,synthetic surface water,UV_training_set,4.636596174979147,random_point,14,GBM,2351
+100,19,2,0,4.057543453,pilot/full,groundwater,UV_training_set,4.162480533860981,random_point,14,GBM,2351
+52,16,1,0,4.740362689,pilot/full,synthetic surface water,original_test_set,4.754483496565766,random_point,15,GBM,1835
+320,61,9,0,4.749173855985667,RSSCT,groundwater,UV_training_set,4.753586238809603,random_point,15,GBM,1835
+6,1,0,0,3.522517249,pilot/full,Treated WW,UV_training_set,3.748320472066052,random_point,15,GBM,1835
+194,17,1,0,4.892094601719663,RSSCT,synthetic surface water,UV_training_set,4.805670173335385,random_point,15,GBM,1835
+210,51,5,0,4.406540180719663,RSSCT,surface water,UV_training_set,4.399022546412916,random_point,15,GBM,1835
+173,50,4,0,4.16702996,pilot/full,surface water,UV_training_set,4.1135689841487615,random_point,15,GBM,1835
+20,16,1,1,4.556302501,pilot/full,synthetic surface water,UV_training_set,4.706031154979118,random_point,15,GBM,1835
+347,62,6,0,4.633247431719663,RSSCT,groundwater,UV_training_set,4.273752057770339,random_point,15,GBM,1835
+348,62,6,0,4.717869310719663,RSSCT,groundwater,UV_training_set,4.331365865920911,random_point,15,GBM,1835
+274,59,7,0,3.7533233638106527,RSSCT,surface water,UV_training_set,3.7505063571295856,random_point,15,GBM,1835
+364,69,10,0,4.298777221872966,RSSCT,groundwater,UV_training_set,4.420251224386446,random_point,15,GBM,1835
+325,61,9,0,4.80556616240622,RSSCT,groundwater,UV_training_set,4.812675327792701,random_point,15,GBM,1835
+69,16,1,0,3.903089987,pilot/full,synthetic surface water,UV_training_set,3.895063794704258,random_point,15,GBM,1835
+371,77,11,0,4.390298897656521,RSSCT,Treated WW,UV_training_set,4.287719539690763,random_point,15,GBM,1835
+49,17,1,0,4.380211241719664,RSSCT,surface water,UV_training_set,4.687581164735476,random_point,15,GBM,1835
+10,1,0,0,3.369491602,pilot/full,Treated WW,original_test_set,3.5045370589356777,random_point,15,GBM,1835
+178,17,1,0,4.406540180719663,RSSCT,synthetic surface water,UV_training_set,4.361022190351459,random_point,15,GBM,1835
+109,19,2,0,4.367298205,pilot/full,groundwater,UV_training_set,4.119615556780004,random_point,15,GBM,1835
+410,79,1,0,4.288087753,pilot/full,surface water,UV_training_set,4.261618228730572,random_point,15,GBM,1835
+381,77,11,0,3.6996001884863365,RSSCT,Treated WW,UV_training_set,3.767706816458524,random_point,15,GBM,1835
+261,57,1,0,4.667763584324365,RSSCT,surface water,UV_training_set,4.720189802545721,random_point,15,GBM,1835
+66,16,1,0,4.342422681,pilot/full,synthetic surface water,UV_training_set,4.507829720600111,random_point,15,GBM,1835
+266,57,1,0,4.64861117561938,RSSCT,surface water,UV_training_set,4.637130278734196,random_point,15,GBM,1835
+71,17,1,0,3.9242792857196624,RSSCT,synthetic surface water,UV_training_set,3.8670162345360484,random_point,15,GBM,1835
+393,77,11,0,3.5932441454272857,RSSCT,Treated WW,UV_training_set,3.4579209529172608,random_point,15,GBM,1835
+86,17,1,0,4.799340549719663,RSSCT,surface water,UV_training_set,4.959387688976091,random_point,15,GBM,1835
+82,17,1,0,4.707570175719662,RSSCT,surface water,UV_training_set,4.637088131706834,random_point,15,GBM,1835
+409,79,1,0,4.409104653,pilot/full,surface water,UV_training_set,4.33709164100842,random_point,15,GBM,1835
+388,78,6,0,3.265996370719663,RSSCT,groundwater,UV_training_set,3.234839609966793,random_point,15,GBM,1835
+107,19,2,0,4.13588952973389,pilot/full,groundwater,UV_training_set,4.024211596468903,random_point,15,GBM,1835
+77,17,1,0,4.732393759719662,RSSCT,surface water,UV_training_set,4.6294312137231675,random_point,15,GBM,1835
+397,78,6,0,4.051731195719663,RSSCT,groundwater,UV_training_set,4.232613641640852,random_point,15,GBM,1835
+68,17,1,0,4.939519251719663,RSSCT,surface water,UV_training_set,4.600710942701001,random_point,15,GBM,1835
+203,35,3,0,4.282793051348456,RSSCT,synthetic surface water,UV_training_set,4.292968044152601,random_point,15,GBM,1835
+234,52,6,0,3.600972895719663,RSSCT,groundwater,UV_training_set,3.6161440049130107,random_point,15,GBM,1835
+73,17,1,0,4.255272504719663,RSSCT,surface water,UV_training_set,3.998210114413631,random_point,15,GBM,1835
+185,51,5,0,4.390935106719663,RSSCT,surface water,UV_training_set,4.405803844155423,random_point,15,GBM,1835
+137,35,3,0,3.6166949551202783,RSSCT,surface water,UV_training_set,3.3222660776061077,random_point,15,GBM,1835
+132,17,1,0,4.968482948719663,RSSCT,synthetic surface water,UV_training_set,4.763489028150299,random_point,15,GBM,1835
+281,60,8,0,4.044312793719663,RSSCT,surface water,UV_training_set,4.0407775928774425,random_point,15,GBM,1835
+87,17,1,0,4.556302500719663,RSSCT,synthetic surface water,UV_training_set,4.691246738429992,random_point,15,GBM,1835
+220,52,6,0,3.6074550237196625,RSSCT,groundwater,UV_training_set,3.628911960941648,random_point,15,GBM,1835
+214,51,5,0,4.1846914307196625,RSSCT,surface water,UV_training_set,4.104614229317491,random_point,16,GBM,1349
+81,17,1,0,4.537819094719662,RSSCT,synthetic surface water,UV_training_set,4.48027799589766,random_point,16,GBM,1349
+21,16,1,1,4.716003344,pilot/full,surface water,original_test_set,4.850914634256678,random_point,16,GBM,1349
+72,17,1,0,3.9542425097196627,RSSCT,surface water,UV_training_set,3.9532939583051574,random_point,16,GBM,1349
+362,69,10,0,4.709373099264723,RSSCT,groundwater,UV_training_set,4.7590482205149875,random_point,16,GBM,1349
+12,78,6,0,3.460296326719663,RSSCT,groundwater,UV_training_set,3.5318860462651154,random_point,16,GBM,1349
+94,19,2,0,4.152087052,pilot/full,groundwater,original_test_set,4.170503072264114,random_point,16,GBM,1349
+83,17,1,0,4.681241237719663,RSSCT,surface water,UV_training_set,4.775943185728789,random_point,16,GBM,1349
+245,52,6,0,3.927370363719662,RSSCT,deionized water,UV_training_set,3.74336056092104,random_point,16,GBM,1349
+267,57,1,0,4.806875401645539,RSSCT,surface water,UV_training_set,4.897163714938443,random_point,16,GBM,1349
+331,62,6,0,3.696966317719663,RSSCT,groundwater,UV_training_set,3.730754939002445,random_point,16,GBM,1349
+234,52,6,0,3.600972895719663,RSSCT,groundwater,UV_training_set,3.5759430731242094,random_point,16,GBM,1349
+106,19,2,0,3.83059812550234,pilot/full,groundwater,UV_training_set,3.9913009496271865,random_point,16,GBM,1349
+220,52,6,0,3.6074550237196625,RSSCT,groundwater,UV_training_set,3.6025452370611957,random_point,16,GBM,1349
+242,52,6,0,3.898725181719662,RSSCT,groundwater,UV_training_set,3.7680212589450677,random_point,16,GBM,1349
+340,62,6,0,4.242507163719663,RSSCT,groundwater,UV_training_set,4.236637620818838,random_point,16,GBM,1349
+217,51,5,0,4.139879085719663,RSSCT,surface water,UV_training_set,4.069081465737119,random_point,16,GBM,1349
+360,69,10,0,3.9756592973296243,RSSCT,groundwater,UV_training_set,4.005896336212849,random_point,16,GBM,1349
+68,17,1,0,4.939519251719663,RSSCT,surface water,UV_training_set,4.593098179568647,random_point,16,GBM,1349
+145,50,4,0,3.608427051,pilot/full,surface water,UV_training_set,3.4248235563548777,random_point,16,GBM,1349
+344,62,6,0,4.427396235719662,RSSCT,groundwater,UV_training_set,4.469910311318181,random_point,16,GBM,1349
+155,50,4,0,3.783979294,pilot/full,surface water,UV_training_set,3.60064649640123,random_point,16,GBM,1349
+396,78,6,0,3.7888751157196627,RSSCT,groundwater,UV_training_set,3.630498139375304,random_point,16,GBM,1349
+197,51,5,0,4.401400540719663,RSSCT,surface water,UV_training_set,4.335155914548742,random_point,16,GBM,1349
+238,52,6,0,3.805847339719662,RSSCT,groundwater,UV_training_set,3.753058133773288,random_point,16,GBM,1349
+121,19,2,0,4.269788382,pilot/full,groundwater,UV_training_set,4.201654839587365,random_point,16,GBM,1349
+394,77,11,0,3.5932441454272857,RSSCT,Treated WW,UV_training_set,3.811341780568455,random_point,16,GBM,1349
+178,17,1,0,4.406540180719663,RSSCT,synthetic surface water,UV_training_set,4.438779879235715,random_point,16,GBM,1349
+189,17,1,0,4.732393759719662,RSSCT,synthetic surface water,UV_training_set,4.563234120550048,random_point,16,GBM,1349
+139,35,3,0,3.222808034284815,RSSCT,surface water,UV_training_set,3.3432220053258823,random_point,16,GBM,1349
+126,35,3,0,4.082257857351604,RSSCT,surface water,UV_training_set,4.0048248716301345,random_point,16,GBM,1349
+175,50,4,0,3.460112747,pilot/full,surface water,UV_training_set,3.6033235750754646,random_point,16,GBM,1349
+366,69,10,0,4.868282321117463,RSSCT,groundwater,UV_training_set,4.841862105396312,random_point,16,GBM,1349
+406,79,1,0,4.3353193,pilot/full,surface water,UV_training_set,4.2452423297141415,random_point,16,GBM,1349
+334,62,6,0,3.6240059737196626,RSSCT,groundwater,UV_training_set,3.6232499651095718,random_point,16,GBM,1349
+240,52,6,0,3.866287339719663,RSSCT,groundwater,UV_training_set,3.781420608967838,random_point,16,GBM,1349
+167,50,4,1,3.924686625,pilot/full,surface water,original_test_set,4.0730237360027735,random_point,16,GBM,1349
+161,50,4,0,3.686039729,pilot/full,surface water,UV_training_set,3.4358995074627314,random_point,16,GBM,1349
+367,77,11,0,4.049126196941958,RSSCT,Treated WW,UV_training_set,3.951772014644752,random_point,16,GBM,1349
+42,16,1,0,4.832508913,pilot/full,surface water,original_test_set,4.915417020260355,random_point,16,GBM,1349
+246,52,6,0,3.9585638837196626,RSSCT,deionized water,UV_training_set,3.771395243228566,random_point,16,GBM,1349
+370,35,3,0,2.9155708808820813,RSSCT,synthetic surface water,UV_training_set,3.233027872899258,random_point,16,GBM,1349
+75,16,1,0,4.875061263,pilot/full,synthetic surface water,UV_training_set,5.009647853267712,random_point,17,GBM,2581
+64,17,1,0,4.778151250719662,RSSCT,surface water,UV_training_set,4.882916984593696,random_point,17,GBM,2581
+363,69,10,0,4.927323895184095,RSSCT,groundwater,UV_training_set,4.858912026596495,random_point,17,GBM,2581
+263,57,1,0,4.786074244992476,RSSCT,surface water,UV_training_set,4.781096732433366,random_point,17,GBM,2581
+94,19,2,0,4.152087052,pilot/full,groundwater,original_test_set,4.1883599191921315,random_point,17,GBM,2581
+139,35,3,0,3.222808034284815,RSSCT,surface water,UV_training_set,3.324633592284161,random_point,17,GBM,2581
+408,79,1,0,4.56089535,pilot/full,surface water,UV_training_set,4.440445905993883,random_point,17,GBM,2581
+383,77,11,0,3.334618921061572,RSSCT,Treated WW,UV_training_set,2.872621841241477,random_point,17,GBM,2581
+265,57,1,0,4.727784266790629,RSSCT,surface water,UV_training_set,4.684747896104834,random_point,17,GBM,2581
+293,61,9,0,3.842784559436661,RSSCT,groundwater,UV_training_set,3.856495822922454,random_point,17,GBM,2581
+56,16,1,0,4.812913357,pilot/full,synthetic surface water,UV_training_set,4.865375190255307,random_point,17,GBM,2581
+291,61,9,0,3.6068466653838667,RSSCT,groundwater,UV_training_set,3.564630535274589,random_point,17,GBM,2581
+119,19,2,0,4.071801749,pilot/full,groundwater,UV_training_set,4.0283966013394945,random_point,17,GBM,2581
+353,69,10,0,4.666369612623108,RSSCT,groundwater,UV_training_set,4.7129451383355825,random_point,17,GBM,2581
+172,50,4,1,3.93050939,pilot/full,surface water,original_test_set,3.8879666498213235,random_point,17,GBM,2581
+76,17,1,0,4.556302500719663,RSSCT,synthetic surface water,UV_training_set,4.526434637374211,random_point,17,GBM,2581
+247,52,6,0,4.197280558719663,RSSCT,groundwater,UV_training_set,4.337144225556535,random_point,17,GBM,2581
+148,50,4,0,3.738930171,pilot/full,surface water,UV_training_set,3.63517380668972,random_point,17,GBM,2581
+352,69,10,0,4.741085250984216,RSSCT,groundwater,UV_training_set,4.644949088522285,random_point,17,GBM,2581
+234,52,6,0,3.600972895719663,RSSCT,groundwater,UV_training_set,3.604234396064349,random_point,17,GBM,2581
+278,60,8,0,3.2383290407196625,RSSCT,surface water,UV_training_set,3.0793347795060506,random_point,17,GBM,2581
+379,77,11,0,2.9252895866094137,RSSCT,Treated WW,UV_training_set,2.763439323216089,random_point,17,GBM,2581
+241,52,6,0,3.8715729357196627,RSSCT,groundwater,UV_training_set,3.826983310793561,random_point,17,GBM,2581
+46,51,5,0,4.120573930719663,RSSCT,surface water,UV_training_set,4.085536580430131,random_point,17,GBM,2581
+307,61,9,0,4.73772457082064,RSSCT,groundwater,UV_training_set,4.660425575628419,random_point,17,GBM,2581
+253,52,6,0,4.059502831719662,RSSCT,groundwater,UV_training_set,4.15304170700243,random_point,17,GBM,2581
+32,16,1,0,4.176091259,pilot/full,surface water,original_test_set,4.282246066630059,random_point,17,GBM,2581
+83,17,1,0,4.681241237719663,RSSCT,surface water,UV_training_set,4.777772794420269,random_point,17,GBM,2581
+137,35,3,0,3.6166949551202783,RSSCT,surface water,UV_training_set,3.31067109116853,random_point,17,GBM,2581
+160,50,4,0,3.567310642,pilot/full,surface water,UV_training_set,3.5995973517852455,random_point,17,GBM,2581
+407,79,1,0,4.151234192,pilot/full,surface water,UV_training_set,4.143152411486946,random_point,17,GBM,2581
+38,16,1,0,4.544068044,pilot/full,synthetic surface water,UV_training_set,4.624341673968348,random_point,17,GBM,2581
+360,69,10,0,3.9756592973296243,RSSCT,groundwater,UV_training_set,3.9580354844645025,random_point,17,GBM,2581
+403,78,6,0,4.5317343097196625,RSSCT,groundwater,UV_training_set,4.519112180043895,random_point,17,GBM,2581
+299,61,9,0,4.698117664523137,RSSCT,groundwater,UV_training_set,4.615899108986944,random_point,17,GBM,2581
+365,69,10,0,4.782673512288013,RSSCT,groundwater,UV_training_set,4.809875103829462,random_point,17,GBM,2581
+297,61,9,0,4.402911792837681,RSSCT,groundwater,UV_training_set,4.507093989847798,random_point,17,GBM,2581
+341,62,6,0,4.476772334719662,RSSCT,groundwater,UV_training_set,4.434940244150828,random_point,17,GBM,2581
+101,19,2,1,4.112080362,pilot/full,groundwater,original_test_set,4.075607661654211,random_point,17,GBM,2581
+246,52,6,0,3.9585638837196626,RSSCT,deionized water,UV_training_set,3.8849085397749654,random_point,17,GBM,2581
+159,50,4,0,3.424876094,pilot/full,surface water,UV_training_set,3.629230162853663,random_point,17,GBM,2581
+122,19,2,0,3.894436059,pilot/full,groundwater,UV_training_set,3.887111057737025,random_point,17,GBM,2581
+212,51,5,0,4.334453750719662,RSSCT,surface water,UV_training_set,4.332640918623911,random_point,18,GBM,1194
+255,52,6,0,4.382290868719664,RSSCT,groundwater,UV_training_set,4.554467182031581,random_point,18,GBM,1194
+133,35,3,0,3.3238960406074782,RSSCT,Treated WW,UV_training_set,3.0022264062727193,random_point,18,GBM,1194
+314,61,9,0,4.5699069782900805,RSSCT,groundwater,UV_training_set,4.598994370401269,random_point,18,GBM,1194
+102,19,2,0,3.979418419,pilot/full,groundwater,UV_training_set,4.129872177481055,random_point,18,GBM,1194
+94,19,2,0,4.152087052,pilot/full,groundwater,original_test_set,4.1596711683727685,random_point,18,GBM,1194
+407,79,1,0,4.151234192,pilot/full,surface water,UV_training_set,4.293773494790836,random_point,18,GBM,1194
+338,62,6,0,3.784566780719663,RSSCT,groundwater,UV_training_set,3.784069984554643,random_point,18,GBM,1194
+103,19,2,0,4.170519464,pilot/full,groundwater,original_test_set,4.268951183351164,random_point,18,GBM,1194
+298,61,9,0,4.683977372086776,RSSCT,groundwater,UV_training_set,4.695910548592929,random_point,18,GBM,1194
+403,78,6,0,4.5317343097196625,RSSCT,groundwater,UV_training_set,4.502324031663428,random_point,18,GBM,1194
+24,16,1,0,4.924279286,pilot/full,surface water,original_test_set,4.905767034066738,random_point,18,GBM,1194
+122,19,2,0,3.894436059,pilot/full,groundwater,UV_training_set,3.86974639294352,random_point,18,GBM,1194
+412,79,1,0,3.925941507,pilot/full,surface water,UV_training_set,4.130353234417896,random_point,18,GBM,1194
+278,60,8,0,3.2383290407196625,RSSCT,surface water,UV_training_set,3.379978814482384,random_point,18,GBM,1194
+409,79,1,0,4.409104653,pilot/full,surface water,UV_training_set,4.3612534653770565,random_point,18,GBM,1194
+377,77,11,0,3.7376787573044763,RSSCT,Treated WW,UV_training_set,3.339499603500753,random_point,18,GBM,1194
+50,17,1,0,4.799340549719663,RSSCT,surface water,UV_training_set,4.74747935660035,random_point,18,GBM,1194
+79,16,1,0,4.875061263,pilot/full,synthetic surface water,UV_training_set,4.509919833559492,random_point,18,GBM,1194
+184,51,5,0,4.396199346719663,RSSCT,surface water,UV_training_set,4.378912502589173,random_point,18,GBM,1194
+90,17,1,0,4.9036325157196625,RSSCT,surface water,UV_training_set,4.863892809304771,random_point,18,GBM,1194
+110,19,2,0,4.11316232739591,pilot/full,groundwater,original_test_set,4.2013488096509,random_point,18,GBM,1194
+74,16,1,0,4.579783597,pilot/full,synthetic surface water,UV_training_set,4.639969006606015,random_point,18,GBM,1194
+251,52,6,0,4.2545335757196625,RSSCT,groundwater,UV_training_set,4.459872232915638,random_point,18,GBM,1194
+305,61,9,0,4.59000233821602,RSSCT,groundwater,UV_training_set,4.658996944556443,random_point,18,GBM,1194
+346,62,6,0,4.984121839719664,RSSCT,groundwater,UV_training_set,4.730356074603718,random_point,18,GBM,1194
+13,16,1,0,4.892094603,pilot/full,synthetic surface water,UV_training_set,4.751066685965788,random_point,18,GBM,1194
+53,17,1,0,4.537819094719662,RSSCT,synthetic surface water,UV_training_set,4.630387335878092,random_point,18,GBM,1194
+54,17,1,0,4.707570175719662,RSSCT,surface water,UV_training_set,4.773196527380849,random_point,18,GBM,1194
+197,51,5,0,4.401400540719663,RSSCT,surface water,UV_training_set,4.434029874903616,random_point,18,GBM,1194
+4,1,0,0,3.783464209,pilot/full,Treated WW,UV_training_set,3.7294150705689795,random_point,18,GBM,1194
+244,52,6,0,3.720159303719663,RSSCT,deionized water,UV_training_set,3.8389328391279,random_point,18,GBM,1194
+368,77,11,0,3.783280033170322,RSSCT,Treated WW,UV_training_set,3.7562723661741355,random_point,18,GBM,1194
+64,17,1,0,4.778151250719662,RSSCT,surface water,UV_training_set,4.86804464934155,random_point,18,GBM,1194
+277,60,8,0,2.8026600057196625,RSSCT,surface water,UV_training_set,3.379978814482384,random_point,18,GBM,1194
+282,60,8,0,4.096642543719662,RSSCT,surface water,UV_training_set,3.9968620126923255,random_point,18,GBM,1194
+254,52,6,0,4.1660924947196625,RSSCT,groundwater,UV_training_set,4.219680482682287,random_point,18,GBM,1194
+292,61,9,0,3.792819867839429,RSSCT,groundwater,UV_training_set,3.6368005047576113,random_point,18,GBM,1194
+320,61,9,0,4.749173855985667,RSSCT,groundwater,UV_training_set,4.747299960594388,random_point,18,GBM,1194
+225,52,6,0,3.7419390787196622,RSSCT,groundwater,UV_training_set,3.699094436259023,random_point,18,GBM,1194
+7,1,0,0,3.620574127,pilot/full,Treated WW,original_test_set,3.4133354252047394,random_point,18,GBM,1194
+220,52,6,0,3.6074550237196625,RSSCT,groundwater,UV_training_set,3.595476903611477,random_point,18,GBM,1194
+338,62,6,0,3.784566780719663,RSSCT,groundwater,UV_training_set,3.781567232266678,random_point,19,GBM,1118
+256,52,6,0,4.440228784719663,RSSCT,groundwater,UV_training_set,4.4003150648996145,random_point,19,GBM,1118
+392,78,6,0,3.9933921377196624,RSSCT,groundwater,UV_training_set,3.7267836012434454,random_point,19,GBM,1118
+87,17,1,0,4.556302500719663,RSSCT,synthetic surface water,UV_training_set,4.707107330182594,random_point,19,GBM,1118
+55,17,1,0,5.008600171719663,RSSCT,surface water,UV_training_set,4.836823080767553,random_point,19,GBM,1118
+15,16,1,0,4.929418926,pilot/full,surface water,UV_training_set,4.854201246235437,random_point,19,GBM,1118
+73,17,1,0,4.255272504719663,RSSCT,surface water,UV_training_set,4.086671315865524,random_point,19,GBM,1118
+150,50,4,0,3.699379267,pilot/full,surface water,UV_training_set,3.815560864576274,random_point,19,GBM,1118
+91,19,2,0,3.991428155,pilot/full,groundwater,original_test_set,4.0971232209299115,random_point,19,GBM,1118
+219,52,6,0,3.6074550237196625,RSSCT,groundwater,UV_training_set,3.617481794788577,random_point,19,GBM,1118
+352,69,10,0,4.741085250984216,RSSCT,groundwater,UV_training_set,4.672481744402714,random_point,19,GBM,1118
+390,78,6,0,3.667452952719662,RSSCT,groundwater,UV_training_set,3.7267836012434454,random_point,19,GBM,1118
+376,35,3,0,3.5033211092082235,RSSCT,synthetic surface water,UV_training_set,3.537748239525388,random_point,19,GBM,1118
+151,50,4,1,3.876206583,pilot/full,surface water,original_test_set,3.8905577539036047,random_point,19,GBM,1118
+228,52,6,0,3.7419390777196626,RSSCT,groundwater,UV_training_set,3.731687007008717,random_point,19,GBM,1118
+389,78,6,0,3.5930644317196627,RSSCT,groundwater,UV_training_set,3.6706958197221153,random_point,19,GBM,1118
+45,16,1,0,4.973127854,pilot/full,surface water,UV_training_set,4.982925082228567,random_point,19,GBM,1118
+299,61,9,0,4.698117664523137,RSSCT,groundwater,UV_training_set,4.535533790796577,random_point,19,GBM,1118
+19,78,6,0,4.0346284567196635,RSSCT,groundwater,UV_training_set,4.049305969096889,random_point,19,GBM,1118
+156,50,4,1,4.154293485,pilot/full,surface water,original_test_set,4.0385577518471685,random_point,19,GBM,1118
+52,16,1,0,4.740362689,pilot/full,synthetic surface water,original_test_set,4.695562996298159,random_point,19,GBM,1118
+412,79,1,0,3.925941507,pilot/full,surface water,UV_training_set,4.093885521782048,random_point,19,GBM,1118
+37,51,5,0,4.045322978719662,RSSCT,surface water,UV_training_set,3.9648684210796032,random_point,19,GBM,1118
+319,61,9,0,4.722255117032484,RSSCT,groundwater,UV_training_set,4.686614708790647,random_point,19,GBM,1118
+214,51,5,0,4.1846914307196625,RSSCT,surface water,UV_training_set,4.150131120226414,random_point,19,GBM,1118
+247,52,6,0,4.197280558719663,RSSCT,groundwater,UV_training_set,4.297794612757778,random_point,19,GBM,1118
+356,69,10,0,4.823122230767952,RSSCT,groundwater,UV_training_set,4.794141417616284,random_point,19,GBM,1118
+105,19,2,0,4.42709088,pilot/full,groundwater,original_test_set,4.265436734888831,random_point,19,GBM,1118
+341,62,6,0,4.476772334719662,RSSCT,groundwater,UV_training_set,4.396137354893714,random_point,19,GBM,1118
+32,16,1,0,4.176091259,pilot/full,surface water,original_test_set,4.251634498740458,random_point,19,GBM,1118
+84,17,1,0,4.857332496719663,RSSCT,synthetic surface water,UV_training_set,4.6629270902601,random_point,19,GBM,1118
+124,19,2,1,4.044957851,pilot/full,groundwater,original_test_set,4.197877814417708,random_point,19,GBM,1118
+58,17,1,0,4.809559714719663,RSSCT,surface water,UV_training_set,4.869560291430483,random_point,19,GBM,1118
+304,61,9,0,4.567186159684093,RSSCT,groundwater,UV_training_set,4.585406494853208,random_point,19,GBM,1118
+284,60,8,0,4.397997971719662,RSSCT,surface water,UV_training_set,4.361113069922311,random_point,19,GBM,1118
+5,1,0,0,3.804133501,pilot/full,Treated WW,UV_training_set,3.876933063740556,random_point,19,GBM,1118
+26,16,1,0,5.033423755,pilot/full,surface water,UV_training_set,4.978613119909361,random_point,19,GBM,1118
+262,57,1,0,4.829328066214528,RSSCT,surface water,UV_training_set,4.767753501195112,random_point,19,GBM,1118
+131,35,3,0,3.2973892495251897,RSSCT,surface water,UV_training_set,3.148933761838587,random_point,19,GBM,1118
+43,16,1,0,5.071882007,pilot/full,surface water,UV_training_set,4.9385992479681775,random_point,19,GBM,1118
+56,16,1,0,4.812913357,pilot/full,synthetic surface water,UV_training_set,4.862395385719064,random_point,19,GBM,1118
+321,61,9,0,4.750822513372734,RSSCT,groundwater,UV_training_set,4.885428618169396,random_point,19,GBM,1118
+0,1,0,0,3.7728754,pilot/full,Treated WW,original_test_set,4.461257289561843,LOSO,1,GBM,2709
+1,1,0,0,3.778718715,pilot/full,Treated WW,UV_training_set,4.386208454658878,LOSO,1,GBM,2709
+2,1,0,0,3.030080778,pilot/full,Treated WW,UV_training_set,3.635703634125854,LOSO,1,GBM,2709
+3,1,0,0,3.261340187,pilot/full,Treated WW,UV_training_set,3.710492814218469,LOSO,1,GBM,2709
+4,1,0,0,3.783464209,pilot/full,Treated WW,UV_training_set,3.7950286056093274,LOSO,1,GBM,2709
+5,1,0,0,3.804133501,pilot/full,Treated WW,UV_training_set,3.8732749775469686,LOSO,1,GBM,2709
+6,1,0,0,3.522517249,pilot/full,Treated WW,UV_training_set,3.5660322425924296,LOSO,1,GBM,2709
+7,1,0,0,3.620574127,pilot/full,Treated WW,original_test_set,3.488045525465139,LOSO,1,GBM,2709
+8,1,0,0,3.945604473,pilot/full,Treated WW,UV_training_set,3.5660322425924296,LOSO,1,GBM,2709
+9,1,0,1,4.033291752,pilot/full,Treated WW,original_test_set,3.488045525465139,LOSO,1,GBM,2709
+10,1,0,0,3.369491602,pilot/full,Treated WW,original_test_set,4.3080403715893105,LOSO,1,GBM,2709
+11,1,0,0,3.4935993,pilot/full,Treated WW,UV_training_set,4.3660507701819755,LOSO,1,GBM,2709
+13,16,1,0,4.892094603,pilot/full,synthetic surface water,UV_training_set,4.644990294567249,LOSO,16,GBM,2707
+14,16,1,0,4.792391689,pilot/full,surface water,original_test_set,4.5614897540578125,LOSO,16,GBM,2707
+15,16,1,0,4.929418926,pilot/full,surface water,UV_training_set,4.621075666542562,LOSO,16,GBM,2707
+17,16,1,0,4.72427587,pilot/full,synthetic surface water,UV_training_set,4.593382140775039,LOSO,16,GBM,2707
+18,16,1,0,5.0,pilot/full,surface water,UV_training_set,4.800704627028666,LOSO,16,GBM,2707
+20,16,1,1,4.556302501,pilot/full,synthetic surface water,UV_training_set,4.660620154193339,LOSO,16,GBM,2707
+21,16,1,1,4.716003344,pilot/full,surface water,original_test_set,4.8443567535823995,LOSO,16,GBM,2707
+22,16,1,1,4.954242509,pilot/full,surface water,UV_training_set,4.853003874695142,LOSO,16,GBM,2707
+24,16,1,0,4.924279286,pilot/full,surface water,original_test_set,4.903438192133067,LOSO,16,GBM,2707
+25,16,1,0,4.954242509,pilot/full,surface water,UV_training_set,4.932964991109586,LOSO,16,GBM,2707
+26,16,1,0,5.033423755,pilot/full,surface water,UV_training_set,4.874498782097297,LOSO,16,GBM,2707
+28,16,1,0,4.819543936,pilot/full,surface water,UV_training_set,4.9452826570976605,LOSO,16,GBM,2707
+30,16,1,0,4.079181246,pilot/full,synthetic surface water,UV_training_set,4.015055068690207,LOSO,16,GBM,2707
+31,16,1,0,4.146128036,pilot/full,surface water,original_test_set,4.057240271361122,LOSO,16,GBM,2707
+32,16,1,0,4.176091259,pilot/full,surface water,original_test_set,4.138264097875813,LOSO,16,GBM,2707
+34,16,1,0,4.698970004,pilot/full,synthetic surface water,original_test_set,4.533975211195858,LOSO,16,GBM,2707
+35,16,1,0,4.716003344,pilot/full,surface water,UV_training_set,4.674866714939164,LOSO,16,GBM,2707
+36,16,1,0,4.903089987,pilot/full,surface water,UV_training_set,4.7408627015673765,LOSO,16,GBM,2707
+38,16,1,0,4.544068044,pilot/full,synthetic surface water,UV_training_set,4.547984042060002,LOSO,16,GBM,2707
+39,16,1,0,4.662757832,pilot/full,surface water,UV_training_set,4.738279554385484,LOSO,16,GBM,2707
+40,16,1,0,4.806179974,pilot/full,surface water,UV_training_set,4.775759259411836,LOSO,16,GBM,2707
+42,16,1,0,4.832508913,pilot/full,surface water,original_test_set,4.859411741163801,LOSO,16,GBM,2707
+43,16,1,0,5.071882007,pilot/full,surface water,UV_training_set,4.887150361700604,LOSO,16,GBM,2707
+45,16,1,0,4.973127854,pilot/full,surface water,UV_training_set,4.794514347128203,LOSO,16,GBM,2707
+52,16,1,0,4.740362689,pilot/full,synthetic surface water,original_test_set,4.32037413940012,LOSO,16,GBM,2707
+56,16,1,0,4.812913357,pilot/full,synthetic surface water,UV_training_set,4.429778248898439,LOSO,16,GBM,2707
+59,16,1,1,4.681241237,pilot/full,synthetic surface water,original_test_set,4.615632248590172,LOSO,16,GBM,2707
+62,16,1,0,4.903089987,pilot/full,synthetic surface water,UV_training_set,4.626400337367581,LOSO,16,GBM,2707
+66,16,1,0,4.342422681,pilot/full,synthetic surface water,UV_training_set,4.217631263424099,LOSO,16,GBM,2707
+69,16,1,0,3.903089987,pilot/full,synthetic surface water,UV_training_set,3.5380896619286815,LOSO,16,GBM,2707
+70,16,1,0,4.544068044,pilot/full,synthetic surface water,UV_training_set,4.216284527439087,LOSO,16,GBM,2707
+74,16,1,0,4.579783597,pilot/full,synthetic surface water,UV_training_set,4.328290857451922,LOSO,16,GBM,2707
+75,16,1,0,4.875061263,pilot/full,synthetic surface water,UV_training_set,4.683671724815731,LOSO,16,GBM,2707
+79,16,1,0,4.875061263,pilot/full,synthetic surface water,UV_training_set,4.2631296869686715,LOSO,16,GBM,2707
+48,17,1,0,4.623249290719663,RSSCT,synthetic surface water,UV_training_set,4.605352979607567,LOSO,17,GBM,1472
+49,17,1,0,4.380211241719664,RSSCT,surface water,UV_training_set,4.755964261658477,LOSO,17,GBM,1472
+50,17,1,0,4.799340549719663,RSSCT,surface water,UV_training_set,4.802673675404373,LOSO,17,GBM,1472
+53,17,1,0,4.537819094719662,RSSCT,synthetic surface water,UV_training_set,4.526289495215886,LOSO,17,GBM,1472
+54,17,1,0,4.707570175719662,RSSCT,surface water,UV_training_set,4.770133078647612,LOSO,17,GBM,1472
+55,17,1,0,5.008600171719663,RSSCT,surface water,UV_training_set,4.813519746015406,LOSO,17,GBM,1472
+57,17,1,0,4.8388490907196635,RSSCT,surface water,UV_training_set,4.807442734926765,LOSO,17,GBM,1472
+58,17,1,0,4.809559714719663,RSSCT,surface water,UV_training_set,4.890452392681849,LOSO,17,GBM,1472
+60,17,1,0,4.892094601719663,RSSCT,surface water,UV_training_set,4.891373155780656,LOSO,17,GBM,1472
+61,17,1,0,4.9956351947196636,RSSCT,surface water,UV_training_set,4.946486457814026,LOSO,17,GBM,1472
+63,17,1,0,4.623249290719663,RSSCT,synthetic surface water,UV_training_set,4.419570527108799,LOSO,17,GBM,1472
+64,17,1,0,4.778151250719662,RSSCT,surface water,UV_training_set,4.8238548185385115,LOSO,17,GBM,1472
+65,17,1,0,5.008600171719663,RSSCT,surface water,UV_training_set,4.865545029086219,LOSO,17,GBM,1472
+67,17,1,0,4.477121254719663,RSSCT,synthetic surface water,UV_training_set,4.412811746242746,LOSO,17,GBM,1472
+68,17,1,0,4.939519251719663,RSSCT,surface water,UV_training_set,4.609543089752356,LOSO,17,GBM,1472
+71,17,1,0,3.9242792857196624,RSSCT,synthetic surface water,UV_training_set,3.9081249117178216,LOSO,17,GBM,1472
+72,17,1,0,3.9542425097196627,RSSCT,surface water,UV_training_set,4.0493175153545256,LOSO,17,GBM,1472
+73,17,1,0,4.255272504719663,RSSCT,surface water,UV_training_set,4.093043884379979,LOSO,17,GBM,1472
+76,17,1,0,4.556302500719663,RSSCT,synthetic surface water,UV_training_set,4.475176992198278,LOSO,17,GBM,1472
+77,17,1,0,4.732393759719662,RSSCT,surface water,UV_training_set,4.6729888839079265,LOSO,17,GBM,1472
+78,17,1,0,4.707570175719662,RSSCT,surface water,UV_training_set,4.718095688369331,LOSO,17,GBM,1472
+80,17,1,0,4.498310553719663,RSSCT,synthetic surface water,UV_training_set,4.553888664997578,LOSO,17,GBM,1472
+81,17,1,0,4.537819094719662,RSSCT,synthetic surface water,UV_training_set,4.402356275184981,LOSO,17,GBM,1472
+82,17,1,0,4.707570175719662,RSSCT,surface water,UV_training_set,4.674692906715705,LOSO,17,GBM,1472
+83,17,1,0,4.681241237719663,RSSCT,surface water,UV_training_set,4.7057375166772015,LOSO,17,GBM,1472
+84,17,1,0,4.857332496719663,RSSCT,synthetic surface water,UV_training_set,4.365915344687111,LOSO,17,GBM,1472
+85,17,1,0,4.892094601719663,RSSCT,surface water,UV_training_set,4.862928028015321,LOSO,17,GBM,1472
+86,17,1,0,4.799340549719663,RSSCT,surface water,UV_training_set,4.9439561264813525,LOSO,17,GBM,1472
+87,17,1,0,4.556302500719663,RSSCT,synthetic surface water,UV_training_set,4.600834208672628,LOSO,17,GBM,1472
+88,17,1,0,4.5185139397196625,RSSCT,synthetic surface water,UV_training_set,4.353147159527418,LOSO,17,GBM,1472
+89,17,1,0,4.755874855719663,RSSCT,surface water,UV_training_set,4.813436897228323,LOSO,17,GBM,1472
+90,17,1,0,4.9036325157196625,RSSCT,surface water,UV_training_set,4.86053375475839,LOSO,17,GBM,1472
+127,17,1,0,4.892094601719663,RSSCT,synthetic surface water,UV_training_set,4.41758371931314,LOSO,17,GBM,1472
+130,17,1,0,4.819543935719663,RSSCT,synthetic surface water,UV_training_set,4.657414841903609,LOSO,17,GBM,1472
+132,17,1,0,4.968482948719663,RSSCT,synthetic surface water,UV_training_set,4.66830124178609,LOSO,17,GBM,1472
+135,17,1,0,4.431363764719664,RSSCT,synthetic surface water,UV_training_set,4.3025451643921695,LOSO,17,GBM,1472
+138,17,1,0,4.380211241719664,RSSCT,synthetic surface water,UV_training_set,4.2239836767560694,LOSO,17,GBM,1472
+140,17,1,0,3.3802112417196626,RSSCT,synthetic surface water,UV_training_set,3.688021646292862,LOSO,17,GBM,1472
+143,17,1,0,3.819543935719663,RSSCT,synthetic surface water,UV_training_set,3.5187851863523103,LOSO,17,GBM,1472
+178,17,1,0,4.406540180719663,RSSCT,synthetic surface water,UV_training_set,4.375390963899302,LOSO,17,GBM,1472
+183,17,1,0,4.477121254719663,RSSCT,synthetic surface water,UV_training_set,4.173152613681984,LOSO,17,GBM,1472
+188,17,1,0,4.498310553719663,RSSCT,synthetic surface water,UV_training_set,4.388488149019132,LOSO,17,GBM,1472
+189,17,1,0,4.732393759719662,RSSCT,synthetic surface water,UV_training_set,4.176167541228982,LOSO,17,GBM,1472
+194,17,1,0,4.892094601719663,RSSCT,synthetic surface water,UV_training_set,4.707960141737189,LOSO,17,GBM,1472
+198,17,1,0,4.5185139397196625,RSSCT,synthetic surface water,UV_training_set,4.526834794344893,LOSO,17,GBM,1472
+91,19,2,0,3.991428155,pilot/full,groundwater,original_test_set,4.369870449966343,LOSO,19,GBM,2473
+92,19,2,0,4.00593433,pilot/full,groundwater,UV_training_set,4.132363097783785,LOSO,19,GBM,2473
+93,19,2,1,4.052610845,pilot/full,groundwater,original_test_set,4.383638171739677,LOSO,19,GBM,2473
+94,19,2,0,4.152087052,pilot/full,groundwater,original_test_set,4.40167052999677,LOSO,19,GBM,2473
+95,19,2,1,4.081764683,pilot/full,groundwater,original_test_set,4.2001915399830185,LOSO,19,GBM,2473
+96,19,2,1,4.265020376,pilot/full,groundwater,UV_training_set,4.445438264903724,LOSO,19,GBM,2473
+97,19,2,0,4.489747597,pilot/full,groundwater,UV_training_set,4.451154925214484,LOSO,19,GBM,2473
+98,19,2,0,3.911076503,pilot/full,groundwater,UV_training_set,3.6258522051666175,LOSO,19,GBM,2473
+99,19,2,0,4.015218498,pilot/full,groundwater,UV_training_set,3.9695291682887155,LOSO,19,GBM,2473
+100,19,2,0,4.057543453,pilot/full,groundwater,UV_training_set,3.9522211057178818,LOSO,19,GBM,2473
+101,19,2,1,4.112080362,pilot/full,groundwater,original_test_set,4.006216087304232,LOSO,19,GBM,2473
+102,19,2,0,3.979418419,pilot/full,groundwater,UV_training_set,4.235950748976858,LOSO,19,GBM,2473
+103,19,2,0,4.170519464,pilot/full,groundwater,original_test_set,4.414157166945685,LOSO,19,GBM,2473
+104,19,2,0,4.35871685191586,pilot/full,groundwater,UV_training_set,4.408992874457556,LOSO,19,GBM,2473
+105,19,2,0,4.42709088,pilot/full,groundwater,original_test_set,4.400307804209351,LOSO,19,GBM,2473
+106,19,2,0,3.83059812550234,pilot/full,groundwater,UV_training_set,3.831291565729504,LOSO,19,GBM,2473
+107,19,2,0,4.13588952973389,pilot/full,groundwater,UV_training_set,4.10141542084511,LOSO,19,GBM,2473
+108,19,2,0,4.21974497647267,pilot/full,groundwater,original_test_set,4.116899526018417,LOSO,19,GBM,2473
+109,19,2,0,4.367298205,pilot/full,groundwater,UV_training_set,4.023580941310046,LOSO,19,GBM,2473
+110,19,2,0,4.11316232739591,pilot/full,groundwater,original_test_set,4.265615655241053,LOSO,19,GBM,2473
+111,19,2,0,4.295691451,pilot/full,groundwater,UV_training_set,4.509304133514909,LOSO,19,GBM,2473
+112,19,2,1,4.417405214,pilot/full,groundwater,original_test_set,4.4710156232359575,LOSO,19,GBM,2473
+113,19,2,0,4.524329718,pilot/full,groundwater,UV_training_set,4.432157059401867,LOSO,19,GBM,2473
+114,19,2,0,3.892284475,pilot/full,groundwater,UV_training_set,3.4968822493897043,LOSO,19,GBM,2473
+115,19,2,1,3.969678939,pilot/full,groundwater,original_test_set,3.9684929015560617,LOSO,19,GBM,2473
+116,19,2,0,4.01323026,pilot/full,groundwater,UV_training_set,3.9126521285048406,LOSO,19,GBM,2473
+117,19,2,0,4.039207236,pilot/full,groundwater,original_test_set,3.9208522268111876,LOSO,19,GBM,2473
+118,19,2,0,3.929890062,pilot/full,groundwater,original_test_set,4.198437971101124,LOSO,19,GBM,2473
+119,19,2,0,4.071801749,pilot/full,groundwater,UV_training_set,4.395942045295541,LOSO,19,GBM,2473
+120,19,2,0,4.135098175,pilot/full,groundwater,UV_training_set,4.423587152649526,LOSO,19,GBM,2473
+121,19,2,0,4.269788382,pilot/full,groundwater,UV_training_set,4.419924967581576,LOSO,19,GBM,2473
+122,19,2,0,3.894436059,pilot/full,groundwater,UV_training_set,4.14969798911177,LOSO,19,GBM,2473
+123,19,2,0,3.989821267,pilot/full,groundwater,UV_training_set,4.41196533166471,LOSO,19,GBM,2473
+124,19,2,1,4.044957851,pilot/full,groundwater,original_test_set,4.421941068452382,LOSO,19,GBM,2473
+125,19,2,0,4.078606937,pilot/full,groundwater,UV_training_set,4.4433125381101615,LOSO,19,GBM,2473
+126,35,3,0,4.082257857351604,RSSCT,surface water,UV_training_set,3.2866621271412293,LOSO,35,GBM,2998
+128,35,3,0,3.8417139371165363,RSSCT,Treated WW,UV_training_set,3.780152755738378,LOSO,35,GBM,2998
+129,35,3,0,4.146269645694943,RSSCT,surface water,UV_training_set,3.2915717156660467,LOSO,35,GBM,2998
+131,35,3,0,3.2973892495251897,RSSCT,surface water,UV_training_set,2.8676996415067406,LOSO,35,GBM,2998
+133,35,3,0,3.3238960406074782,RSSCT,Treated WW,UV_training_set,3.214594062065322,LOSO,35,GBM,2998
+134,35,3,0,2.9075968696551424,RSSCT,surface water,UV_training_set,2.759755050243385,LOSO,35,GBM,2998
+136,35,3,0,3.4326145365248735,RSSCT,Treated WW,UV_training_set,3.3582931840354,LOSO,35,GBM,2998
+137,35,3,0,3.6166949551202783,RSSCT,surface water,UV_training_set,2.8899834710851158,LOSO,35,GBM,2998
+139,35,3,0,3.222808034284815,RSSCT,surface water,UV_training_set,2.9238178205588956,LOSO,35,GBM,2998
+141,35,3,0,3.5594963191090723,RSSCT,Treated WW,UV_training_set,3.5744627357698775,LOSO,35,GBM,2998
+142,35,3,0,3.2966717063618485,RSSCT,surface water,UV_training_set,3.0576283856515434,LOSO,35,GBM,2998
+203,35,3,0,4.282793051348456,RSSCT,synthetic surface water,UV_training_set,4.51657185984894,LOSO,35,GBM,2998
+208,35,3,0,4.295532992856459,RSSCT,synthetic surface water,UV_training_set,4.510308720296254,LOSO,35,GBM,2998
+213,35,3,0,3.1273405519093753,RSSCT,synthetic surface water,UV_training_set,4.016551259783411,LOSO,35,GBM,2998
+370,35,3,0,2.9155708808820813,RSSCT,synthetic surface water,UV_training_set,3.9630630363501465,LOSO,35,GBM,2998
+376,35,3,0,3.5033211092082235,RSSCT,synthetic surface water,UV_training_set,4.038419778744202,LOSO,35,GBM,2998
+380,35,3,0,3.5817626399151337,RSSCT,synthetic surface water,UV_training_set,3.8685130069720945,LOSO,35,GBM,2998
+384,35,3,0,3.915550176914748,RSSCT,synthetic surface water,UV_training_set,4.259376290708851,LOSO,35,GBM,2998
+144,50,4,0,3.292450705,pilot/full,surface water,original_test_set,4.269869948715855,LOSO,50,GBM,2904
+145,50,4,0,3.608427051,pilot/full,surface water,UV_training_set,4.275008560639006,LOSO,50,GBM,2904
+146,50,4,0,3.60590155,pilot/full,surface water,UV_training_set,3.8336902917535314,LOSO,50,GBM,2904
+147,50,4,0,3.737304101,pilot/full,surface water,original_test_set,3.610245269381519,LOSO,50,GBM,2904
+148,50,4,0,3.738930171,pilot/full,surface water,UV_training_set,3.610245269381519,LOSO,50,GBM,2904
+149,50,4,0,3.653103665,pilot/full,surface water,UV_training_set,4.295920978991049,LOSO,50,GBM,2904
+150,50,4,0,3.699379267,pilot/full,surface water,UV_training_set,4.489695004535114,LOSO,50,GBM,2904
+151,50,4,1,3.876206583,pilot/full,surface water,original_test_set,4.471637267708646,LOSO,50,GBM,2904
+152,50,4,0,3.411371726,pilot/full,surface water,UV_training_set,4.207470525200989,LOSO,50,GBM,2904
+153,50,4,0,3.529133248,pilot/full,surface water,UV_training_set,4.310725496432262,LOSO,50,GBM,2904
+154,50,4,0,3.68169817,pilot/full,surface water,original_test_set,4.279528028011645,LOSO,50,GBM,2904
+155,50,4,0,3.783979294,pilot/full,surface water,UV_training_set,4.310725496432262,LOSO,50,GBM,2904
+156,50,4,1,4.154293485,pilot/full,surface water,original_test_set,4.588098594446292,LOSO,50,GBM,2904
+157,50,4,0,4.164579409,pilot/full,surface water,UV_training_set,4.637981022782619,LOSO,50,GBM,2904
+158,50,4,0,2.973747188,pilot/full,surface water,original_test_set,3.5441695609222683,LOSO,50,GBM,2904
+159,50,4,0,3.424876094,pilot/full,surface water,UV_training_set,3.427477280809199,LOSO,50,GBM,2904
+160,50,4,0,3.567310642,pilot/full,surface water,UV_training_set,3.571044702360379,LOSO,50,GBM,2904
+161,50,4,0,3.686039729,pilot/full,surface water,UV_training_set,3.427477280809199,LOSO,50,GBM,2904
+162,50,4,0,3.629959128,pilot/full,surface water,UV_training_set,3.8656409129026565,LOSO,50,GBM,2904
+163,50,4,1,3.721238623,pilot/full,surface water,original_test_set,3.9664596151373663,LOSO,50,GBM,2904
+164,50,4,0,3.751816947,pilot/full,surface water,UV_training_set,4.025750630988482,LOSO,50,GBM,2904
+165,50,4,0,3.853247311,pilot/full,surface water,UV_training_set,3.8656409129026565,LOSO,50,GBM,2904
+166,50,4,0,3.892875675,pilot/full,surface water,UV_training_set,4.0964241553005065,LOSO,50,GBM,2904
+167,50,4,1,3.924686625,pilot/full,surface water,original_test_set,4.094641178005648,LOSO,50,GBM,2904
+168,50,4,0,4.151750371,pilot/full,surface water,UV_training_set,4.0412586024155965,LOSO,50,GBM,2904
+169,50,4,1,4.19188477,pilot/full,surface water,original_test_set,4.080049520793369,LOSO,50,GBM,2904
+170,50,4,0,3.645470885,pilot/full,surface water,UV_training_set,4.479051789366987,LOSO,50,GBM,2904
+171,50,4,0,3.861379095,pilot/full,surface water,UV_training_set,4.253316203439438,LOSO,50,GBM,2904
+172,50,4,1,3.93050939,pilot/full,surface water,original_test_set,4.4161714816802515,LOSO,50,GBM,2904
+173,50,4,0,4.16702996,pilot/full,surface water,UV_training_set,4.669685546730801,LOSO,50,GBM,2904
+174,50,4,0,3.154638695,pilot/full,surface water,UV_training_set,4.217037381915728,LOSO,50,GBM,2904
+175,50,4,0,3.460112747,pilot/full,surface water,UV_training_set,4.191444902227729,LOSO,50,GBM,2904
+176,50,4,0,3.630357692,pilot/full,surface water,UV_training_set,4.305824351406856,LOSO,50,GBM,2904
+177,50,4,0,3.699044809,pilot/full,surface water,UV_training_set,4.191444902227729,LOSO,50,GBM,2904
+27,51,5,0,4.1583624917196635,RSSCT,surface water,UV_training_set,4.2491082887532325,LOSO,51,GBM,2982
+29,51,5,0,4.068185861719663,RSSCT,surface water,UV_training_set,4.16101232912986,LOSO,51,GBM,2982
+33,51,5,0,4.468347330719663,RSSCT,surface water,UV_training_set,4.395103003124686,LOSO,51,GBM,2982
+37,51,5,0,4.045322978719662,RSSCT,surface water,UV_training_set,4.136534397936519,LOSO,51,GBM,2982
+41,51,5,0,4.110589710719663,RSSCT,surface water,UV_training_set,3.9542002636250424,LOSO,51,GBM,2982
+44,51,5,0,3.556302500719663,RSSCT,surface water,UV_training_set,3.4210748088891245,LOSO,51,GBM,2982
+46,51,5,0,4.120573930719663,RSSCT,surface water,UV_training_set,4.216592362806546,LOSO,51,GBM,2982
+47,51,5,0,4.068185861719663,RSSCT,surface water,UV_training_set,4.260258667079654,LOSO,51,GBM,2982
+51,51,5,0,3.819543935719663,RSSCT,surface water,UV_training_set,3.9846592128170513,LOSO,51,GBM,2982
+179,51,5,0,4.406540180719663,RSSCT,surface water,UV_training_set,4.569964707211093,LOSO,51,GBM,2982
+180,51,5,0,4.450249108719663,RSSCT,surface water,UV_training_set,4.573216060703384,LOSO,51,GBM,2982
+181,51,5,0,4.468347330719663,RSSCT,surface water,UV_training_set,4.438505776950797,LOSO,51,GBM,2982
+182,51,5,0,4.374748345719663,RSSCT,surface water,UV_training_set,4.559268810090444,LOSO,51,GBM,2982
+184,51,5,0,4.396199346719663,RSSCT,surface water,UV_training_set,4.479987378965297,LOSO,51,GBM,2982
+185,51,5,0,4.390935106719663,RSSCT,surface water,UV_training_set,4.509111611221484,LOSO,51,GBM,2982
+186,51,5,0,4.545307115719663,RSSCT,surface water,UV_training_set,4.383087703067531,LOSO,51,GBM,2982
+187,51,5,0,4.3031960567196625,RSSCT,surface water,UV_training_set,4.481740192656333,LOSO,51,GBM,2982
+190,51,5,0,4.385606273719663,RSSCT,surface water,UV_training_set,4.641178867450381,LOSO,51,GBM,2982
+191,51,5,0,4.411619705719662,RSSCT,surface water,UV_training_set,4.637867062904405,LOSO,51,GBM,2982
+192,51,5,0,4.352182518719663,RSSCT,surface water,UV_training_set,4.334441245625095,LOSO,51,GBM,2982
+193,51,5,0,4.309630166719662,RSSCT,surface water,UV_training_set,4.637648631734722,LOSO,51,GBM,2982
+195,51,5,0,4.468347330719663,RSSCT,surface water,UV_training_set,4.416639723800848,LOSO,51,GBM,2982
+196,51,5,0,4.545307115719663,RSSCT,surface water,UV_training_set,4.156790075541581,LOSO,51,GBM,2982
+197,51,5,0,4.401400540719663,RSSCT,surface water,UV_training_set,4.459827714041296,LOSO,51,GBM,2982
+199,51,5,0,3.7781512507196626,RSSCT,surface water,UV_training_set,3.9531729160826172,LOSO,51,GBM,2982
+200,51,5,0,3.819543935719663,RSSCT,surface water,UV_training_set,4.035624859089762,LOSO,51,GBM,2982
+201,51,5,0,3.7781512507196626,RSSCT,surface water,UV_training_set,3.619322718899218,LOSO,51,GBM,2982
+202,51,5,0,3.7993405497196626,RSSCT,surface water,UV_training_set,4.002275552728469,LOSO,51,GBM,2982
+204,51,5,0,4.374748345719663,RSSCT,surface water,UV_training_set,4.5757161729390115,LOSO,51,GBM,2982
+205,51,5,0,4.454844859719664,RSSCT,surface water,UV_training_set,4.624085451376617,LOSO,51,GBM,2982
+206,51,5,0,4.363611979719662,RSSCT,surface water,UV_training_set,4.437627680457549,LOSO,51,GBM,2982
+207,51,5,0,4.352182518719663,RSSCT,surface water,UV_training_set,4.5950607477175955,LOSO,51,GBM,2982
+209,51,5,0,4.340444114719663,RSSCT,surface water,UV_training_set,4.554611010632071,LOSO,51,GBM,2982
+210,51,5,0,4.406540180719663,RSSCT,surface water,UV_training_set,4.552441387990619,LOSO,51,GBM,2982
+211,51,5,0,4.522444233719662,RSSCT,surface water,UV_training_set,4.462543428339944,LOSO,51,GBM,2982
+212,51,5,0,4.334453750719662,RSSCT,surface water,UV_training_set,4.524972989363307,LOSO,51,GBM,2982
+214,51,5,0,4.1846914307196625,RSSCT,surface water,UV_training_set,4.420307612284613,LOSO,51,GBM,2982
+215,51,5,0,4.139879085719663,RSSCT,surface water,UV_training_set,4.378670139357929,LOSO,51,GBM,2982
+216,51,5,0,4.1846914307196625,RSSCT,surface water,UV_training_set,4.123862739561796,LOSO,51,GBM,2982
+217,51,5,0,4.139879085719663,RSSCT,surface water,UV_training_set,4.358705033202954,LOSO,51,GBM,2982
+218,52,6,0,3.3802112417196626,RSSCT,groundwater,UV_training_set,3.691319285263876,LOSO,52,GBM,859
+219,52,6,0,3.6074550237196625,RSSCT,groundwater,UV_training_set,3.709014356824266,LOSO,52,GBM,859
+220,52,6,0,3.6074550237196625,RSSCT,groundwater,UV_training_set,3.709014356824266,LOSO,52,GBM,859
+221,52,6,0,3.6201360547196635,RSSCT,groundwater,UV_training_set,3.782344322530254,LOSO,52,GBM,859
+222,52,6,0,3.6384892567196623,RSSCT,groundwater,UV_training_set,3.782344322530254,LOSO,52,GBM,859
+223,52,6,0,3.6812412367196625,RSSCT,groundwater,UV_training_set,3.886877630433206,LOSO,52,GBM,859
+224,52,6,0,3.6946051987196626,RSSCT,synthetic surface water,UV_training_set,3.746926329179891,LOSO,52,GBM,859
+225,52,6,0,3.7419390787196622,RSSCT,groundwater,UV_training_set,3.8249723876409067,LOSO,52,GBM,859
+226,52,6,0,3.7824726247196634,RSSCT,synthetic surface water,UV_training_set,3.8644470688545702,LOSO,52,GBM,859
+227,52,6,0,3.715167358719663,RSSCT,groundwater,UV_training_set,3.8974538320045617,LOSO,52,GBM,859
+228,52,6,0,3.7419390777196626,RSSCT,groundwater,UV_training_set,3.769918422276817,LOSO,52,GBM,859
+229,52,6,0,3.8075350287196628,RSSCT,groundwater,UV_training_set,3.959359074796861,LOSO,52,GBM,859
+230,52,6,0,3.8293037727196633,RSSCT,groundwater,UV_training_set,3.6927077224931137,LOSO,52,GBM,859
+231,52,6,0,3.6972293437196626,RSSCT,groundwater,UV_training_set,3.8562055957993677,LOSO,52,GBM,859
+232,52,6,0,3.705007959719663,RSSCT,groundwater,UV_training_set,3.7453754962604524,LOSO,52,GBM,859
+233,52,6,0,3.587335983719663,RSSCT,groundwater,UV_training_set,3.7371380355700605,LOSO,52,GBM,859
+234,52,6,0,3.600972895719663,RSSCT,groundwater,UV_training_set,3.7371380355700605,LOSO,52,GBM,859
+235,52,6,0,3.613841821719663,RSSCT,groundwater,UV_training_set,3.7881754281827837,LOSO,52,GBM,859
+236,52,6,0,3.724043467719663,RSSCT,groundwater,UV_training_set,3.8224009532991547,LOSO,52,GBM,859
+237,52,6,0,3.791894066719663,RSSCT,groundwater,UV_training_set,3.872708687063905,LOSO,52,GBM,859
+238,52,6,0,3.805847339719662,RSSCT,groundwater,UV_training_set,3.825552028528897,LOSO,52,GBM,859
+239,52,6,0,3.8444771757196627,RSSCT,groundwater,UV_training_set,3.9426444292215743,LOSO,52,GBM,859
+240,52,6,0,3.866287339719663,RSSCT,groundwater,UV_training_set,3.950711413370937,LOSO,52,GBM,859
+241,52,6,0,3.8715729357196627,RSSCT,groundwater,UV_training_set,3.9783763648428963,LOSO,52,GBM,859
+242,52,6,0,3.898725181719662,RSSCT,groundwater,UV_training_set,3.912513797155403,LOSO,52,GBM,859
+243,52,6,0,3.7176705037196625,RSSCT,deionized water,UV_training_set,3.948714236091518,LOSO,52,GBM,859
+244,52,6,0,3.720159303719663,RSSCT,deionized water,UV_training_set,3.910516619875984,LOSO,52,GBM,859
+245,52,6,0,3.927370363719662,RSSCT,deionized water,UV_training_set,3.798933119990728,LOSO,52,GBM,859
+246,52,6,0,3.9585638837196626,RSSCT,deionized water,UV_training_set,3.850616981598931,LOSO,52,GBM,859
+247,52,6,0,4.197280558719663,RSSCT,groundwater,UV_training_set,4.4057682314896836,LOSO,52,GBM,859
+248,52,6,0,4.267406418719664,RSSCT,groundwater,UV_training_set,4.33251660714378,LOSO,52,GBM,859
+249,52,6,0,3.4243098207196625,RSSCT,groundwater,UV_training_set,3.7221385266075058,LOSO,52,GBM,859
+250,52,6,0,3.491557781719663,RSSCT,groundwater,UV_training_set,3.7438305863454175,LOSO,52,GBM,859
+251,52,6,0,4.2545335757196625,RSSCT,groundwater,UV_training_set,4.533245327786997,LOSO,52,GBM,859
+252,52,6,0,4.436391664719663,RSSCT,groundwater,UV_training_set,4.506891742697288,LOSO,52,GBM,859
+253,52,6,0,4.059502831719662,RSSCT,groundwater,UV_training_set,4.435437573423549,LOSO,52,GBM,859
+254,52,6,0,4.1660924947196625,RSSCT,groundwater,UV_training_set,4.458048939671795,LOSO,52,GBM,859
+255,52,6,0,4.382290868719664,RSSCT,groundwater,UV_training_set,4.657642221362882,LOSO,52,GBM,859
+256,52,6,0,4.440228784719663,RSSCT,groundwater,UV_training_set,4.641498046362211,LOSO,52,GBM,859
+257,52,6,0,4.107335489719663,RSSCT,groundwater,UV_training_set,4.548335789000037,LOSO,52,GBM,859
+258,52,6,0,4.3162220367196635,RSSCT,groundwater,UV_training_set,4.5640393758046,LOSO,52,GBM,859
+259,52,6,0,4.411962965719662,RSSCT,groundwater,UV_training_set,4.70434149161954,LOSO,52,GBM,859
+260,52,6,0,4.469316763719663,RSSCT,groundwater,UV_training_set,4.7200450784241035,LOSO,52,GBM,859
+261,57,1,0,4.667763584324365,RSSCT,surface water,UV_training_set,4.762530106382806,LOSO,57,GBM,1515
+262,57,1,0,4.829328066214528,RSSCT,surface water,UV_training_set,4.824699483445999,LOSO,57,GBM,1515
+263,57,1,0,4.786074244992476,RSSCT,surface water,UV_training_set,4.852334926051586,LOSO,57,GBM,1515
+264,57,1,0,4.0275525016927265,RSSCT,surface water,UV_training_set,4.102739718133253,LOSO,57,GBM,1515
+265,57,1,0,4.727784266790629,RSSCT,surface water,UV_training_set,4.737837277145296,LOSO,57,GBM,1515
+266,57,1,0,4.64861117561938,RSSCT,surface water,UV_training_set,4.674485796690561,LOSO,57,GBM,1515
+267,57,1,0,4.806875401645539,RSSCT,surface water,UV_training_set,4.903306784953031,LOSO,57,GBM,1515
+268,58,6,0,3.707570176,pilot/full,groundwater,original_test_set,3.5892933473179656,LOSO,58,GBM,1566
+269,58,6,0,4.492760389,pilot/full,groundwater,UV_training_set,4.215602910385841,LOSO,58,GBM,1566
+270,58,6,0,4.506505032,pilot/full,groundwater,UV_training_set,4.405142567151476,LOSO,58,GBM,1566
+271,58,6,0,4.807535028068854,pilot/full,groundwater,UV_training_set,4.492035191553341,LOSO,58,GBM,1566
+272,58,6,0,4.522444234,pilot/full,groundwater,UV_training_set,4.1026173625852325,LOSO,58,GBM,1566
+273,59,7,0,3.918904084015689,RSSCT,surface water,UV_training_set,4.09518516167329,LOSO,59,GBM,1300
+274,59,7,0,3.7533233638106527,RSSCT,surface water,UV_training_set,3.893138622774859,LOSO,59,GBM,1300
+275,60,8,0,4.364584715,pilot/full,surface water,original_test_set,4.579619491050044,LOSO,60,GBM,2835
+276,60,8,0,4.541520789719662,RSSCT,surface water,UV_training_set,4.395159443905538,LOSO,60,GBM,2835
+277,60,8,0,2.8026600057196625,RSSCT,surface water,UV_training_set,4.65305770986551,LOSO,60,GBM,2835
+278,60,8,0,3.2383290407196625,RSSCT,surface water,UV_training_set,4.65305770986551,LOSO,60,GBM,2835
+279,60,8,0,3.3320432487196627,RSSCT,surface water,UV_training_set,4.65305770986551,LOSO,60,GBM,2835
+280,60,8,0,3.960774872719663,RSSCT,surface water,UV_training_set,4.617591106522765,LOSO,60,GBM,2835
+281,60,8,0,4.044312793719663,RSSCT,surface water,UV_training_set,4.617591106522765,LOSO,60,GBM,2835
+282,60,8,0,4.096642543719662,RSSCT,surface water,UV_training_set,4.610578646709587,LOSO,60,GBM,2835
+283,60,8,0,4.261138232,pilot/full,surface water,original_test_set,4.454595629261925,LOSO,60,GBM,2835
+284,60,8,0,4.397997971719662,RSSCT,surface water,UV_training_set,4.309311130511387,LOSO,60,GBM,2835
+285,60,8,0,4.494364806,pilot/full,surface water,UV_training_set,4.509238638545532,LOSO,60,GBM,2835
+286,60,8,0,4.689288570719663,RSSCT,surface water,UV_training_set,4.2463087604840295,LOSO,60,GBM,2835
+287,60,8,0,3.879743834,pilot/full,surface water,original_test_set,4.411901630372297,LOSO,60,GBM,2835
+288,60,8,0,4.151700610814557,RSSCT,surface water,UV_training_set,4.110164447965419,LOSO,60,GBM,2835
+289,60,8,0,3.5553293437196634,RSSCT,surface water,UV_training_set,3.929204862541673,LOSO,60,GBM,2835
+290,61,9,0,3.4983415176107067,RSSCT,groundwater,UV_training_set,4.271461157754734,LOSO,61,GBM,2979
+291,61,9,0,3.6068466653838667,RSSCT,groundwater,UV_training_set,4.271461157754734,LOSO,61,GBM,2979
+292,61,9,0,3.792819867839429,RSSCT,groundwater,UV_training_set,4.190360393434014,LOSO,61,GBM,2979
+293,61,9,0,3.842784559436661,RSSCT,groundwater,UV_training_set,4.272880430727689,LOSO,61,GBM,2979
+294,61,9,0,3.596083633354088,RSSCT,groundwater,UV_training_set,4.222919885695625,LOSO,61,GBM,2979
+295,61,9,0,3.86352005296353,RSSCT,groundwater,UV_training_set,4.3054399229893,LOSO,61,GBM,2979
+296,61,9,0,3.9245705544122775,RSSCT,groundwater,UV_training_set,4.3054399229893,LOSO,61,GBM,2979
+297,61,9,0,4.402911792837681,RSSCT,groundwater,UV_training_set,4.87442696724845,LOSO,61,GBM,2979
+298,61,9,0,4.683977372086776,RSSCT,groundwater,UV_training_set,4.821608065606745,LOSO,61,GBM,2979
+299,61,9,0,4.698117664523137,RSSCT,groundwater,UV_training_set,4.747718900736477,LOSO,61,GBM,2979
+300,61,9,0,4.703944592732077,RSSCT,groundwater,UV_training_set,4.821608065606745,LOSO,61,GBM,2979
+301,61,9,0,4.727870395956745,RSSCT,groundwater,UV_training_set,5.0443855341661,LOSO,61,GBM,2979
+302,61,9,0,4.74658849926776,RSSCT,groundwater,UV_training_set,5.039235755540344,LOSO,61,GBM,2979
+303,61,9,0,4.419703975733719,RSSCT,groundwater,UV_training_set,4.884411201943067,LOSO,61,GBM,2979
+304,61,9,0,4.567186159684093,RSSCT,groundwater,UV_training_set,4.62632492617403,LOSO,61,GBM,2979
+305,61,9,0,4.59000233821602,RSSCT,groundwater,UV_training_set,4.542211657474304,LOSO,61,GBM,2979
+306,61,9,0,4.63977181104172,RSSCT,groundwater,UV_training_set,4.661528195360846,LOSO,61,GBM,2979
+307,61,9,0,4.73772457082064,RSSCT,groundwater,UV_training_set,4.916703008711231,LOSO,61,GBM,2979
+308,61,9,0,4.302872682150407,RSSCT,groundwater,UV_training_set,4.617702663281919,LOSO,61,GBM,2979
+309,61,9,0,4.396716572977674,RSSCT,groundwater,UV_training_set,4.617702663281919,LOSO,61,GBM,2979
+310,61,9,0,4.455441228733655,RSSCT,groundwater,UV_training_set,4.554685242855177,LOSO,61,GBM,2979
+311,61,9,0,4.595261296451675,RSSCT,groundwater,UV_training_set,4.639354356407571,LOSO,61,GBM,2979
+312,61,9,0,4.46632296425386,RSSCT,groundwater,UV_training_set,4.535131214645875,LOSO,61,GBM,2979
+313,61,9,0,4.473475586067429,RSSCT,groundwater,UV_training_set,4.273665346795022,LOSO,61,GBM,2979
+314,61,9,0,4.5699069782900805,RSSCT,groundwater,UV_training_set,4.526028663318573,LOSO,61,GBM,2979
+315,61,9,0,4.648593554199511,RSSCT,groundwater,UV_training_set,4.640642017142601,LOSO,61,GBM,2979
+316,61,9,0,4.522694967753341,RSSCT,groundwater,UV_training_set,4.9391214139102715,LOSO,61,GBM,2979
+317,61,9,0,4.6867421670696805,RSSCT,groundwater,UV_training_set,4.67914656697748,LOSO,61,GBM,2979
+318,61,9,0,4.707437825605094,RSSCT,groundwater,UV_training_set,4.7262806000258415,LOSO,61,GBM,2979
+319,61,9,0,4.722255117032484,RSSCT,groundwater,UV_training_set,4.671394192262546,LOSO,61,GBM,2979
+320,61,9,0,4.749173855985667,RSSCT,groundwater,UV_training_set,4.969992250411303,LOSO,61,GBM,2979
+321,61,9,0,4.750822513372734,RSSCT,groundwater,UV_training_set,4.969217859771494,LOSO,61,GBM,2979
+322,61,9,0,4.755468741637959,RSSCT,groundwater,UV_training_set,4.880109168664158,LOSO,61,GBM,2979
+323,61,9,0,4.76247972178547,RSSCT,groundwater,UV_training_set,5.167370932984993,LOSO,61,GBM,2979
+324,61,9,0,4.7787622325012,RSSCT,groundwater,UV_training_set,5.1618122646615525,LOSO,61,GBM,2979
+325,61,9,0,4.80556616240622,RSSCT,groundwater,UV_training_set,5.072692403021521,LOSO,61,GBM,2979
+326,61,9,0,4.098540607876411,RSSCT,groundwater,UV_training_set,4.430575571207922,LOSO,61,GBM,2979
+327,61,9,0,4.180971448865605,RSSCT,groundwater,UV_training_set,4.430575571207922,LOSO,61,GBM,2979
+328,61,9,0,4.203704480546643,RSSCT,groundwater,UV_training_set,4.354759842868212,LOSO,61,GBM,2979
+329,61,9,0,4.405063530481639,RSSCT,groundwater,UV_training_set,4.434814110780384,LOSO,61,GBM,2979
+330,62,6,0,3.6894402907196633,RSSCT,groundwater,UV_training_set,3.779041571820134,LOSO,62,GBM,1267
+331,62,6,0,3.696966317719663,RSSCT,groundwater,UV_training_set,3.779041571820134,LOSO,62,GBM,1267
+332,62,6,0,4.352852728719663,RSSCT,groundwater,UV_training_set,4.187985974248273,LOSO,62,GBM,1267
+333,62,6,0,4.399940156719663,RSSCT,groundwater,UV_training_set,4.260480200029962,LOSO,62,GBM,1267
+334,62,6,0,3.6240059737196626,RSSCT,groundwater,UV_training_set,3.607823713314642,LOSO,62,GBM,1267
+335,62,6,0,3.6440658367196628,RSSCT,groundwater,UV_training_set,3.6604826357535676,LOSO,62,GBM,1267
+336,62,6,0,3.7659049477196627,RSSCT,groundwater,UV_training_set,3.793904833752071,LOSO,62,GBM,1267
+337,62,6,0,3.768299233719663,RSSCT,groundwater,UV_training_set,3.8547379736862686,LOSO,62,GBM,1267
+338,62,6,0,3.784566780719663,RSSCT,groundwater,UV_training_set,3.7939745502999425,LOSO,62,GBM,1267
+339,62,6,0,4.2342107737196635,RSSCT,groundwater,UV_training_set,4.254584148617249,LOSO,62,GBM,1267
+340,62,6,0,4.242507163719663,RSSCT,groundwater,UV_training_set,4.214786880975403,LOSO,62,GBM,1267
+341,62,6,0,4.476772334719662,RSSCT,groundwater,UV_training_set,4.3223546397655985,LOSO,62,GBM,1267
+342,62,6,0,4.511702599719663,RSSCT,groundwater,UV_training_set,4.362475105066312,LOSO,62,GBM,1267
+343,62,6,0,4.3454669877196626,RSSCT,groundwater,UV_training_set,4.329908413724692,LOSO,62,GBM,1267
+344,62,6,0,4.427396235719662,RSSCT,groundwater,UV_training_set,4.353662892859867,LOSO,62,GBM,1267
+345,62,6,0,4.928867272719662,RSSCT,groundwater,UV_training_set,4.290517943861022,LOSO,62,GBM,1267
+346,62,6,0,4.984121839719664,RSSCT,groundwater,UV_training_set,4.2993250951198885,LOSO,62,GBM,1267
+347,62,6,0,4.633247431719663,RSSCT,groundwater,UV_training_set,4.164799559597105,LOSO,62,GBM,1267
+348,62,6,0,4.717869310719663,RSSCT,groundwater,UV_training_set,4.194509950733429,LOSO,62,GBM,1267
+349,69,10,0,4.799916809405545,RSSCT,groundwater,UV_training_set,4.360338029853749,LOSO,69,GBM,2635
+350,69,10,0,3.919113937911389,RSSCT,groundwater,UV_training_set,4.433960057474043,LOSO,69,GBM,2635
+351,69,10,0,4.646201611154577,RSSCT,groundwater,UV_training_set,4.418024157726525,LOSO,69,GBM,2635
+352,69,10,0,4.741085250984216,RSSCT,groundwater,UV_training_set,4.411433290679151,LOSO,69,GBM,2635
+353,69,10,0,4.666369612623108,RSSCT,groundwater,UV_training_set,4.262845544816194,LOSO,69,GBM,2635
+354,69,10,0,4.921678729257379,RSSCT,groundwater,UV_training_set,4.393428234214807,LOSO,69,GBM,2635
+355,69,10,0,4.38191535131012,RSSCT,groundwater,UV_training_set,4.231798573667088,LOSO,69,GBM,2635
+356,69,10,0,4.823122230767952,RSSCT,groundwater,UV_training_set,4.334677727531699,LOSO,69,GBM,2635
+357,69,10,0,4.8310509222249145,RSSCT,groundwater,UV_training_set,4.282950643532793,LOSO,69,GBM,2635
+358,69,10,0,4.6887298004043965,RSSCT,groundwater,UV_training_set,4.40309592940082,LOSO,69,GBM,2635
+359,69,10,0,4.8414011268176225,RSSCT,groundwater,UV_training_set,4.397475946720368,LOSO,69,GBM,2635
+360,69,10,0,3.9756592973296243,RSSCT,groundwater,UV_training_set,4.4583812928103335,LOSO,69,GBM,2635
+361,69,10,0,4.68558307615598,RSSCT,groundwater,UV_training_set,4.4557314828563035,LOSO,69,GBM,2635
+362,69,10,0,4.709373099264723,RSSCT,groundwater,UV_training_set,4.347745206683071,LOSO,69,GBM,2635
+363,69,10,0,4.927323895184095,RSSCT,groundwater,UV_training_set,4.425284355418641,LOSO,69,GBM,2635
+364,69,10,0,4.298777221872966,RSSCT,groundwater,UV_training_set,4.250942911359734,LOSO,69,GBM,2635
+365,69,10,0,4.782673512288013,RSSCT,groundwater,UV_training_set,4.387621368622519,LOSO,69,GBM,2635
+366,69,10,0,4.868282321117463,RSSCT,groundwater,UV_training_set,4.369176823902019,LOSO,69,GBM,2635
+367,77,11,0,4.049126196941958,RSSCT,Treated WW,UV_training_set,3.865250621758888,LOSO,77,GBM,2331
+368,77,11,0,3.783280033170322,RSSCT,Treated WW,UV_training_set,3.890537451417793,LOSO,77,GBM,2331
+369,77,11,0,3.2227834879566206,RSSCT,Treated WW,UV_training_set,3.8360822850210834,LOSO,77,GBM,2331
+371,77,11,0,4.390298897656521,RSSCT,Treated WW,UV_training_set,4.000314649100648,LOSO,77,GBM,2331
+372,77,11,0,4.353037257968136,RSSCT,Treated WW,UV_training_set,3.9416607484046278,LOSO,77,GBM,2331
+373,77,11,0,3.6860414330609004,RSSCT,Treated WW,UV_training_set,3.8782756551800492,LOSO,77,GBM,2331
+374,77,11,0,3.263472395921375,RSSCT,Treated WW,UV_training_set,3.156106733808817,LOSO,77,GBM,2331
+375,77,11,0,2.7048633766482144,RSSCT,Treated WW,UV_training_set,3.0995425148468523,LOSO,77,GBM,2331
+377,77,11,0,3.7376787573044763,RSSCT,Treated WW,UV_training_set,3.414066624622191,LOSO,77,GBM,2331
+378,77,11,0,3.069999727906512,RSSCT,Treated WW,UV_training_set,3.4984746065884833,LOSO,77,GBM,2331
+379,77,11,0,2.9252895866094137,RSSCT,Treated WW,UV_training_set,3.431986053292662,LOSO,77,GBM,2331
+381,77,11,0,3.6996001884863365,RSSCT,Treated WW,UV_training_set,3.5438723459821144,LOSO,77,GBM,2331
+382,77,11,0,3.448329752814807,RSSCT,Treated WW,UV_training_set,3.539128217809997,LOSO,77,GBM,2331
+383,77,11,0,3.334618921061572,RSSCT,Treated WW,UV_training_set,3.482014640504921,LOSO,77,GBM,2331
+385,77,11,0,3.9670724811380977,RSSCT,Treated WW,UV_training_set,4.216766874376514,LOSO,77,GBM,2331
+386,77,11,0,3.448329752814807,RSSCT,Treated WW,UV_training_set,3.2686927471746934,LOSO,77,GBM,2331
+393,77,11,0,3.5932441454272857,RSSCT,Treated WW,UV_training_set,3.612460958515798,LOSO,77,GBM,2331
+394,77,11,0,3.5932441454272857,RSSCT,Treated WW,UV_training_set,3.9135347473989137,LOSO,77,GBM,2331
+12,78,6,0,3.460296326719663,RSSCT,groundwater,UV_training_set,3.6335863697787465,LOSO,78,GBM,2732
+16,78,6,0,3.561697532719663,RSSCT,groundwater,UV_training_set,3.5923460118194352,LOSO,78,GBM,2732
+19,78,6,0,4.0346284567196635,RSSCT,groundwater,UV_training_set,4.024746831485041,LOSO,78,GBM,2732
+23,78,6,0,4.0346284567196635,RSSCT,groundwater,UV_training_set,4.065794423913235,LOSO,78,GBM,2732
+387,78,6,0,3.217483943719663,RSSCT,groundwater,UV_training_set,3.616732789385814,LOSO,78,GBM,2732
+388,78,6,0,3.265996370719663,RSSCT,groundwater,UV_training_set,3.667278712831577,LOSO,78,GBM,2732
+389,78,6,0,3.5930644317196627,RSSCT,groundwater,UV_training_set,3.675891694042599,LOSO,78,GBM,2732
+390,78,6,0,3.667452952719662,RSSCT,groundwater,UV_training_set,3.6641537836116016,LOSO,78,GBM,2732
+391,78,6,0,3.927293353719663,RSSCT,groundwater,UV_training_set,3.6641537836116016,LOSO,78,GBM,2732
+392,78,6,0,3.9933921377196624,RSSCT,groundwater,UV_training_set,3.6641537836116016,LOSO,78,GBM,2732
+395,78,6,0,3.767155865719663,RSSCT,groundwater,UV_training_set,4.0625565311917695,LOSO,78,GBM,2732
+396,78,6,0,3.7888751157196627,RSSCT,groundwater,UV_training_set,4.112909689106427,LOSO,78,GBM,2732
+397,78,6,0,4.051731195719663,RSSCT,groundwater,UV_training_set,4.151969769297318,LOSO,78,GBM,2732
+398,78,6,0,4.096631975719663,RSSCT,groundwater,UV_training_set,4.140424624397437,LOSO,78,GBM,2732
+399,78,6,0,4.2938264387196625,RSSCT,groundwater,UV_training_set,4.140424624397437,LOSO,78,GBM,2732
+400,78,6,0,4.2940912927196635,RSSCT,groundwater,UV_training_set,4.140424624397437,LOSO,78,GBM,2732
+401,78,6,0,4.410810963719664,RSSCT,groundwater,UV_training_set,4.585224758427767,LOSO,78,GBM,2732
+402,78,6,0,4.516614689719662,RSSCT,groundwater,UV_training_set,4.561395751759369,LOSO,78,GBM,2732
+403,78,6,0,4.5317343097196625,RSSCT,groundwater,UV_training_set,4.561395751759369,LOSO,78,GBM,2732
+404,79,1,0,4.359097697,pilot/full,surface water,UV_training_set,4.2187367744565085,LOSO,79,GBM,1269
+405,79,1,0,4.417945715,pilot/full,surface water,original_test_set,4.148051210835784,LOSO,79,GBM,1269
+406,79,1,0,4.3353193,pilot/full,surface water,UV_training_set,4.065465952622786,LOSO,79,GBM,1269
+407,79,1,0,4.151234192,pilot/full,surface water,UV_training_set,3.9724593056518933,LOSO,79,GBM,1269
+408,79,1,0,4.56089535,pilot/full,surface water,UV_training_set,4.355318248944886,LOSO,79,GBM,1269
+409,79,1,0,4.409104653,pilot/full,surface water,UV_training_set,4.135363954769413,LOSO,79,GBM,1269
+410,79,1,0,4.288087753,pilot/full,surface water,UV_training_set,4.053290510255868,LOSO,79,GBM,1269
+411,79,1,0,4.527702297,pilot/full,surface water,UV_training_set,4.3789370584314184,LOSO,79,GBM,1269
+412,79,1,0,3.925941507,pilot/full,surface water,UV_training_set,3.91448066836444,LOSO,79,GBM,1269
+0,1,0,0,3.7728754,pilot/full,Treated WW,original_test_set,4.461257289561843,LOCO,0,GBM,2709
+1,1,0,0,3.778718715,pilot/full,Treated WW,UV_training_set,4.386208454658878,LOCO,0,GBM,2709
+2,1,0,0,3.030080778,pilot/full,Treated WW,UV_training_set,3.635703634125854,LOCO,0,GBM,2709
+3,1,0,0,3.261340187,pilot/full,Treated WW,UV_training_set,3.710492814218469,LOCO,0,GBM,2709
+4,1,0,0,3.783464209,pilot/full,Treated WW,UV_training_set,3.7950286056093274,LOCO,0,GBM,2709
+5,1,0,0,3.804133501,pilot/full,Treated WW,UV_training_set,3.8732749775469686,LOCO,0,GBM,2709
+6,1,0,0,3.522517249,pilot/full,Treated WW,UV_training_set,3.5660322425924296,LOCO,0,GBM,2709
+7,1,0,0,3.620574127,pilot/full,Treated WW,original_test_set,3.488045525465139,LOCO,0,GBM,2709
+8,1,0,0,3.945604473,pilot/full,Treated WW,UV_training_set,3.5660322425924296,LOCO,0,GBM,2709
+9,1,0,1,4.033291752,pilot/full,Treated WW,original_test_set,3.488045525465139,LOCO,0,GBM,2709
+10,1,0,0,3.369491602,pilot/full,Treated WW,original_test_set,4.3080403715893105,LOCO,0,GBM,2709
+11,1,0,0,3.4935993,pilot/full,Treated WW,UV_training_set,4.3660507701819755,LOCO,0,GBM,2709
+13,16,1,0,4.892094603,pilot/full,synthetic surface water,UV_training_set,4.526420515900039,LOCO,1,GBM,2911
+14,16,1,0,4.792391689,pilot/full,surface water,original_test_set,4.303423189525127,LOCO,1,GBM,2911
+15,16,1,0,4.929418926,pilot/full,surface water,UV_training_set,4.341145345721192,LOCO,1,GBM,2911
+17,16,1,0,4.72427587,pilot/full,synthetic surface water,UV_training_set,4.47640910928943,LOCO,1,GBM,2911
+18,16,1,0,5.0,pilot/full,surface water,UV_training_set,4.215886899259309,LOCO,1,GBM,2911
+20,16,1,1,4.556302501,pilot/full,synthetic surface water,UV_training_set,4.6784714927551345,LOCO,1,GBM,2911
+21,16,1,1,4.716003344,pilot/full,surface water,original_test_set,4.391836541422923,LOCO,1,GBM,2911
+22,16,1,1,4.954242509,pilot/full,surface water,UV_training_set,4.404743723343191,LOCO,1,GBM,2911
+24,16,1,0,4.924279286,pilot/full,surface water,original_test_set,4.328517678651278,LOCO,1,GBM,2911
+25,16,1,0,4.954242509,pilot/full,surface water,UV_training_set,4.360246015452124,LOCO,1,GBM,2911
+26,16,1,0,5.033423755,pilot/full,surface water,UV_training_set,4.061451726117402,LOCO,1,GBM,2911
+28,16,1,0,4.819543936,pilot/full,surface water,UV_training_set,4.245254305170527,LOCO,1,GBM,2911
+30,16,1,0,4.079181246,pilot/full,synthetic surface water,UV_training_set,4.239980129518741,LOCO,1,GBM,2911
+31,16,1,0,4.146128036,pilot/full,surface water,original_test_set,4.035101392501843,LOCO,1,GBM,2911
+32,16,1,0,4.176091259,pilot/full,surface water,original_test_set,4.0681765922140976,LOCO,1,GBM,2911
+34,16,1,0,4.698970004,pilot/full,synthetic surface water,original_test_set,4.408888731750952,LOCO,1,GBM,2911
+35,16,1,0,4.716003344,pilot/full,surface water,UV_training_set,4.176011224243636,LOCO,1,GBM,2911
+36,16,1,0,4.903089987,pilot/full,surface water,UV_training_set,4.2137333804397015,LOCO,1,GBM,2911
+38,16,1,0,4.544068044,pilot/full,synthetic surface water,UV_training_set,4.524356325042859,LOCO,1,GBM,2911
+39,16,1,0,4.662757832,pilot/full,surface water,UV_training_set,4.218067984046037,LOCO,1,GBM,2911
+40,16,1,0,4.806179974,pilot/full,surface water,UV_training_set,4.250124827862478,LOCO,1,GBM,2911
+42,16,1,0,4.832508913,pilot/full,surface water,original_test_set,4.5034921622178015,LOCO,1,GBM,2911
+43,16,1,0,5.071882007,pilot/full,surface water,UV_training_set,4.535549006034242,LOCO,1,GBM,2911
+45,16,1,0,4.973127854,pilot/full,surface water,UV_training_set,4.0762853881619225,LOCO,1,GBM,2911
+48,17,1,0,4.623249290719663,RSSCT,synthetic surface water,UV_training_set,4.472620627417341,LOCO,1,GBM,2911
+49,17,1,0,4.380211241719664,RSSCT,surface water,UV_training_set,4.285323024840088,LOCO,1,GBM,2911
+50,17,1,0,4.799340549719663,RSSCT,surface water,UV_training_set,4.425392616871242,LOCO,1,GBM,2911
+52,16,1,0,4.740362689,pilot/full,synthetic surface water,original_test_set,4.052257781317493,LOCO,1,GBM,2911
+53,17,1,0,4.537819094719662,RSSCT,synthetic surface water,UV_training_set,4.418382206774232,LOCO,1,GBM,2911
+54,17,1,0,4.707570175719662,RSSCT,surface water,UV_training_set,4.164564615320788,LOCO,1,GBM,2911
+55,17,1,0,5.008600171719663,RSSCT,surface water,UV_training_set,4.298535402633221,LOCO,1,GBM,2911
+56,16,1,0,4.812913357,pilot/full,synthetic surface water,UV_training_set,3.931200312837544,LOCO,1,GBM,2911
+57,17,1,0,4.8388490907196635,RSSCT,surface water,UV_training_set,4.369191083555575,LOCO,1,GBM,2911
+58,17,1,0,4.809559714719663,RSSCT,surface water,UV_training_set,4.503813430972237,LOCO,1,GBM,2911
+59,16,1,1,4.681241237,pilot/full,synthetic surface water,original_test_set,4.152200720787274,LOCO,1,GBM,2911
+60,17,1,0,4.892094601719663,RSSCT,surface water,UV_training_set,4.307920659004367,LOCO,1,GBM,2911
+61,17,1,0,4.9956351947196636,RSSCT,surface water,UV_training_set,4.4431570222162255,LOCO,1,GBM,2911
+62,16,1,0,4.903089987,pilot/full,synthetic surface water,UV_training_set,3.948136423014394,LOCO,1,GBM,2911
+63,17,1,0,4.623249290719663,RSSCT,synthetic surface water,UV_training_set,4.364749581012455,LOCO,1,GBM,2911
+64,17,1,0,4.778151250719662,RSSCT,surface water,UV_training_set,3.9724443110861944,LOCO,1,GBM,2911
+65,17,1,0,5.008600171719663,RSSCT,surface water,UV_training_set,4.097493166985396,LOCO,1,GBM,2911
+66,16,1,0,4.342422681,pilot/full,synthetic surface water,UV_training_set,3.8846596923177614,LOCO,1,GBM,2911
+67,17,1,0,4.477121254719663,RSSCT,synthetic surface water,UV_training_set,4.393187742632924,LOCO,1,GBM,2911
+68,17,1,0,4.939519251719663,RSSCT,surface water,UV_training_set,4.197180657714027,LOCO,1,GBM,2911
+69,16,1,0,3.903089987,pilot/full,synthetic surface water,UV_training_set,3.6961590343792756,LOCO,1,GBM,2911
+70,16,1,0,4.544068044,pilot/full,synthetic surface water,UV_training_set,3.896344420984769,LOCO,1,GBM,2911
+71,17,1,0,3.9242792857196624,RSSCT,synthetic surface water,UV_training_set,4.113416951496333,LOCO,1,GBM,2911
+72,17,1,0,3.9542425097196627,RSSCT,surface water,UV_training_set,3.9481905848504293,LOCO,1,GBM,2911
+73,17,1,0,4.255272504719663,RSSCT,surface water,UV_training_set,4.0141766289227965,LOCO,1,GBM,2911
+74,16,1,0,4.579783597,pilot/full,synthetic surface water,UV_training_set,3.928565425871015,LOCO,1,GBM,2911
+75,16,1,0,4.875061263,pilot/full,synthetic surface water,UV_training_set,4.272315845338934,LOCO,1,GBM,2911
+76,17,1,0,4.556302500719663,RSSCT,synthetic surface water,UV_training_set,4.349593578706139,LOCO,1,GBM,2911
+77,17,1,0,4.732393759719662,RSSCT,surface water,UV_training_set,4.152769182630694,LOCO,1,GBM,2911
+78,17,1,0,4.707570175719662,RSSCT,surface water,UV_training_set,4.294280182677858,LOCO,1,GBM,2911
+79,16,1,0,4.875061263,pilot/full,synthetic surface water,UV_training_set,3.620460345827635,LOCO,1,GBM,2911
+80,17,1,0,4.498310553719663,RSSCT,synthetic surface water,UV_training_set,3.921026618425075,LOCO,1,GBM,2911
+81,17,1,0,4.537819094719662,RSSCT,synthetic surface water,UV_training_set,4.472760036204146,LOCO,1,GBM,2911
+82,17,1,0,4.707570175719662,RSSCT,surface water,UV_training_set,4.1967401423478545,LOCO,1,GBM,2911
+83,17,1,0,4.681241237719663,RSSCT,surface water,UV_training_set,4.337651261882279,LOCO,1,GBM,2911
+84,17,1,0,4.857332496719663,RSSCT,synthetic surface water,UV_training_set,3.9080514873329815,LOCO,1,GBM,2911
+85,17,1,0,4.892094601719663,RSSCT,surface water,UV_training_set,4.476818662368496,LOCO,1,GBM,2911
+86,17,1,0,4.799340549719663,RSSCT,surface water,UV_training_set,4.621339784148272,LOCO,1,GBM,2911
+87,17,1,0,4.556302500719663,RSSCT,synthetic surface water,UV_training_set,3.804469186887701,LOCO,1,GBM,2911
+88,17,1,0,4.5185139397196625,RSSCT,synthetic surface water,UV_training_set,4.241119686428104,LOCO,1,GBM,2911
+89,17,1,0,4.755874855719663,RSSCT,surface water,UV_training_set,3.9788172689424917,LOCO,1,GBM,2911
+90,17,1,0,4.9036325157196625,RSSCT,surface water,UV_training_set,4.074778564139752,LOCO,1,GBM,2911
+127,17,1,0,4.892094601719663,RSSCT,synthetic surface water,UV_training_set,3.799868992329834,LOCO,1,GBM,2911
+130,17,1,0,4.819543935719663,RSSCT,synthetic surface water,UV_training_set,4.023538670454223,LOCO,1,GBM,2911
+132,17,1,0,4.968482948719663,RSSCT,synthetic surface water,UV_training_set,3.827148973711303,LOCO,1,GBM,2911
+135,17,1,0,4.431363764719664,RSSCT,synthetic surface water,UV_training_set,3.401252766542367,LOCO,1,GBM,2911
+138,17,1,0,4.380211241719664,RSSCT,synthetic surface water,UV_training_set,3.7679239520059267,LOCO,1,GBM,2911
+140,17,1,0,3.3802112417196626,RSSCT,synthetic surface water,UV_training_set,3.4947057650383835,LOCO,1,GBM,2911
+143,17,1,0,3.819543935719663,RSSCT,synthetic surface water,UV_training_set,3.4804787905593426,LOCO,1,GBM,2911
+178,17,1,0,4.406540180719663,RSSCT,synthetic surface water,UV_training_set,3.762232316498525,LOCO,1,GBM,2911
+183,17,1,0,4.477121254719663,RSSCT,synthetic surface water,UV_training_set,3.7466918798452817,LOCO,1,GBM,2911
+188,17,1,0,4.498310553719663,RSSCT,synthetic surface water,UV_training_set,3.8020328336791533,LOCO,1,GBM,2911
+189,17,1,0,4.732393759719662,RSSCT,synthetic surface water,UV_training_set,3.7884698957509615,LOCO,1,GBM,2911
+194,17,1,0,4.892094601719663,RSSCT,synthetic surface water,UV_training_set,4.1396451885607,LOCO,1,GBM,2911
+198,17,1,0,4.5185139397196625,RSSCT,synthetic surface water,UV_training_set,3.457523036418228,LOCO,1,GBM,2911
+261,57,1,0,4.667763584324365,RSSCT,surface water,UV_training_set,4.280670364699357,LOCO,1,GBM,2911
+262,57,1,0,4.829328066214528,RSSCT,surface water,UV_training_set,4.444741121469673,LOCO,1,GBM,2911
+263,57,1,0,4.786074244992476,RSSCT,surface water,UV_training_set,4.373787555334624,LOCO,1,GBM,2911
+264,57,1,0,4.0275525016927265,RSSCT,surface water,UV_training_set,3.9178367329853505,LOCO,1,GBM,2911
+265,57,1,0,4.727784266790629,RSSCT,surface water,UV_training_set,4.255912019043234,LOCO,1,GBM,2911
+266,57,1,0,4.64861117561938,RSSCT,surface water,UV_training_set,4.260983272491073,LOCO,1,GBM,2911
+267,57,1,0,4.806875401645539,RSSCT,surface water,UV_training_set,4.586806776170945,LOCO,1,GBM,2911
+404,79,1,0,4.359097697,pilot/full,surface water,UV_training_set,3.716414495768317,LOCO,1,GBM,2911
+405,79,1,0,4.417945715,pilot/full,surface water,original_test_set,3.5165240087982177,LOCO,1,GBM,2911
+406,79,1,0,4.3353193,pilot/full,surface water,UV_training_set,3.3438880010370124,LOCO,1,GBM,2911
+407,79,1,0,4.151234192,pilot/full,surface water,UV_training_set,3.2023238170115347,LOCO,1,GBM,2911
+408,79,1,0,4.56089535,pilot/full,surface water,UV_training_set,3.768106689747872,LOCO,1,GBM,2911
+409,79,1,0,4.409104653,pilot/full,surface water,UV_training_set,3.4077566898179876,LOCO,1,GBM,2911
+410,79,1,0,4.288087753,pilot/full,surface water,UV_training_set,3.319732167174428,LOCO,1,GBM,2911
+411,79,1,0,4.527702297,pilot/full,surface water,UV_training_set,3.7845232957969266,LOCO,1,GBM,2911
+412,79,1,0,3.925941507,pilot/full,surface water,UV_training_set,3.0412805631030753,LOCO,1,GBM,2911
+91,19,2,0,3.991428155,pilot/full,groundwater,original_test_set,4.369870449966343,LOCO,2,GBM,2473
+92,19,2,0,4.00593433,pilot/full,groundwater,UV_training_set,4.132363097783785,LOCO,2,GBM,2473
+93,19,2,1,4.052610845,pilot/full,groundwater,original_test_set,4.383638171739677,LOCO,2,GBM,2473
+94,19,2,0,4.152087052,pilot/full,groundwater,original_test_set,4.40167052999677,LOCO,2,GBM,2473
+95,19,2,1,4.081764683,pilot/full,groundwater,original_test_set,4.2001915399830185,LOCO,2,GBM,2473
+96,19,2,1,4.265020376,pilot/full,groundwater,UV_training_set,4.445438264903724,LOCO,2,GBM,2473
+97,19,2,0,4.489747597,pilot/full,groundwater,UV_training_set,4.451154925214484,LOCO,2,GBM,2473
+98,19,2,0,3.911076503,pilot/full,groundwater,UV_training_set,3.6258522051666175,LOCO,2,GBM,2473
+99,19,2,0,4.015218498,pilot/full,groundwater,UV_training_set,3.9695291682887155,LOCO,2,GBM,2473
+100,19,2,0,4.057543453,pilot/full,groundwater,UV_training_set,3.9522211057178818,LOCO,2,GBM,2473
+101,19,2,1,4.112080362,pilot/full,groundwater,original_test_set,4.006216087304232,LOCO,2,GBM,2473
+102,19,2,0,3.979418419,pilot/full,groundwater,UV_training_set,4.235950748976858,LOCO,2,GBM,2473
+103,19,2,0,4.170519464,pilot/full,groundwater,original_test_set,4.414157166945685,LOCO,2,GBM,2473
+104,19,2,0,4.35871685191586,pilot/full,groundwater,UV_training_set,4.408992874457556,LOCO,2,GBM,2473
+105,19,2,0,4.42709088,pilot/full,groundwater,original_test_set,4.400307804209351,LOCO,2,GBM,2473
+106,19,2,0,3.83059812550234,pilot/full,groundwater,UV_training_set,3.831291565729504,LOCO,2,GBM,2473
+107,19,2,0,4.13588952973389,pilot/full,groundwater,UV_training_set,4.10141542084511,LOCO,2,GBM,2473
+108,19,2,0,4.21974497647267,pilot/full,groundwater,original_test_set,4.116899526018417,LOCO,2,GBM,2473
+109,19,2,0,4.367298205,pilot/full,groundwater,UV_training_set,4.023580941310046,LOCO,2,GBM,2473
+110,19,2,0,4.11316232739591,pilot/full,groundwater,original_test_set,4.265615655241053,LOCO,2,GBM,2473
+111,19,2,0,4.295691451,pilot/full,groundwater,UV_training_set,4.509304133514909,LOCO,2,GBM,2473
+112,19,2,1,4.417405214,pilot/full,groundwater,original_test_set,4.4710156232359575,LOCO,2,GBM,2473
+113,19,2,0,4.524329718,pilot/full,groundwater,UV_training_set,4.432157059401867,LOCO,2,GBM,2473
+114,19,2,0,3.892284475,pilot/full,groundwater,UV_training_set,3.4968822493897043,LOCO,2,GBM,2473
+115,19,2,1,3.969678939,pilot/full,groundwater,original_test_set,3.9684929015560617,LOCO,2,GBM,2473
+116,19,2,0,4.01323026,pilot/full,groundwater,UV_training_set,3.9126521285048406,LOCO,2,GBM,2473
+117,19,2,0,4.039207236,pilot/full,groundwater,original_test_set,3.9208522268111876,LOCO,2,GBM,2473
+118,19,2,0,3.929890062,pilot/full,groundwater,original_test_set,4.198437971101124,LOCO,2,GBM,2473
+119,19,2,0,4.071801749,pilot/full,groundwater,UV_training_set,4.395942045295541,LOCO,2,GBM,2473
+120,19,2,0,4.135098175,pilot/full,groundwater,UV_training_set,4.423587152649526,LOCO,2,GBM,2473
+121,19,2,0,4.269788382,pilot/full,groundwater,UV_training_set,4.419924967581576,LOCO,2,GBM,2473
+122,19,2,0,3.894436059,pilot/full,groundwater,UV_training_set,4.14969798911177,LOCO,2,GBM,2473
+123,19,2,0,3.989821267,pilot/full,groundwater,UV_training_set,4.41196533166471,LOCO,2,GBM,2473
+124,19,2,1,4.044957851,pilot/full,groundwater,original_test_set,4.421941068452382,LOCO,2,GBM,2473
+125,19,2,0,4.078606937,pilot/full,groundwater,UV_training_set,4.4433125381101615,LOCO,2,GBM,2473
+126,35,3,0,4.082257857351604,RSSCT,surface water,UV_training_set,3.2866621271412293,LOCO,3,GBM,2998
+128,35,3,0,3.8417139371165363,RSSCT,Treated WW,UV_training_set,3.780152755738378,LOCO,3,GBM,2998
+129,35,3,0,4.146269645694943,RSSCT,surface water,UV_training_set,3.2915717156660467,LOCO,3,GBM,2998
+131,35,3,0,3.2973892495251897,RSSCT,surface water,UV_training_set,2.8676996415067406,LOCO,3,GBM,2998
+133,35,3,0,3.3238960406074782,RSSCT,Treated WW,UV_training_set,3.214594062065322,LOCO,3,GBM,2998
+134,35,3,0,2.9075968696551424,RSSCT,surface water,UV_training_set,2.759755050243385,LOCO,3,GBM,2998
+136,35,3,0,3.4326145365248735,RSSCT,Treated WW,UV_training_set,3.3582931840354,LOCO,3,GBM,2998
+137,35,3,0,3.6166949551202783,RSSCT,surface water,UV_training_set,2.8899834710851158,LOCO,3,GBM,2998
+139,35,3,0,3.222808034284815,RSSCT,surface water,UV_training_set,2.9238178205588956,LOCO,3,GBM,2998
+141,35,3,0,3.5594963191090723,RSSCT,Treated WW,UV_training_set,3.5744627357698775,LOCO,3,GBM,2998
+142,35,3,0,3.2966717063618485,RSSCT,surface water,UV_training_set,3.0576283856515434,LOCO,3,GBM,2998
+203,35,3,0,4.282793051348456,RSSCT,synthetic surface water,UV_training_set,4.51657185984894,LOCO,3,GBM,2998
+208,35,3,0,4.295532992856459,RSSCT,synthetic surface water,UV_training_set,4.510308720296254,LOCO,3,GBM,2998
+213,35,3,0,3.1273405519093753,RSSCT,synthetic surface water,UV_training_set,4.016551259783411,LOCO,3,GBM,2998
+370,35,3,0,2.9155708808820813,RSSCT,synthetic surface water,UV_training_set,3.9630630363501465,LOCO,3,GBM,2998
+376,35,3,0,3.5033211092082235,RSSCT,synthetic surface water,UV_training_set,4.038419778744202,LOCO,3,GBM,2998
+380,35,3,0,3.5817626399151337,RSSCT,synthetic surface water,UV_training_set,3.8685130069720945,LOCO,3,GBM,2998
+384,35,3,0,3.915550176914748,RSSCT,synthetic surface water,UV_training_set,4.259376290708851,LOCO,3,GBM,2998
+144,50,4,0,3.292450705,pilot/full,surface water,original_test_set,4.269869948715855,LOCO,4,GBM,2904
+145,50,4,0,3.608427051,pilot/full,surface water,UV_training_set,4.275008560639006,LOCO,4,GBM,2904
+146,50,4,0,3.60590155,pilot/full,surface water,UV_training_set,3.8336902917535314,LOCO,4,GBM,2904
+147,50,4,0,3.737304101,pilot/full,surface water,original_test_set,3.610245269381519,LOCO,4,GBM,2904
+148,50,4,0,3.738930171,pilot/full,surface water,UV_training_set,3.610245269381519,LOCO,4,GBM,2904
+149,50,4,0,3.653103665,pilot/full,surface water,UV_training_set,4.295920978991049,LOCO,4,GBM,2904
+150,50,4,0,3.699379267,pilot/full,surface water,UV_training_set,4.489695004535114,LOCO,4,GBM,2904
+151,50,4,1,3.876206583,pilot/full,surface water,original_test_set,4.471637267708646,LOCO,4,GBM,2904
+152,50,4,0,3.411371726,pilot/full,surface water,UV_training_set,4.207470525200989,LOCO,4,GBM,2904
+153,50,4,0,3.529133248,pilot/full,surface water,UV_training_set,4.310725496432262,LOCO,4,GBM,2904
+154,50,4,0,3.68169817,pilot/full,surface water,original_test_set,4.279528028011645,LOCO,4,GBM,2904
+155,50,4,0,3.783979294,pilot/full,surface water,UV_training_set,4.310725496432262,LOCO,4,GBM,2904
+156,50,4,1,4.154293485,pilot/full,surface water,original_test_set,4.588098594446292,LOCO,4,GBM,2904
+157,50,4,0,4.164579409,pilot/full,surface water,UV_training_set,4.637981022782619,LOCO,4,GBM,2904
+158,50,4,0,2.973747188,pilot/full,surface water,original_test_set,3.5441695609222683,LOCO,4,GBM,2904
+159,50,4,0,3.424876094,pilot/full,surface water,UV_training_set,3.427477280809199,LOCO,4,GBM,2904
+160,50,4,0,3.567310642,pilot/full,surface water,UV_training_set,3.571044702360379,LOCO,4,GBM,2904
+161,50,4,0,3.686039729,pilot/full,surface water,UV_training_set,3.427477280809199,LOCO,4,GBM,2904
+162,50,4,0,3.629959128,pilot/full,surface water,UV_training_set,3.8656409129026565,LOCO,4,GBM,2904
+163,50,4,1,3.721238623,pilot/full,surface water,original_test_set,3.9664596151373663,LOCO,4,GBM,2904
+164,50,4,0,3.751816947,pilot/full,surface water,UV_training_set,4.025750630988482,LOCO,4,GBM,2904
+165,50,4,0,3.853247311,pilot/full,surface water,UV_training_set,3.8656409129026565,LOCO,4,GBM,2904
+166,50,4,0,3.892875675,pilot/full,surface water,UV_training_set,4.0964241553005065,LOCO,4,GBM,2904
+167,50,4,1,3.924686625,pilot/full,surface water,original_test_set,4.094641178005648,LOCO,4,GBM,2904
+168,50,4,0,4.151750371,pilot/full,surface water,UV_training_set,4.0412586024155965,LOCO,4,GBM,2904
+169,50,4,1,4.19188477,pilot/full,surface water,original_test_set,4.080049520793369,LOCO,4,GBM,2904
+170,50,4,0,3.645470885,pilot/full,surface water,UV_training_set,4.479051789366987,LOCO,4,GBM,2904
+171,50,4,0,3.861379095,pilot/full,surface water,UV_training_set,4.253316203439438,LOCO,4,GBM,2904
+172,50,4,1,3.93050939,pilot/full,surface water,original_test_set,4.4161714816802515,LOCO,4,GBM,2904
+173,50,4,0,4.16702996,pilot/full,surface water,UV_training_set,4.669685546730801,LOCO,4,GBM,2904
+174,50,4,0,3.154638695,pilot/full,surface water,UV_training_set,4.217037381915728,LOCO,4,GBM,2904
+175,50,4,0,3.460112747,pilot/full,surface water,UV_training_set,4.191444902227729,LOCO,4,GBM,2904
+176,50,4,0,3.630357692,pilot/full,surface water,UV_training_set,4.305824351406856,LOCO,4,GBM,2904
+177,50,4,0,3.699044809,pilot/full,surface water,UV_training_set,4.191444902227729,LOCO,4,GBM,2904
+27,51,5,0,4.1583624917196635,RSSCT,surface water,UV_training_set,4.2491082887532325,LOCO,5,GBM,2982
+29,51,5,0,4.068185861719663,RSSCT,surface water,UV_training_set,4.16101232912986,LOCO,5,GBM,2982
+33,51,5,0,4.468347330719663,RSSCT,surface water,UV_training_set,4.395103003124686,LOCO,5,GBM,2982
+37,51,5,0,4.045322978719662,RSSCT,surface water,UV_training_set,4.136534397936519,LOCO,5,GBM,2982
+41,51,5,0,4.110589710719663,RSSCT,surface water,UV_training_set,3.9542002636250424,LOCO,5,GBM,2982
+44,51,5,0,3.556302500719663,RSSCT,surface water,UV_training_set,3.4210748088891245,LOCO,5,GBM,2982
+46,51,5,0,4.120573930719663,RSSCT,surface water,UV_training_set,4.216592362806546,LOCO,5,GBM,2982
+47,51,5,0,4.068185861719663,RSSCT,surface water,UV_training_set,4.260258667079654,LOCO,5,GBM,2982
+51,51,5,0,3.819543935719663,RSSCT,surface water,UV_training_set,3.9846592128170513,LOCO,5,GBM,2982
+179,51,5,0,4.406540180719663,RSSCT,surface water,UV_training_set,4.569964707211093,LOCO,5,GBM,2982
+180,51,5,0,4.450249108719663,RSSCT,surface water,UV_training_set,4.573216060703384,LOCO,5,GBM,2982
+181,51,5,0,4.468347330719663,RSSCT,surface water,UV_training_set,4.438505776950797,LOCO,5,GBM,2982
+182,51,5,0,4.374748345719663,RSSCT,surface water,UV_training_set,4.559268810090444,LOCO,5,GBM,2982
+184,51,5,0,4.396199346719663,RSSCT,surface water,UV_training_set,4.479987378965297,LOCO,5,GBM,2982
+185,51,5,0,4.390935106719663,RSSCT,surface water,UV_training_set,4.509111611221484,LOCO,5,GBM,2982
+186,51,5,0,4.545307115719663,RSSCT,surface water,UV_training_set,4.383087703067531,LOCO,5,GBM,2982
+187,51,5,0,4.3031960567196625,RSSCT,surface water,UV_training_set,4.481740192656333,LOCO,5,GBM,2982
+190,51,5,0,4.385606273719663,RSSCT,surface water,UV_training_set,4.641178867450381,LOCO,5,GBM,2982
+191,51,5,0,4.411619705719662,RSSCT,surface water,UV_training_set,4.637867062904405,LOCO,5,GBM,2982
+192,51,5,0,4.352182518719663,RSSCT,surface water,UV_training_set,4.334441245625095,LOCO,5,GBM,2982
+193,51,5,0,4.309630166719662,RSSCT,surface water,UV_training_set,4.637648631734722,LOCO,5,GBM,2982
+195,51,5,0,4.468347330719663,RSSCT,surface water,UV_training_set,4.416639723800848,LOCO,5,GBM,2982
+196,51,5,0,4.545307115719663,RSSCT,surface water,UV_training_set,4.156790075541581,LOCO,5,GBM,2982
+197,51,5,0,4.401400540719663,RSSCT,surface water,UV_training_set,4.459827714041296,LOCO,5,GBM,2982
+199,51,5,0,3.7781512507196626,RSSCT,surface water,UV_training_set,3.9531729160826172,LOCO,5,GBM,2982
+200,51,5,0,3.819543935719663,RSSCT,surface water,UV_training_set,4.035624859089762,LOCO,5,GBM,2982
+201,51,5,0,3.7781512507196626,RSSCT,surface water,UV_training_set,3.619322718899218,LOCO,5,GBM,2982
+202,51,5,0,3.7993405497196626,RSSCT,surface water,UV_training_set,4.002275552728469,LOCO,5,GBM,2982
+204,51,5,0,4.374748345719663,RSSCT,surface water,UV_training_set,4.5757161729390115,LOCO,5,GBM,2982
+205,51,5,0,4.454844859719664,RSSCT,surface water,UV_training_set,4.624085451376617,LOCO,5,GBM,2982
+206,51,5,0,4.363611979719662,RSSCT,surface water,UV_training_set,4.437627680457549,LOCO,5,GBM,2982
+207,51,5,0,4.352182518719663,RSSCT,surface water,UV_training_set,4.5950607477175955,LOCO,5,GBM,2982
+209,51,5,0,4.340444114719663,RSSCT,surface water,UV_training_set,4.554611010632071,LOCO,5,GBM,2982
+210,51,5,0,4.406540180719663,RSSCT,surface water,UV_training_set,4.552441387990619,LOCO,5,GBM,2982
+211,51,5,0,4.522444233719662,RSSCT,surface water,UV_training_set,4.462543428339944,LOCO,5,GBM,2982
+212,51,5,0,4.334453750719662,RSSCT,surface water,UV_training_set,4.524972989363307,LOCO,5,GBM,2982
+214,51,5,0,4.1846914307196625,RSSCT,surface water,UV_training_set,4.420307612284613,LOCO,5,GBM,2982
+215,51,5,0,4.139879085719663,RSSCT,surface water,UV_training_set,4.378670139357929,LOCO,5,GBM,2982
+216,51,5,0,4.1846914307196625,RSSCT,surface water,UV_training_set,4.123862739561796,LOCO,5,GBM,2982
+217,51,5,0,4.139879085719663,RSSCT,surface water,UV_training_set,4.358705033202954,LOCO,5,GBM,2982
+12,78,6,0,3.460296326719663,RSSCT,groundwater,UV_training_set,4.075838469169866,LOCO,6,GBM,2805
+16,78,6,0,3.561697532719663,RSSCT,groundwater,UV_training_set,3.721729199052665,LOCO,6,GBM,2805
+19,78,6,0,4.0346284567196635,RSSCT,groundwater,UV_training_set,3.7327743860245697,LOCO,6,GBM,2805
+23,78,6,0,4.0346284567196635,RSSCT,groundwater,UV_training_set,4.08562753759528,LOCO,6,GBM,2805
+218,52,6,0,3.3802112417196626,RSSCT,groundwater,UV_training_set,4.033066384681501,LOCO,6,GBM,2805
+219,52,6,0,3.6074550237196625,RSSCT,groundwater,UV_training_set,4.376724375526141,LOCO,6,GBM,2805
+220,52,6,0,3.6074550237196625,RSSCT,groundwater,UV_training_set,4.376724375526141,LOCO,6,GBM,2805
+221,52,6,0,3.6201360547196635,RSSCT,groundwater,UV_training_set,4.033066384681501,LOCO,6,GBM,2805
+222,52,6,0,3.6384892567196623,RSSCT,groundwater,UV_training_set,4.033066384681501,LOCO,6,GBM,2805
+223,52,6,0,3.6812412367196625,RSSCT,groundwater,UV_training_set,4.000983770375946,LOCO,6,GBM,2805
+224,52,6,0,3.6946051987196626,RSSCT,synthetic surface water,UV_training_set,3.9877796326374138,LOCO,6,GBM,2805
+225,52,6,0,3.7419390787196622,RSSCT,groundwater,UV_training_set,4.321305951624658,LOCO,6,GBM,2805
+226,52,6,0,3.7824726247196634,RSSCT,synthetic surface water,UV_training_set,3.892354603044903,LOCO,6,GBM,2805
+227,52,6,0,3.715167358719663,RSSCT,groundwater,UV_training_set,4.308212799397465,LOCO,6,GBM,2805
+228,52,6,0,3.7419390777196626,RSSCT,groundwater,UV_training_set,4.055322383926613,LOCO,6,GBM,2805
+229,52,6,0,3.8075350287196628,RSSCT,groundwater,UV_training_set,3.966717381994759,LOCO,6,GBM,2805
+230,52,6,0,3.8293037727196633,RSSCT,groundwater,UV_training_set,4.398980374771251,LOCO,6,GBM,2805
+231,52,6,0,3.6972293437196626,RSSCT,groundwater,UV_training_set,3.891159890252921,LOCO,6,GBM,2805
+232,52,6,0,3.705007959719663,RSSCT,groundwater,UV_training_set,3.9722934741291334,LOCO,6,GBM,2805
+233,52,6,0,3.587335983719663,RSSCT,groundwater,UV_training_set,4.4629062488258215,LOCO,6,GBM,2805
+234,52,6,0,3.600972895719663,RSSCT,groundwater,UV_training_set,4.4629062488258215,LOCO,6,GBM,2805
+235,52,6,0,3.613841821719663,RSSCT,groundwater,UV_training_set,4.1246656229407295,LOCO,6,GBM,2805
+236,52,6,0,3.724043467719663,RSSCT,groundwater,UV_training_set,4.4629062488258215,LOCO,6,GBM,2805
+237,52,6,0,3.791894066719663,RSSCT,groundwater,UV_training_set,4.1246656229407295,LOCO,6,GBM,2805
+238,52,6,0,3.805847339719662,RSSCT,groundwater,UV_training_set,4.4629062488258215,LOCO,6,GBM,2805
+239,52,6,0,3.8444771757196627,RSSCT,groundwater,UV_training_set,4.406850116358869,LOCO,6,GBM,2805
+240,52,6,0,3.866287339719663,RSSCT,groundwater,UV_training_set,3.9444078505007445,LOCO,6,GBM,2805
+241,52,6,0,3.8715729357196627,RSSCT,groundwater,UV_training_set,4.091945300069704,LOCO,6,GBM,2805
+242,52,6,0,3.898725181719662,RSSCT,groundwater,UV_training_set,4.213759467970558,LOCO,6,GBM,2805
+243,52,6,0,3.7176705037196625,RSSCT,deionized water,UV_training_set,3.987590845114027,LOCO,6,GBM,2805
+244,52,6,0,3.720159303719663,RSSCT,deionized water,UV_training_set,4.264681229508764,LOCO,6,GBM,2805
+245,52,6,0,3.927370363719662,RSSCT,deionized water,UV_training_set,4.401346665296356,LOCO,6,GBM,2805
+246,52,6,0,3.9585638837196626,RSSCT,deionized water,UV_training_set,4.064364130509493,LOCO,6,GBM,2805
+247,52,6,0,4.197280558719663,RSSCT,groundwater,UV_training_set,3.8733523270492087,LOCO,6,GBM,2805
+248,52,6,0,4.267406418719664,RSSCT,groundwater,UV_training_set,4.217876242557522,LOCO,6,GBM,2805
+249,52,6,0,3.4243098207196625,RSSCT,groundwater,UV_training_set,3.3186142800636382,LOCO,6,GBM,2805
+250,52,6,0,3.491557781719663,RSSCT,groundwater,UV_training_set,3.483199227165811,LOCO,6,GBM,2805
+251,52,6,0,4.2545335757196625,RSSCT,groundwater,UV_training_set,4.251044008290942,LOCO,6,GBM,2805
+252,52,6,0,4.436391664719663,RSSCT,groundwater,UV_training_set,4.20145468861943,LOCO,6,GBM,2805
+253,52,6,0,4.059502831719662,RSSCT,groundwater,UV_training_set,4.051554930481349,LOCO,6,GBM,2805
+254,52,6,0,4.1660924947196625,RSSCT,groundwater,UV_training_set,4.134673224182784,LOCO,6,GBM,2805
+255,52,6,0,4.382290868719664,RSSCT,groundwater,UV_training_set,4.392815323207887,LOCO,6,GBM,2805
+256,52,6,0,4.440228784719663,RSSCT,groundwater,UV_training_set,4.347368639229165,LOCO,6,GBM,2805
+257,52,6,0,4.107335489719663,RSSCT,groundwater,UV_training_set,4.136483126114013,LOCO,6,GBM,2805
+258,52,6,0,4.3162220367196635,RSSCT,groundwater,UV_training_set,4.279709880538005,LOCO,6,GBM,2805
+259,52,6,0,4.411962965719662,RSSCT,groundwater,UV_training_set,4.25101464093634,LOCO,6,GBM,2805
+260,52,6,0,4.469316763719663,RSSCT,groundwater,UV_training_set,4.371454284303435,LOCO,6,GBM,2805
+268,58,6,0,3.707570176,pilot/full,groundwater,original_test_set,3.7197468722403593,LOCO,6,GBM,2805
+269,58,6,0,4.492760389,pilot/full,groundwater,UV_training_set,4.281597312968449,LOCO,6,GBM,2805
+270,58,6,0,4.506505032,pilot/full,groundwater,UV_training_set,4.4549528310846895,LOCO,6,GBM,2805
+271,58,6,0,4.807535028068854,pilot/full,groundwater,UV_training_set,4.5817679212076525,LOCO,6,GBM,2805
+272,58,6,0,4.522444234,pilot/full,groundwater,UV_training_set,4.078799435125334,LOCO,6,GBM,2805
+330,62,6,0,3.6894402907196633,RSSCT,groundwater,UV_training_set,4.418268976038268,LOCO,6,GBM,2805
+331,62,6,0,3.696966317719663,RSSCT,groundwater,UV_training_set,4.418268976038268,LOCO,6,GBM,2805
+332,62,6,0,4.352852728719663,RSSCT,groundwater,UV_training_set,4.446299262058238,LOCO,6,GBM,2805
+333,62,6,0,4.399940156719663,RSSCT,groundwater,UV_training_set,4.100233297960507,LOCO,6,GBM,2805
+334,62,6,0,3.6240059737196626,RSSCT,groundwater,UV_training_set,4.376724375526141,LOCO,6,GBM,2805
+335,62,6,0,3.6440658367196628,RSSCT,groundwater,UV_training_set,4.033066384681501,LOCO,6,GBM,2805
+336,62,6,0,3.7659049477196627,RSSCT,groundwater,UV_training_set,4.075393340378631,LOCO,6,GBM,2805
+337,62,6,0,3.768299233719663,RSSCT,groundwater,UV_training_set,4.1246656229407295,LOCO,6,GBM,2805
+338,62,6,0,3.784566780719663,RSSCT,groundwater,UV_training_set,4.4629062488258215,LOCO,6,GBM,2805
+339,62,6,0,4.2342107737196635,RSSCT,groundwater,UV_training_set,4.077898219617967,LOCO,6,GBM,2805
+340,62,6,0,4.242507163719663,RSSCT,groundwater,UV_training_set,4.423539757768972,LOCO,6,GBM,2805
+341,62,6,0,4.476772334719662,RSSCT,groundwater,UV_training_set,4.443016125850965,LOCO,6,GBM,2805
+342,62,6,0,4.511702599719663,RSSCT,groundwater,UV_training_set,4.096950161753231,LOCO,6,GBM,2805
+343,62,6,0,4.3454669877196626,RSSCT,groundwater,UV_training_set,4.419607072453025,LOCO,6,GBM,2805
+344,62,6,0,4.427396235719662,RSSCT,groundwater,UV_training_set,4.0718434910918555,LOCO,6,GBM,2805
+345,62,6,0,4.928867272719662,RSSCT,groundwater,UV_training_set,4.336218521204384,LOCO,6,GBM,2805
+346,62,6,0,4.984121839719664,RSSCT,groundwater,UV_training_set,3.9880305138965007,LOCO,6,GBM,2805
+347,62,6,0,4.633247431719663,RSSCT,groundwater,UV_training_set,4.419245466440379,LOCO,6,GBM,2805
+348,62,6,0,4.717869310719663,RSSCT,groundwater,UV_training_set,4.071481885079213,LOCO,6,GBM,2805
+387,78,6,0,3.217483943719663,RSSCT,groundwater,UV_training_set,3.8229978029591822,LOCO,6,GBM,2805
+388,78,6,0,3.265996370719663,RSSCT,groundwater,UV_training_set,4.172668526406651,LOCO,6,GBM,2805
+389,78,6,0,3.5930644317196627,RSSCT,groundwater,UV_training_set,4.348319315420936,LOCO,6,GBM,2805
+390,78,6,0,3.667452952719662,RSSCT,groundwater,UV_training_set,4.004661324576296,LOCO,6,GBM,2805
+391,78,6,0,3.927293353719663,RSSCT,groundwater,UV_training_set,4.004661324576296,LOCO,6,GBM,2805
+392,78,6,0,3.9933921377196624,RSSCT,groundwater,UV_training_set,4.004661324576296,LOCO,6,GBM,2805
+395,78,6,0,3.767155865719663,RSSCT,groundwater,UV_training_set,3.8256825361433995,LOCO,6,GBM,2805
+396,78,6,0,3.7888751157196627,RSSCT,groundwater,UV_training_set,4.174097141044379,LOCO,6,GBM,2805
+397,78,6,0,4.051731195719663,RSSCT,groundwater,UV_training_set,4.357102864426696,LOCO,6,GBM,2805
+398,78,6,0,4.096631975719663,RSSCT,groundwater,UV_training_set,4.01470099212855,LOCO,6,GBM,2805
+399,78,6,0,4.2938264387196625,RSSCT,groundwater,UV_training_set,4.01470099212855,LOCO,6,GBM,2805
+400,78,6,0,4.2940912927196635,RSSCT,groundwater,UV_training_set,4.01470099212855,LOCO,6,GBM,2805
+401,78,6,0,4.410810963719664,RSSCT,groundwater,UV_training_set,4.379319089860507,LOCO,6,GBM,2805
+402,78,6,0,4.516614689719662,RSSCT,groundwater,UV_training_set,4.036492791615634,LOCO,6,GBM,2805
+403,78,6,0,4.5317343097196625,RSSCT,groundwater,UV_training_set,4.036492791615634,LOCO,6,GBM,2805
+273,59,7,0,3.918904084015689,RSSCT,surface water,UV_training_set,4.09518516167329,LOCO,7,GBM,1300
+274,59,7,0,3.7533233638106527,RSSCT,surface water,UV_training_set,3.893138622774859,LOCO,7,GBM,1300
+275,60,8,0,4.364584715,pilot/full,surface water,original_test_set,4.579619491050044,LOCO,8,GBM,2835
+276,60,8,0,4.541520789719662,RSSCT,surface water,UV_training_set,4.395159443905538,LOCO,8,GBM,2835
+277,60,8,0,2.8026600057196625,RSSCT,surface water,UV_training_set,4.65305770986551,LOCO,8,GBM,2835
+278,60,8,0,3.2383290407196625,RSSCT,surface water,UV_training_set,4.65305770986551,LOCO,8,GBM,2835
+279,60,8,0,3.3320432487196627,RSSCT,surface water,UV_training_set,4.65305770986551,LOCO,8,GBM,2835
+280,60,8,0,3.960774872719663,RSSCT,surface water,UV_training_set,4.617591106522765,LOCO,8,GBM,2835
+281,60,8,0,4.044312793719663,RSSCT,surface water,UV_training_set,4.617591106522765,LOCO,8,GBM,2835
+282,60,8,0,4.096642543719662,RSSCT,surface water,UV_training_set,4.610578646709587,LOCO,8,GBM,2835
+283,60,8,0,4.261138232,pilot/full,surface water,original_test_set,4.454595629261925,LOCO,8,GBM,2835
+284,60,8,0,4.397997971719662,RSSCT,surface water,UV_training_set,4.309311130511387,LOCO,8,GBM,2835
+285,60,8,0,4.494364806,pilot/full,surface water,UV_training_set,4.509238638545532,LOCO,8,GBM,2835
+286,60,8,0,4.689288570719663,RSSCT,surface water,UV_training_set,4.2463087604840295,LOCO,8,GBM,2835
+287,60,8,0,3.879743834,pilot/full,surface water,original_test_set,4.411901630372297,LOCO,8,GBM,2835
+288,60,8,0,4.151700610814557,RSSCT,surface water,UV_training_set,4.110164447965419,LOCO,8,GBM,2835
+289,60,8,0,3.5553293437196634,RSSCT,surface water,UV_training_set,3.929204862541673,LOCO,8,GBM,2835
+290,61,9,0,3.4983415176107067,RSSCT,groundwater,UV_training_set,4.271461157754734,LOCO,9,GBM,2979
+291,61,9,0,3.6068466653838667,RSSCT,groundwater,UV_training_set,4.271461157754734,LOCO,9,GBM,2979
+292,61,9,0,3.792819867839429,RSSCT,groundwater,UV_training_set,4.190360393434014,LOCO,9,GBM,2979
+293,61,9,0,3.842784559436661,RSSCT,groundwater,UV_training_set,4.272880430727689,LOCO,9,GBM,2979
+294,61,9,0,3.596083633354088,RSSCT,groundwater,UV_training_set,4.222919885695625,LOCO,9,GBM,2979
+295,61,9,0,3.86352005296353,RSSCT,groundwater,UV_training_set,4.3054399229893,LOCO,9,GBM,2979
+296,61,9,0,3.9245705544122775,RSSCT,groundwater,UV_training_set,4.3054399229893,LOCO,9,GBM,2979
+297,61,9,0,4.402911792837681,RSSCT,groundwater,UV_training_set,4.87442696724845,LOCO,9,GBM,2979
+298,61,9,0,4.683977372086776,RSSCT,groundwater,UV_training_set,4.821608065606745,LOCO,9,GBM,2979
+299,61,9,0,4.698117664523137,RSSCT,groundwater,UV_training_set,4.747718900736477,LOCO,9,GBM,2979
+300,61,9,0,4.703944592732077,RSSCT,groundwater,UV_training_set,4.821608065606745,LOCO,9,GBM,2979
+301,61,9,0,4.727870395956745,RSSCT,groundwater,UV_training_set,5.0443855341661,LOCO,9,GBM,2979
+302,61,9,0,4.74658849926776,RSSCT,groundwater,UV_training_set,5.039235755540344,LOCO,9,GBM,2979
+303,61,9,0,4.419703975733719,RSSCT,groundwater,UV_training_set,4.884411201943067,LOCO,9,GBM,2979
+304,61,9,0,4.567186159684093,RSSCT,groundwater,UV_training_set,4.62632492617403,LOCO,9,GBM,2979
+305,61,9,0,4.59000233821602,RSSCT,groundwater,UV_training_set,4.542211657474304,LOCO,9,GBM,2979
+306,61,9,0,4.63977181104172,RSSCT,groundwater,UV_training_set,4.661528195360846,LOCO,9,GBM,2979
+307,61,9,0,4.73772457082064,RSSCT,groundwater,UV_training_set,4.916703008711231,LOCO,9,GBM,2979
+308,61,9,0,4.302872682150407,RSSCT,groundwater,UV_training_set,4.617702663281919,LOCO,9,GBM,2979
+309,61,9,0,4.396716572977674,RSSCT,groundwater,UV_training_set,4.617702663281919,LOCO,9,GBM,2979
+310,61,9,0,4.455441228733655,RSSCT,groundwater,UV_training_set,4.554685242855177,LOCO,9,GBM,2979
+311,61,9,0,4.595261296451675,RSSCT,groundwater,UV_training_set,4.639354356407571,LOCO,9,GBM,2979
+312,61,9,0,4.46632296425386,RSSCT,groundwater,UV_training_set,4.535131214645875,LOCO,9,GBM,2979
+313,61,9,0,4.473475586067429,RSSCT,groundwater,UV_training_set,4.273665346795022,LOCO,9,GBM,2979
+314,61,9,0,4.5699069782900805,RSSCT,groundwater,UV_training_set,4.526028663318573,LOCO,9,GBM,2979
+315,61,9,0,4.648593554199511,RSSCT,groundwater,UV_training_set,4.640642017142601,LOCO,9,GBM,2979
+316,61,9,0,4.522694967753341,RSSCT,groundwater,UV_training_set,4.9391214139102715,LOCO,9,GBM,2979
+317,61,9,0,4.6867421670696805,RSSCT,groundwater,UV_training_set,4.67914656697748,LOCO,9,GBM,2979
+318,61,9,0,4.707437825605094,RSSCT,groundwater,UV_training_set,4.7262806000258415,LOCO,9,GBM,2979
+319,61,9,0,4.722255117032484,RSSCT,groundwater,UV_training_set,4.671394192262546,LOCO,9,GBM,2979
+320,61,9,0,4.749173855985667,RSSCT,groundwater,UV_training_set,4.969992250411303,LOCO,9,GBM,2979
+321,61,9,0,4.750822513372734,RSSCT,groundwater,UV_training_set,4.969217859771494,LOCO,9,GBM,2979
+322,61,9,0,4.755468741637959,RSSCT,groundwater,UV_training_set,4.880109168664158,LOCO,9,GBM,2979
+323,61,9,0,4.76247972178547,RSSCT,groundwater,UV_training_set,5.167370932984993,LOCO,9,GBM,2979
+324,61,9,0,4.7787622325012,RSSCT,groundwater,UV_training_set,5.1618122646615525,LOCO,9,GBM,2979
+325,61,9,0,4.80556616240622,RSSCT,groundwater,UV_training_set,5.072692403021521,LOCO,9,GBM,2979
+326,61,9,0,4.098540607876411,RSSCT,groundwater,UV_training_set,4.430575571207922,LOCO,9,GBM,2979
+327,61,9,0,4.180971448865605,RSSCT,groundwater,UV_training_set,4.430575571207922,LOCO,9,GBM,2979
+328,61,9,0,4.203704480546643,RSSCT,groundwater,UV_training_set,4.354759842868212,LOCO,9,GBM,2979
+329,61,9,0,4.405063530481639,RSSCT,groundwater,UV_training_set,4.434814110780384,LOCO,9,GBM,2979
+349,69,10,0,4.799916809405545,RSSCT,groundwater,UV_training_set,4.360338029853749,LOCO,10,GBM,2635
+350,69,10,0,3.919113937911389,RSSCT,groundwater,UV_training_set,4.433960057474043,LOCO,10,GBM,2635
+351,69,10,0,4.646201611154577,RSSCT,groundwater,UV_training_set,4.418024157726525,LOCO,10,GBM,2635
+352,69,10,0,4.741085250984216,RSSCT,groundwater,UV_training_set,4.411433290679151,LOCO,10,GBM,2635
+353,69,10,0,4.666369612623108,RSSCT,groundwater,UV_training_set,4.262845544816194,LOCO,10,GBM,2635
+354,69,10,0,4.921678729257379,RSSCT,groundwater,UV_training_set,4.393428234214807,LOCO,10,GBM,2635
+355,69,10,0,4.38191535131012,RSSCT,groundwater,UV_training_set,4.231798573667088,LOCO,10,GBM,2635
+356,69,10,0,4.823122230767952,RSSCT,groundwater,UV_training_set,4.334677727531699,LOCO,10,GBM,2635
+357,69,10,0,4.8310509222249145,RSSCT,groundwater,UV_training_set,4.282950643532793,LOCO,10,GBM,2635
+358,69,10,0,4.6887298004043965,RSSCT,groundwater,UV_training_set,4.40309592940082,LOCO,10,GBM,2635
+359,69,10,0,4.8414011268176225,RSSCT,groundwater,UV_training_set,4.397475946720368,LOCO,10,GBM,2635
+360,69,10,0,3.9756592973296243,RSSCT,groundwater,UV_training_set,4.4583812928103335,LOCO,10,GBM,2635
+361,69,10,0,4.68558307615598,RSSCT,groundwater,UV_training_set,4.4557314828563035,LOCO,10,GBM,2635
+362,69,10,0,4.709373099264723,RSSCT,groundwater,UV_training_set,4.347745206683071,LOCO,10,GBM,2635
+363,69,10,0,4.927323895184095,RSSCT,groundwater,UV_training_set,4.425284355418641,LOCO,10,GBM,2635
+364,69,10,0,4.298777221872966,RSSCT,groundwater,UV_training_set,4.250942911359734,LOCO,10,GBM,2635
+365,69,10,0,4.782673512288013,RSSCT,groundwater,UV_training_set,4.387621368622519,LOCO,10,GBM,2635
+366,69,10,0,4.868282321117463,RSSCT,groundwater,UV_training_set,4.369176823902019,LOCO,10,GBM,2635
+367,77,11,0,4.049126196941958,RSSCT,Treated WW,UV_training_set,3.865250621758888,LOCO,11,GBM,2331
+368,77,11,0,3.783280033170322,RSSCT,Treated WW,UV_training_set,3.890537451417793,LOCO,11,GBM,2331
+369,77,11,0,3.2227834879566206,RSSCT,Treated WW,UV_training_set,3.8360822850210834,LOCO,11,GBM,2331
+371,77,11,0,4.390298897656521,RSSCT,Treated WW,UV_training_set,4.000314649100648,LOCO,11,GBM,2331
+372,77,11,0,4.353037257968136,RSSCT,Treated WW,UV_training_set,3.9416607484046278,LOCO,11,GBM,2331
+373,77,11,0,3.6860414330609004,RSSCT,Treated WW,UV_training_set,3.8782756551800492,LOCO,11,GBM,2331
+374,77,11,0,3.263472395921375,RSSCT,Treated WW,UV_training_set,3.156106733808817,LOCO,11,GBM,2331
+375,77,11,0,2.7048633766482144,RSSCT,Treated WW,UV_training_set,3.0995425148468523,LOCO,11,GBM,2331
+377,77,11,0,3.7376787573044763,RSSCT,Treated WW,UV_training_set,3.414066624622191,LOCO,11,GBM,2331
+378,77,11,0,3.069999727906512,RSSCT,Treated WW,UV_training_set,3.4984746065884833,LOCO,11,GBM,2331
+379,77,11,0,2.9252895866094137,RSSCT,Treated WW,UV_training_set,3.431986053292662,LOCO,11,GBM,2331
+381,77,11,0,3.6996001884863365,RSSCT,Treated WW,UV_training_set,3.5438723459821144,LOCO,11,GBM,2331
+382,77,11,0,3.448329752814807,RSSCT,Treated WW,UV_training_set,3.539128217809997,LOCO,11,GBM,2331
+383,77,11,0,3.334618921061572,RSSCT,Treated WW,UV_training_set,3.482014640504921,LOCO,11,GBM,2331
+385,77,11,0,3.9670724811380977,RSSCT,Treated WW,UV_training_set,4.216766874376514,LOCO,11,GBM,2331
+386,77,11,0,3.448329752814807,RSSCT,Treated WW,UV_training_set,3.2686927471746934,LOCO,11,GBM,2331
+393,77,11,0,3.5932441454272857,RSSCT,Treated WW,UV_training_set,3.612460958515798,LOCO,11,GBM,2331
+394,77,11,0,3.5932441454272857,RSSCT,Treated WW,UV_training_set,3.9135347473989137,LOCO,11,GBM,2331
